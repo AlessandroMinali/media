@@ -1,0 +1,167 @@
+Linear Algebra Done Right
+Blindsight
+Star Maker
+The Rings of Saturn
+Slaughterhouse 5
+Fahrenheit 451
+No Longer Human
+Moby Dick
+Atlas Shrugged
+
+100 Decisive Battles: From Ancient Times to the Present
+1984
+1Q84
+99 Bottles of OOP
+A Brief History of Time
+A Gentlement in Moscow
+A Scanner Darkly
+Aesop's Fables
+Alice's Adventures in Wonderland
+American Psycho
+Anathem
+Axiomatic
+Babel-17
+Beowulf
+Beyond Good & Evil
+Black Book of Graphics Programming
+Brief Interviews with Hideous Men
+Calculus, Vol. 1: One-Variable Calculus, with an Introduction to Linear Algebra
+Cat's Cradle
+Catch-22
+Celestial Emporium of Benevolent Knowledge
+Children of Dune
+Cloud Atlas
+Computer Architecture: A Quantitative Approach
+Computer Organization and Design RISC-V Edition: The Hardware Software Interface
+Consciousness Explained
+creativity by John Cleese
+Crime and punishment
+Cryptonomicon
+Cyberiad
+Debt: The first 5000 years
+Do Androids Dream of Electric Sheep
+Dune Messiah
+East of Eden
+Elbow Room
+Exhalation
+Ficciones
+FlatLand
+Flowers for Algernon
+Frankenstein; or, The Modern Prometheus
+From Bacteria to Bach and Back
+Game Engine Black Book: DOOM
+Game Engine Black Book: Wolfenstein 3D
+Gardens of the Moon
+Graphics Gems
+Gravity's Rainbow
+Gulliver's Travels
+Hacker's Delight
+Hacking, 2nd Edition
+House of Leaves
+How to Blow Up a Pipeline
+How to Lie with Statistics
+How Not to Die
+HyperComplex Numbers: An Elementary Introduction to Algebras
+If on a Winter's Night a Traveler
+Iliad
+Infinite Jest
+Into the Wild
+Invisible Cities
+Isaac Asimov: The Complete Story Vi
+It Can't Happen Here
+Last and First Men
+Learn Functional Programming with Elixir
+Leaves of Grass
+Letters to a Young Poet
+Life of Johnson
+Literate Programming
+Lolita
+Lord of the Flies
+Man's Search for Meaning
+Mastering Algorithms with C
+Meditations by Marcus Aurelius
+Meditations on First Philosophy
+Modern Processor Design: Fundamentals of Superscalar Processors
+Nausicaä Of The Valley Of The Wind Box Set
+Neuromancer
+Odyssey
+Oliver Byrne: The First Six Books of the Elements of Euclid 
+One Hundred Years of Solitude
+Opening Theory Made Easy: Twenty Strategic Principles to Improve Your Opening Game
+Overcoming Gravity: A Systematic Approach to Gymnastics and Bodyweight Strength
+Permutation City
+Performance Analysis and Tuning on Modern CPUs
+Philosophical Investigations
+Physically Based Rendering, Third Edition
+Proust
+Quantum Mechanics: The Theoretical Minimum 
+Quarantine
+Reap3r
+Reasons and Persons
+Seveneves
+SICP (js edition???)
+Scientific Freedom: The Elixir of Civilization
+Special Relativity and Classical Field Theory: The Theoretical Minimum
+Steven Skiena's The Algorithm Design Manual
+Story of Your Life
+Sun and Steel
+Surreal Numbers - D. Knuth
+Termination Shock
+Terra Nostra
+The 4-Hour Workweek
+The Alchemist
+The Art of Computer Programming
+The Art of Doing Science and Engineering
+The Book of CP-System
+The Book of Five Rings
+The Brothers Karamazov
+The Broom of the System
+The C Programming Language 2nd Edition
+The Castle
+The Chrysalids
+The Design of Everyday Things
+The Demon-Haunted World
+The Distance of the Moon
+The Dream Machine - M. Mitchell Waldrop
+The Elephant Vanishes
+The Epic of Gilgamesh - Benjamin R Foster
+The decline and fall of the roman empire volume 1
+The Feynman Lectures on Physics
+The Fountainhead
+The Giver
+The Hero with a Thousand Faces
+The Library of Babel
+The Little Prince
+The Machinery of Life
+The Making of Prince of Persia: Journals 1985-1993
+The Man Who Mistook His Wife for a Hat
+The Medusa and the Snail
+The Mythical Man Month
+The Origin of Consciousness in the Breakdown of the Bicameral Mind
+The Pale King
+The Princess Bride
+The Pragmatic Programmer
+The Rise and Fall of the Third Reich
+The Road
+The Remains of the Day
+The Sleepwalkers: A History of Man's Changing Vision of the Universe 
+The Sympathizer
+The Temple of the Golden Pavilion
+The Theoretical Minimum: What You Need to Know to Start Doing Physics
+The Three Stigmata of Palmer Eldritch
+The Toyota Way
+The Way of Kings
+The unbearable lightness of being
+Three Body Problem
+Through the Looking Glass
+To Kill a Mockingbird
+Tomie
+Ubik
+Ulysses
+Understanding Software Dynamics
+Uzumaki
+VALIS
+We are Here: An Atlas of Aotearoa
+Working Effectively with Legacy Code
+Where the Crawdads Sing
+https://danluu.com/programming-books/
