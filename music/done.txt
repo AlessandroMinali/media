@@ -120,7 +120,7 @@ Capitol Swizzle Credit - 2021 - Noodle Bay
 caroline - 2022 - caroline
 Cécile McLorin Salvant - 2022 - Ghost Song
 Ceremony - 2010 - Rohnert Park
-Charli XCX - 2020 - How I'm Feeling Now
+Charli XCX - 2020 - how i’m feeling now
 Chat Pile - 2022 - God’s Country
 Chelsea Wolfe - 2011 - Ἀποκάλυψις
 CHON - 2013 - Newborn Sun
@@ -326,6 +326,7 @@ Kids and Explosions - 2010 - Shit Computer
 King Crimson - 1981 - Discipline
 King Crismon - 2014 - Red
 King Gizzard & The Lizard Wizard - 2016 - Nonagon Infinity
+King Gizzard & the Lizard Wizard - 2017 - Flying Microtonal Banana
 Kirin J Callinan - 2017 - Bravado
 KNIFEY - 2017 - beached
 Kvelertak - 2011 - Kvelertak
@@ -347,7 +348,6 @@ Lightning Bolt - 2009 - Earthly Delights
 Lil Nas X - 2021 - Montero
 Linda Ronstadt - 1975 - Heart Like a Wheel
 Little Dragon - 2011 - Ritual Union - Ritual Union
-Little Simz - 2021 - Sometimes I Might Be Introvert - Introvert
 Liturgy - 2011 - Aesthethica
 Loma Prieta - 2012 - I.V.
 Lone - 2012 - Galaxy Garden
