@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 #include <unistd.h>
 
 #define BUFFER_SIZE 1024
@@ -25,10 +26,11 @@ int main() {
 
     while(fgets(buf, BUFFER_SIZE, f)) {
       if (buf[0] == '\n') { continue; }
+      buf[strcspn(buf, "\n")] = 0;
 
       snprintf(search, BUFFER_SIZE, "open \"%s%s\"", sites[i], buf);
       system(search);
-      usleep(750);
+      usleep(500000);
     }
     fclose(f);
   }
