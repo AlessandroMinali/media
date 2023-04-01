@@ -16,21 +16,21 @@ int main() {
   };
   char *site_labels[] = {"criterion", "netflix", "sflix", "thepiratebay"};
 
-  FILE *f = fopen("./list.txt", "rb");
-
   for(int i=0; i < 4; ++i) {
     printf("Search %s? [y/n] ", site_labels[i]);
     scanf(" %c", &c);
     if (c == 'n') { continue; }
+
+    FILE *f = fopen("./list.txt", "rb");
 
     while(fgets(buf, BUFFER_SIZE, f)) {
       if (buf[0] == '\n') { continue; }
 
       snprintf(search, BUFFER_SIZE, "open \"%s%s\"", sites[i], buf);
       system(search);
-      usleep(500);
+      usleep(750);
     }
-    rewind(f);
+    fclose(f);
   }
 
   return 0;
