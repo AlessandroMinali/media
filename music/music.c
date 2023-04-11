@@ -3,7 +3,7 @@
 #include <string.h>
 
 #define BUF_SIZE 256
-#define READ_BUF 16 * 1024
+#define READ_BUF 4096
 
 int str_len(const char *str) {
   int i = 0;
@@ -25,14 +25,9 @@ int main() {
   for(; count < BUF_SIZE; ++count) {
     if (buf[count] == '\0') { break; }
   }
-
   while((c = fread(buf2, 1, READ_BUF, list_r))) {
     fwrite(buf2, 1, c, list_w);
   }
-  fclose(list_r);
-  fclose(list_w);
-  remove("list.txt");
-  rename("list_tmp.txt", "list.txt");
 
   // done manipulation
   FILE *done_r = fopen("done.txt", "r");
@@ -55,11 +50,6 @@ int main() {
     fwrite(buf2, 1, str_len(buf2), done_w);
   }
 
-  fclose(done_r);
-  fclose(done_w);
-  remove("done.txt");
-  rename("done_tmp.txt", "done.txt");
-
   // link manipulation
 
   for(int i = 0; i < BUF_SIZE; ++i) {
@@ -70,11 +60,24 @@ int main() {
       }
       case(' '): {
         buf[i] = '+';
+        break;
+      }
+      case('&'): {
+        buf[i] = '+';
       }
     }
   }
   snprintf(buf2, BUF_SIZE, "open \"https://duckduckgo.com/?q=%s+!ytm\" &", buf);
   system(buf2);
+
+  fclose(list_r);
+  fclose(list_w);
+  fclose(done_r);
+  fclose(done_w);
+  remove("list.txt");
+  rename("list_tmp.txt", "list.txt");
+  remove("done.txt");
+  rename("done_tmp.txt", "done.txt");
 
   return 0;
 }
