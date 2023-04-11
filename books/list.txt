@@ -50,6 +50,7 @@ FlatLand
 Flowers for Algernon
 Frankenstein; or, The Modern Prometheus
 From Bacteria to Bach and Back
+Game Engine Architecture, Third Edition
 Game Engine Black Book: DOOM
 Game Engine Black Book: Wolfenstein 3D
 Gardens of the Moon
@@ -97,6 +98,7 @@ Physically Based Rendering, Third Edition
 Proust
 Quantum Mechanics: The Theoretical Minimum 
 Quarantine
+Real Time Collision Detection
 Reap3r
 Reasons and Persons
 Seveneves

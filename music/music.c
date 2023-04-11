@@ -5,6 +5,14 @@
 #define BUF_SIZE 256
 #define READ_BUF 16 * 1024
 
+int str_len(const char *str) {
+  int i = 0;
+  for(; i < READ_BUF; ++i) {
+    if (str[i] == '\0') { break; }
+  }
+  return i;
+}
+
 int main() {
   int count = 0, c = 0;
   char buf[BUF_SIZE], buf2[READ_BUF];
@@ -30,17 +38,21 @@ int main() {
   FILE *done_r = fopen("done.txt", "r");
   FILE *done_w = fopen("done_tmp.txt", "wb");
 
-  int flag = 1;
+  int result;
   while(fgets(buf2, READ_BUF, done_r)) {
-    if (flag && strncasecmp(buf, buf2, count) < 0) {
+    result = strncasecmp(buf, buf2, count);
+    if (result < 0) {
       fwrite(buf, 1, count, done_w);
-      flag = 0;
+      fwrite(buf2, 1, str_len(buf2), done_w);
+      break ;
+    } else if (result == 0) {
+      fwrite(buf2, 1, str_len(buf2), done_w);
+      break;
     }
-    int i = 0;
-    for(; i < READ_BUF; ++i) {
-      if (buf2[i] == '\0') { break; }
-    }
-    fwrite(buf2, 1, i, done_w);
+    fwrite(buf2, 1, str_len(buf2), done_w);
+  }
+  while(fgets(buf2, READ_BUF, done_r)) {
+    fwrite(buf2, 1, str_len(buf2), done_w);
   }
 
   fclose(done_r);
