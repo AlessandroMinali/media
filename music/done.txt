@@ -9,6 +9,7 @@ Adia Victoria - 2021 - A Southern Gothic
 Adrianne Lenker - 2020 - Songs
 Aesop Rock - 2016 - The Impossible Kid
 Africa Hitech - 2011 - 93 Million Miles
+Against All Logic - 2020 - 2017-2019
 Alex G - 2022 - God Save the Animals
 Alex Isley & Jack Dine - 2022 - Marigold
 Allison Russell -  2021 - Outside Child
@@ -85,6 +86,7 @@ Black Country, New Road - 2021 - For the first time
 Black Country, New Road - 2022 - Ants From Up There - Intro
 Black Dresses - 2021 - Forever in Your Heart
 Black Flag - 1981 - Damaged
+black midi - 2021 - Cavalcade
 Black Sabbath - 1970 - Paranoid - War Pigs
 Bladee & Ecco2k - 2022 - Crest
 Bleachers - 2014 - Strange Desire - Take Me Away
@@ -131,6 +133,8 @@ Capitol Swizzle Credit - 2019 - Black Capitol
 Capitol Swizzle Credit - 2020 - Thalnusdian Nymphylocrest
 Capitol Swizzle Credit - 2021 - Noodle Bay
 caroline - 2022 - caroline
+Chloe x Halle - 2021 - Ungodly Hour
+Crying - 2016 - Beyond the Fleeting Gales
 Cécile McLorin Salvant - 2022 - Ghost Song
 Ceremony - 2010 - Rohnert Park
 Charli XCX - 2020 - how i’m feeling now
@@ -246,6 +250,7 @@ Ghost - 2011 - Opus Eponymous
 Ghostface Killah - 2010 - Apollo Kids
 Ghoul - 2011 - Transmission Zero
 Giles Corey - 2011 - Giles Corey
+Girl Talk & Freeway - 2014 - Broken Ankles
 Girl Talk - 2010 - All Day
 Girls - 2009 - Album
 Glasser - 2010 - Ring
@@ -314,6 +319,7 @@ Joanna Newsom - 2004 - The Milk-Eyed Mender - Inflammatory Writ
 Joanna Newsom - 2010 - Have One on Me
 Joanna Newsom - 2015 - Divers - Leaving the City
 Jogging House - 2022 - Fiber
+Jon Hopkins - 2013 - Immunity - Open Eye Signal
 Julia Holter - 2013 - Loud City Song
 Julia Holter - 2018 - Aviary
 Jóhann Jóhannsson - 2016 - Arrival
@@ -395,6 +401,7 @@ Lone - 2012 - Galaxy Garden
 Louis Cole - 2018 - Time
 Low - 2021 - HEY WHAT
 Lucas Pope - 2018 - Return of the Obra Dinn OST
+Lucrecia Dalt - 2022 - ¡Ay!
 Lucy Dacus - 2021 - Home Video
 Lukah - 2021 - When The Black Hand Touches You
 Luke Abbott - 2010 - Holkham Drones - Whitebox
@@ -531,7 +538,7 @@ Rosalía - 2017 - Los Ángeles
 Rosalía - 2018 - El mal querer - Pienso en tu mirá (Cap.III: Celos)
 Rosalía - 2022 - MOTOMAMI+ - Saoko
 Rufus - 1977 - Ask Rufus
-Run the Jewels - 2014 - Run the Jewels 2
+Run the Jewels - 2014 - RTJ2
 Run the Jewels - 2016 - RTJ3
 Run the Jewels - 2020 - RTJ4
 Saba - 2022 - Few Good Things - 2012
@@ -575,10 +582,12 @@ Sufjan Stevens - 2010 - All Delighted People EP - From the Mouth of Gabriel
 Suicide - 1977 - Suicide
 Summer Walker - 2021 - Still Over It
 Sun Kil Moon - 2014 - Benji
+Sun Kil Moon - 2017 - Common as Light and Love Are Red Valleys of Blood
 Sunn O))) - 2009 - Monoliths & Dimensions
 Sunset Rubdown - 2009 - Dragonslayer
 Superhumanoids - 2010 - Urgency
 Talking Heads - 1980 - Remain in Light
+Tame Impala - 2012 - Lonerism - Feels Like We Only Go Backwards
 Taylor Swift - 2006 - Taylor Swift
 Taylor Swift - 2008 - Fearless Platinum Edition - You Belong With Me
 Taylor Swift - 2010 - Speak Now
@@ -653,6 +662,7 @@ The Replacements - 1984 - Let It Be
 The Rolling Stones - 1971 - Sticky Fingers
 The Ronettes - 1964 - Presenting the Fabulous Ronettes - Be My Baby
 The Roots - 2010 - How I Got Over
+The Smile - 2022 - A Light for Attracting Attention
 The Smiths - 1986 - The Queen is Dead
 The Souljazz Orchestra - 2010 - Rising Sun - Agbara
 The Stone Roses - 1989 - The Stone Roses
