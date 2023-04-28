@@ -122,6 +122,7 @@ Braid - 2008 - Braid OST - Maenam
 Brian Eno - 2010 - Small Craft On A Milk Sea
 British Sea Power - 2011 - Valhalla Dancehall
 BROCKHAMPTON - 2017 - Saturation
+BROCKHAMPTON - 2017 - Saturation II
 BROCKHAMPTON - 2021 - Roadrunner: New Light, New Machine
 Buke and Gase - 2013 - General Dome - Houdini Crush
 Burial - 2012 - Kindred
@@ -185,9 +186,11 @@ Death Grips - 2011 - Exmilitary
 Death Grips - 2012 - The Money Store - Get Got
 Death Grips - 2018 - Year of the Snitch
 Deathspell Omega - 2012 - Drought
+death’s dynamic shroud - 2022 - Darklife
 Deerhoof - 2011 - Deerhoof vs Evil - Super Duper Rescue Heads !
 Deerhoof - 2020 - Future Teenage Cave Artists
 Deerhunter - 2010 - Halcyon Digest
+Denzel Curry - 2022 - Melt My Eyez See Your Future
 Dermot Kennedy - 2017 - Doves & Ravens - Boston
 Dermot Kennedy - 2018 - Mike Dean Presents: Dermont Kennedy - An Evening I Will Not Forget / Furthest Thing
 Dermot Kennedy - 2019 - Dermont Kennedy - An Evening I Will Not Forget
@@ -580,6 +583,7 @@ Selena - 1994 - Amor Prohibido
 Shabazz Palaces - 2011 - Black Up
 Shakey Graves - 2011 - Roll the Bones - Unlucky Skin
 Shakira - 1998 - Dónde Están los Ladrones
+Sharon Jones & The Dap-Kings - 2017 - Soul of a Woman
 Shlohmo - 2013 - Laid Out
 Sigur Rós - 1999 - Ágætis byrjun - Olsen Olsen
 Silk Sonic - 2021 - An Evening With Silk Sonic - Fly As Me
@@ -595,6 +599,7 @@ Slauson Malone - 2020 - Vergangenheitsbewältigung
 Slint - 1991 - Spiderland
 Soap&Skin - 2012 - Narrow
 Soccer Mommy - 2022 - Sometimes, Forever
+Solange - 2016 - A Seat at the Table
 Sons of Kemet - 2018 - Your Queen Is a Reptile - My Queen Is Harriet Tubman
 Soul Glo - 2022 - Diaspora Problems
 Special Interest - 2022 - Endure
@@ -664,6 +669,7 @@ The Fray - 2005 - How To Save A Life - How to Save a Life
 The Fray - 2009 - The Fray
 The Fray - 2012 - Scars and Stories
 The Fray - 2014 - Helios
+The Game - 2015 - The Documentary 2.5
 The Jimi Hendrix Experience - 1968 - Electric Ladyland - All Along The Watchtower
 The Killers - 2004 - Hot Fuss - Glamorous Indie Rock and Roll
 The Killers - 2007 - Sawdust

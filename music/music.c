@@ -58,17 +58,18 @@ int main() {
       }
       snprintf(buf2, BUF_SIZE, "open \"https://duckduckgo.com/?q=%s+!ytm\" &", buf);
       system(buf2);
+      break;
+    }
 
-      break ;
-    } else if (result == 0) {
-      fwrite(buf2, 1, str_len(buf2), done_w);
+    fwrite(buf2, 1, str_len(buf2), done_w);
+
+    if (result == 0) {
       printf("DUPLICATE\n");
       break;
     }
-    fwrite(buf2, 1, str_len(buf2), done_w);
   }
-  while(fgets(buf2, READ_BUF, done_r)) {
-    fwrite(buf2, 1, str_len(buf2), done_w);
+  while((c = fread(buf2, 1, READ_BUF, done_r))) {
+    fwrite(buf2, 1, c, done_w);
   }
 
   fclose(list_r);
