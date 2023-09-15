@@ -20,6 +20,7 @@ Alice's Adventures in Wonderland
 American Psycho
 Anathem
 Anna Karenina
+Autobiography of a Corpse
 Axiomatic
 Babel-17
 Beowulf
@@ -34,8 +35,8 @@ Cloud Atlas
 Computer Architecture: A Quantitative Approach
 Computer Organization and Design RISC-V Edition: The Hardware Software Interface
 Consciousness Explained
-creativity by John Cleese
-Crime and punishment
+Creativity: A Short and Cheerful Guide
+Crime and Punishment
 Cryptonomicon
 Cyberiad
 Debt: The first 5000 years
@@ -53,6 +54,7 @@ Game Engine Architecture, Third Edition
 Game Engine Black Book: DOOM
 Game Engine Black Book: Wolfenstein 3D
 Gardens of the Moon
+Grapes of Wrath
 Graphics Gems
 Graphics Programming Black Book
 Gravity's Rainbow
@@ -82,7 +84,7 @@ Lolita
 Lord of the Flies
 Man's Search for Meaning
 Mastering Algorithms with C
-Meditations by Marcus Aurelius
+Meditations
 Meditations on First Philosophy
 Modern Processor Design: Fundamentals of Superscalar Processors
 Nausicaä Of The Valley Of The Wind Box Set
@@ -106,6 +108,7 @@ Right-Wing Women
 Seveneves
 SICP (js edition???)
 Scientific Freedom: The Elixir of Civilization
+Sometimes a Great Notion
 Special Relativity and Classical Field Theory: The Theoretical Minimum
 Steven Skiena's The Algorithm Design Manual
 Story of Your Life
@@ -121,6 +124,7 @@ The Art of Doing Science and Engineering
 The Book of CP-System
 The Book of Five Rings
 The Brothers Karamazov
+The Brothers K
 The Broom of the System
 The C Programming Language 2nd Edition
 The Castle
@@ -129,11 +133,13 @@ The Design of Everyday Things
 The Demon-Haunted World
 The Distance of the Moon
 The Dream Machine - M. Mitchell Waldrop
+The Electric Kool-Aid Acid Test
 The Elephant Vanishes
 The Epic of Gilgamesh - Benjamin R Foster
 The decline and fall of the roman empire volume 1
 The Feynman Lectures on Physics
 The Fountainhead
+The Glass Bead Game
 The Giver
 The Hero with a Thousand Faces
 The Library of Babel
@@ -143,11 +149,13 @@ The Making of Prince of Persia: Journals 1985-1993
 The Man Who Mistook His Wife for a Hat
 The Medusa and the Snail
 The Mythical Man Month
+The Nose (https://www.gutenberg.org/files/36238/36238-h/36238-h.htm)
 The Origin of Consciousness in the Breakdown of the Bicameral Mind
 The Pale King
 The Princess Bride
 The Pragmatic Programmer
 The Rise and Fall of the Third Reich
+The River Why
 The Road
 The Remains of the Day
 The Sleepwalkers: A History of Man's Changing Vision of the Universe 
