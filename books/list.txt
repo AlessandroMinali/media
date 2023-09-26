@@ -25,6 +25,7 @@ Axiomatic
 Babel-17
 Beowulf
 Beyond Good & Evil
+Bhagavad Gita
 Brief Interviews with Hideous Men
 Calculus, Vol. 1: One-Variable Calculus, with an Introduction to Linear Algebra
 Cat's Cradle
@@ -100,6 +101,7 @@ Philosophical Investigations
 Physically Based Rendering, Third Edition
 Proust
 Quantum Mechanics: The Theoretical Minimum 
+Quran
 Quarantine
 Real Time Collision Detection
 Reap3r
