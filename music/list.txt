@@ -1,25 +1,3 @@
-Primitive Man - 2017 - Caustic
-slowthai - 2020 - TYRON
-Smith Westerns - 2013 - Soft Will
-YG - 2016 - Still Brazy
-Autechre - 2013 - Exai
-Carly Rae Jepsen - 2016 - Emotion: Side B
-Turnstile - 2021 - Glow On
-Denzel Curry - 2019 - ZUU
-Matmos - 2020 - The Consuming Flame: Open Exercises in Group Form
-Show Me the Body - 2016 - Body War
-Tyler, the Creator - 2019 - IGOR
-Joey Bada$$ - 2017 - All-Amerikkkan Bada$$
-Kali Uchis - 2018 - Isolation
-Hermit and the Recluse - 2018 - Orpheus vs. the Sirens
-Julia Holter - 2015 - Have You in My Wilderness
-Richard Dawson & Circle - 2021 - Henki
-FKA twigs - 2015 - M3LL155X EP
-Code Orange - 2020 - Underneath
-The Drones - 2016 - Feelin Kinda Free
-Horse Lords - 2020 - The Common Task
-Ana Frango Elétrico - 2019 - Little Electric Chicken Heart
-Kilo Kish - 2022 - American Gurl
 Roland Kayn - 2021 - Matego I-II
 Earl Sweatshirt - 2022 - Sick!
 Father John Misty - 2015 - I Love You, Honeybear
@@ -81,7 +59,6 @@ Aphex Twin - 2018 - Collapse EP
 OFF! - 2022 - Free LSD
 Open Mike Eagle - 2014 - Dark Comedy
 Big Thief - 2022 - Dragon New Warm Mountain I Believe in You
-Code Orange - 2017 - Forever
 Steve Lacy - 2022 - Gemini Rights
 Rina Sawayama - 2017 - RINA
 Kelela - 2017 - Take Me Apart
@@ -167,63 +144,60 @@ Freddie Gibbs & The Alchemist - 2020 - Alfredo
 Death from Above - 2017 - Outrage! Is Now
 Injury Reserve - 2021 - By the Time I Get to Phoenix
 Prince - 2019 - Originals
-Guerilla Toss - GT ULTRA
-Ad Nauseam - Imperative Imperceptible Impulse
-Ghostface Killah and Adrian Younge - Twelve Reasons To Die
-slowthai - Nothing Great About Britain
-Touché Amoré - Is Survived By
-Young Fathers - White Men Are Black Men Too
-Hop Along - Painted Shut
-Sam Prekop & John McEntire - Sons Of
-Joanna Newsom - Divers
-YC The Cynic - GNK
-Moonsorrow - Jumalten Aika
-Alex Cameron - Forced Witness
-Angel Olsen - Big Time
-Kero Kero Bonito - Time ‘n’ Place
-Melt-Banana - Fetch
-Benny the Butcher - Tana Talk 4
-Action Bronson and the Alchemist - Rare Chandeliers
-Czarface - Every Hero Needs a Villain
-David Bowie - ★ (Blackstar)
-Mavi - Laughing So Hard, It Hurts
-Flatbush Zombies - BetterOffDead
-Robert Glasper - Black Radio III
-Xibalba - Hasta La Muerte
-Altar of Plagues - Teethed Glory and Injury
-Jeff Rosenstock - SKA DREAM
-Carla Bozulich - Boy
-Screaming Females - All at Once
-Sturgill Simpson - A Sailor's Guide to Earth
-Pop. 1280 - Paradise
-Thee Oh Sees - A Weird Exits
-The Comet Is Coming - Hyper-Dimensional Expansion Beam
-Wet Leg - Wet Leg
-Yola - Stand for Myself
-Zs - Xe
-Denzel Curry x Kenny Beats - Unlocked
-Conway the Machine - God Don’t Make Mistakes
-The Dillinger Escape Plan - One Of Us Is The Killer
-Adeem the Artist - White Trash Revelry
-Pearls Negras - Biggie Apple
-Lucky Daye - Candydrip
-Frank Ocean - Blonde
-Matmos - Plastic Anniversary
-Tyler, the Creator - Flower Boy
-Oneohtrix Point Never - Garden of Delete
-Daymé Arocena - Cubafonía (2017)
-Dan Deacon - Mystic Familiar
-Comadre - Comadre
-Cate Le Bon - Pompeii
-Pusha T - It’s Almost Dry
-Sleep - The Sciences
-Nilüfer Yanya - PAINLESS
-Kenny Beats - LOUIE
-Wormrot - Hiss
-Zeal & Ardor - Stranger Fruit
-Fleet Foxes - Crack-Up
-S.G. Goodman - Teeth Marks
-black midi - Hellfire
+Guerilla Toss - 2017 - GT ULTRA
+Ad Nauseam - 2021 - Imperative Imperceptible Impulse
+Ghostface Killah and Adrian Younge - 2013 - Twelve Reasons To Die
+slowthai - 2019 - Nothing Great About Britain
+Touché Amoré - 2013 -  Is Survived By
+Young Fathers - 2015 - White Men Are Black Men Too
+Hop Along - 2015 - Painted Shut
+Sam Prekop & John McEntire - 2022 - Sons Of
+YC The Cynic - 2013 - GNK
+Moonsorrow - 2016 - Jumalten Aika
+Alex Cameron - 2017 - Forced Witness
+Angel Olsen - 2022 - Big Time
+Kero Kero Bonito - 2018 - Time ‘n’ Place
+Melt-Banana - 2013 - Fetch
+Benny the Butcher - 2022 - Tana Talk 4
+Action Bronson and the Alchemist - 2012 - Rare Chandeliers
+Czarface - 2015 - Every Hero Needs a Villain
+Mavi - 2022 - Laughing So Hard, It Hurts
+Flatbush Zombies - 2013 - BetterOffDead
+Robert Glasper - 2022 - Black Radio III
+Xibalba - 2012 - Hasta La Muerte
+Altar of Plagues - 2013 - Teethed Glory and Injury
+Jeff Rosenstock - 2021 - SKA DREAM
+Carla Bozulich - 2014 -  Boy
+Screaming Females - 2018 - All at Once
+Sturgill Simpson - 2016 - A Sailor's Guide to Earth
+Pop. 1280 - 2016 - Paradise
+Thee Oh Sees - 2016 - A Weird Exits
+The Comet Is Coming - 2022 - Hyper-Dimensional Expansion Beam
+Wet Leg - 2022 - Wet Leg
+Yola - 2021 - Stand for Myself
+Zs - 2015 - Xe
+Denzel Curry x Kenny Beats - 2020 - Unlocked
+Conway the Machine - 2022 - God Don’t Make Mistakes
+The Dillinger Escape Plan - 2013 - One Of Us Is The Killer
+Adeem the Artist - 2022 - White Trash Revelry
+Pearls Negras - 2013 - Biggie Apple
+Lucky Daye - 2022 - Candydrip
+Matmos - 2019 - Plastic Anniversary
+Tyler, the Creator - 2017 - Flower Boy
+Oneohtrix Point Never - 2015 - Garden of Delete
+Daymé Arocena - 2017 - Cubafonía
+Dan Deacon - 2020 - Mystic Familiar
+Comadre - 2013 - Comadre
+Cate Le Bon - 2022 - Pompeii
+Pusha T - 2022 - It’s Almost Dry
+Sleep - 2018 - The Sciences
+Nilüfer Yanya - 2022 - PAINLESS
+Kenny Beats - 2022 - LOUIE
+Wormrot - 2022 - Hiss
+Zeal & Ardor - 2018 - Stranger Fruit
+Fleet Foxes - 2017 - Crack-Up
+S.G. Goodman - 2022 - Teeth Marks
+black midi - 2022 - Hellfire
 The Strokes - The New Abnormal
 Iglooghost - Clear Tamei EP
 Blood Orange - Negro Swan
@@ -241,7 +215,6 @@ Daniel Rossen - You Belong There
 Destroyer - Poison Season
 Chat Pile - God’s Country
 HMLTD - West of Eden
-Tyler, the Creator - Call Me If You Get Lost
 Smino - Luv 4 Rent
 Black Country, New Road - Ants from Up There
 Backxwash - God Has Nothing to Do With This Leave Him Out of It
