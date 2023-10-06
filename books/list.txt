@@ -2,7 +2,6 @@ Linear Algebra Done Right
 Blindsight
 Star Maker
 The Rings of Saturn
-Slaughterhouse 5
 Fahrenheit 451
 No Longer Human
 Moby Dick
