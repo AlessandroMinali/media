@@ -1,6 +1,7 @@
+Star Maker
+
 Linear Algebra Done Right
 Blindsight
-Star Maker
 The Rings of Saturn
 Fahrenheit 451
 No Longer Human
@@ -74,6 +75,7 @@ Into the Wild
 Invisible Cities
 Isaac Asimov: The Complete Story Vi
 It Can't Happen Here
+Keys to Infinity
 Last and First Men
 Learn Functional Programming with Elixir
 Leaves of Grass
