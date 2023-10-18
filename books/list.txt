@@ -1,10 +1,8 @@
-Star Maker
-
-Linear Algebra Done Right
 Blindsight
+
+Star Maker
+Linear Algebra Done Right
 The Rings of Saturn
-Fahrenheit 451
-No Longer Human
 Moby Dick
 Atlas Shrugged
 
@@ -46,6 +44,7 @@ Dune Messiah
 East of Eden
 Elbow Room
 Exhalation
+Fahrenheit 451
 Ficciones
 FlatLand
 Flowers for Algernon
@@ -62,7 +61,7 @@ Gravity's Rainbow
 Gulliver's Travels
 Hacker's Delight
 Hacking, 2nd Edition
-Hard Boiled Wonderland and the End of the World
+Hard-Boiled Wonderland and the End of the World
 House of Leaves
 How to Blow Up a Pipeline
 How to Lie with Statistics
@@ -76,6 +75,7 @@ Invisible Cities
 Isaac Asimov: The Complete Story Vi
 It Can't Happen Here
 Keys to Infinity
+Kokoro
 Last and First Men
 Learn Functional Programming with Elixir
 Leaves of Grass
@@ -84,6 +84,7 @@ Life of Johnson
 Literate Programming
 Lolita
 Lord of the Flies
+Love in the Time of Cholera
 Man's Search for Meaning
 Mastering Algorithms with C
 Meditations
@@ -124,6 +125,7 @@ The 4-Hour Workweek
 The Alchemist
 The Art of Computer Programming
 The Art of Doing Science and Engineering
+The Bell Jar
 The Book of CP-System
 The Book of Five Rings
 The Brothers Karamazov
@@ -161,6 +163,7 @@ The Rise and Fall of the Third Reich
 The River Why
 The Road
 The Remains of the Day
+The Setting Sun
 The Sleepwalkers: A History of Man's Changing Vision of the Universe 
 The Sympathizer
 The Temple of the Golden Pavilion
