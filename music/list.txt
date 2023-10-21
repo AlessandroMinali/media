@@ -94,7 +94,7 @@ Guerilla Toss - 2017 - GT ULTRA
 Ad Nauseam - 2021 - Imperative Imperceptible Impulse
 Ghostface Killah and Adrian Younge - 2013 - Twelve Reasons To Die
 slowthai - 2019 - Nothing Great About Britain
-Touché Amoré - 2013 -  Is Survived By
+Touché Amoré - 2013 - Is Survived By
 Young Fathers - 2015 - White Men Are Black Men Too
 Hop Along - 2015 - Painted Shut
 Sam Prekop & John McEntire - 2022 - Sons Of
@@ -113,7 +113,7 @@ Robert Glasper - 2022 - Black Radio III
 Xibalba - 2012 - Hasta La Muerte
 Altar of Plagues - 2013 - Teethed Glory and Injury
 Jeff Rosenstock - 2021 - SKA DREAM
-Carla Bozulich - 2014 -  Boy
+Carla Bozulich - 2014 - Boy
 Screaming Females - 2018 - All at Once
 Sturgill Simpson - 2016 - A Sailor's Guide to Earth
 Pop. 1280 - 2016 - Paradise
@@ -259,7 +259,7 @@ Nirvana - 1991 - Nevermind
 Fleetwood Mac - 1977 - Rumours
 Prince and the Revolution - 1984 - Purple Rain
 Bob Dylan - 1975 - Blood on the Tracks
-Lauryn Hill - 1998- The Miseducation of Lauryn Hill
+Lauryn Hill - 1998 - The Miseducation of Lauryn Hill
 Michael Jackson - 1982 - Thriller
 Aretha Franklin - 1967 - I Never Loved a Man the Way I Love You
 The Rolling Stones - 1972 - Exile on Main St.
@@ -333,7 +333,6 @@ Hole - 1994 - Live Through This
 Television - 1977 - Marquee Moon
 Fiona Apple - 1999 - When the Pawn...
 Lou Reed - 1972 - Transformer
-Joni Mitchell - 1974 - Court and Spark
 Janet Jackson - 1986 - Control
 Elton John - 1973 - Goodbye Yellow Brick Road
 The Smiths - 1986 - The Queen Is Dead
@@ -368,137 +367,139 @@ Eminem - 2000 - The Marshall Mathers LP
 Blondie - 1978 - Parallel Lines
 Jeff Buckley - 1994 - Grace
 Frank Ocean - 2012 - Channel Orange
-John Prine - John Prine
-Bruce Springsteen - Nebraska
-George Michael - Faith
-The Pretenders - Pretenders
-PJ Harvey - Rid of Me
-Aretha Franklin - Amazing Grace
-Jay-Z - The Black Album
-The Replacements - Let It Be
-Oasis - (What's the Story) Morning Glory?
-Erykah Badu - Mama's Gun
-The Police - Synchronicity
-Pearl Jam - Ten
-Crosby, Stills & Nash - Crosby, Stills & Nash
-Pulp - Different Class
-Various artists - Saturday Night Fever
-Johnny Cash - At Folsom Prison
-R.E.M. - Murmur
-Buddy Holly - 20 Golden Greats
-Depeche Mode - Violator
-Steely Dan - Can't Buy a Thrill
-Billy Joel - The Stranger
-Cream - Disraeli Gears
-Sonic Youth - Daydream Nation
-Nirvana - In Utero
-Various artists - The Harder They Come
-Public Enemy - Fear of a Black Planet
-Rod Stewart - Every Picture Tells a Story
-Otis Redding - Otis Blue/Otis Redding Sings Soul
-The Notorious B.I.G. - Life After Death
-Love - Forever Changes
-Bob Dylan - Bringing It All Back Home
-James Taylor - Sweet Baby James
-D'Angelo - Brown Sugar
-Cyndi Lauper - She's So Unusual
-The Rolling Stones - Beggars Banquet
-Red Hot Chili Peppers - Blood Sugar Sex Magik
-Ice Cube - AmeriKKKa's Most Wanted
-T. Rex - Electric Warrior
-Sleater-Kinney - Dig Me Out
-The Who - Tommy
-Etta James - At Last!
-Beastie Boys - Licensed to Ill
-Creedence Clearwater Revival - Willy and the Poor Boys
-Michael Jackson - Bad
-Leonard Cohen - Songs of Leonard Cohen
-Robyn - Body Talk
-The Beatles - Meet the Beatles!
-The B-52's - The B-52's
-Pavement - Slanted and Enchanted
-Sade - Diamond Life
-A Tribe Called Quest - Midnight Marauders
-Björk - Homogenic
-Cat Stevens - Tea for the Tillerman
-Eagles - Eagles
-Lil Wayne - Tha Carter III
-Run-DMC - Raising Hell
-Ray Charles - The Birth of Soul
-Joy Division - Unknown Pleasures
-Nina Simone - Wild Is the Wind
-Tom Petty - Wildflowers
-Grateful Dead - American Beauty
-Elliott Smith - Either/Or
-Oasis - Definitely Maybe
-TLC - CrazySexyCool
-Raekwon - Only Built 4 Cuban Linx...
-Crosby, Stills, Nash & Young - Déjà Vu
-Rage Against the Machine - Rage Against the Machine
-Madonna - Ray of Light
-John Lennon - Imagine
-Dixie Chicks - Fly
-Wilco - Yankee Hotel Foxtrot
-Derek and the Dominos - Layla and Other Assorted Love Songs
-Little Richard - Here's Little Richard
-De La Soul - De La Soul Is Dead
-Patsy Cline - The Ultimate Collection
-Rihanna - Anti
-Tom Petty and the Heartbreakers - Damn the Torpedoes
-John Coltrane - Giant Steps
-Tori Amos - Little Earthquakes
-Black Sabbath - Master of Reality
-Metallica - Metallica
-Daft Punk - Discovery
-Willie Nelson - Red Headed Stranger
-Kraftwerk - Trans-Europe Express
-Boogie Down Productions - Criminal Minded
-Sam Cooke - Live at the Harlem Square Club, 1963
-Massive Attack - Blue Lines
-The Velvet Underground - Loaded
-The Zombies - Odessey and Oracle
-Cocteau Twins - Heaven or Las Vegas
-LL Cool J - Mama Said Knock You Out
-Sade - Love Deluxe
-Green Day - American Idiot
-Whitney Houston - Whitney Houston
-Buzzcocks - Singles Going Steady
-Elton John - Honky Château
-Devo - Q: Are We Not Men? A: We Are Devo!
-Pink Floyd - The Piper at the Gates of Dawn
-Herbie Hancock - Head Hunters
-Bob Dylan - The Freewheelin' Bob Dylan
-Tracy Chapman - Tracy Chapman
-Dolly Parton - Coat of Many Colors
-Joni Mitchell - The Hissing of Summer Lawns
-Janis Joplin - Pearl
-The Slits - Cut
-Beastie Boys - Check Your Head
-New Order - Power, Corruption & Lies
-The Beatles - A Hard Day's Night
-Pink Floyd - Wish You Were Here
-Pavement - Wowee Zowee
-The Beatles - Help!
-Minutemen - Double Nickels on the Dime
-Randy Newman - Sail Away
-Kacey Musgraves - Golden Hour
-Mary J. Blige - What's the 411?
-The Velvet Underground - White Light/White Heat
-Gang of Four - Entertainment!
-The Byrds - Sweetheart of the Rodeo
-Curtis Mayfield - Curtis
-Radiohead - The Bends
-Alicia Keys - The Diary of Alicia Keys
-Led Zeppelin - Houses of the Holy
-Nirvana - MTV Unplugged in New York
-50 Cent - Get Rich or Die Tryin'
-Harry Nilsson - Nilsson Schmilsson
-Frank Sinatra - In the Wee Small Hours
-Donna Summer - Bad Girls
-Merle Haggard - Down Every Road 1962–1994
-Big Star - Third/Sister Lovers
-Red Hot Chili Peppers - Californication
-The Byrds - Mr. Tambourine Man
+John Prine - 1971 - John Prine
+Bruce Springsteen - 1982 - Nebraska
+George Michael - 1987 - Faith
+The Pretenders - 1979 - Pretenders
+PJ Harvey - 1993 - Rid of Me
+Aretha Franklin - 1972 - Amazing Grace
+Jay-Z - 2003 - The Black Album
+The Replacements - 1984 - Let It Be
+Oasis - 1995 - (What's the Story) Morning Glory?
+Erykah Badu - 2000 - Mama's Gun
+The Police - 1983 - Synchronicity
+Pearl Jam - 1991 - Ten
+Crosby, Stills & Nash - 1969 - Crosby, Stills & Nash
+Pulp - 1995 - Different Class
+Various artists - 1977 - Saturday Night Fever
+Johnny Cash - 1968 - At Folsom Prison
+R.E.M. - 1983 - Murmur
+Buddy Holly - 1978 - 20 Golden Greats
+Depeche Mode - 1990 - Violator
+Steely Dan - 1972 - Can't Buy a Thrill
+Billy Joel - 1977 - The Stranger
+Cream - 1967 - Disraeli Gears
+Sonic Youth - 1988 - Daydream Nation
+Nirvana - 1993 - In Utero
+Various artists - 1973 - The Harder They Come
+Public Enemy - 1990 - Fear of a Black Planet
+Rod Stewart - 1971 - Every Picture Tells a Story
+Otis Redding - 1965 - Otis Blue/Otis Redding Sings Soul
+The Notorious B.I.G. - 1997 - Life After Death
+Love - 1967 - Forever Changes
+Bob Dylan - 1965 - Bringing It All Back Home
+James Taylor - 1970 - Sweet Baby James
+D'Angelo - 1995 - Brown Sugar
+Cyndi Lauper - 1983 - She's So Unusual
+The Rolling Stones - 1968 - Beggars Banquet
+Red Hot Chili Peppers - 1991 - Blood Sugar Sex Magik
+Ice Cube - 1990 - AmeriKKKa's Most Wanted
+T. Rex - 1971 - Electric Warrior
+Sleater-Kinney - 1997 - Dig Me Out
+The Who - 1969 - Tommy
+Etta James - 1960 - At Last!
+Beastie Boys - 1986 - Licensed to Ill
+Creedence Clearwater Revival - 1969 - Willy and the Poor Boys
+Michael Jackson - 1987 - Bad
+Leonard Cohen - 1967 - Songs of Leonard Cohen
+Robyn - 2010 - Body Talk
+The Beatles - 1964 - Meet the Beatles!
+The B-52's - 1979 - The B-52's
+Pavement - 1992 - Slanted and Enchanted
+Sade - 1984 - Diamond Life
+A Tribe Called Quest - 1993 - Midnight Marauders
+Björk - 1997 - Homogenic
+Cat Stevens - 1970 - Tea for the Tillerman
+Eagles - 1972 - Eagles
+Lil Wayne - 2008 - Tha Carter III
+Run-DMC - 1986 - Raising Hell
+Ray Charles - 1991 - The Birth of Soul
+Joy Division - 1979 - Unknown Pleasures
+Nina Simone - 1966 - Wild Is the Wind
+Tom Petty - 1994 - Wildflowers
+Grateful Dead - 1970 - American Beauty
+Elliott Smith - 1997 - Either/Or
+Oasis - 1994 - Definitely Maybe
+TLC - 1994 - CrazySexyCool
+Raekwon - 1995 - Only Built 4 Cuban Linx...
+Crosby, Stills, Nash & Young - 1970 - Déjà Vu
+Rage Against the Machine - 1992 - Rage Against the Machine
+Madonna - 1998 - Ray of Light
+John Lennon - 1971 - Imagine
+Dixie Chicks - 1999 - Fly
+Wilco - 2002 - Yankee Hotel Foxtrot
+Derek and the Dominos - 1970 - Layla and Other Assorted Love Songs
+Little Richard - 1958 - Here's Little Richard
+De La Soul - 1991 - De La Soul Is Dead
+Patsy Cline - 2000 - The Ultimate Collection
+Rihanna - 2016 - ANTI
+Tom Petty and the Heartbreakers - 1979 - Damn the Torpedoes
+John Coltrane - 1960 - Giant Steps
+Tori Amos - 1992 - Little Earthquakes
+Black Sabbath - 1971 - Master of Reality
+Metallica - 1991 - Metallica
+Daft Punk - 2001 - Discovery
+Daft Punk - 1997 - Homework
+Daft Punk - 2005 - Human After All
+Willie Nelson - 1975 - Red Headed Stranger
+Kraftwerk - 1977 - Trans-Europe Express
+Boogie Down Productions - 1987 - Criminal Minded
+Sam Cooke - 1985 - Live at the Harlem Square Club, 1963
+Massive Attack - 1991 - Blue Lines
+The Velvet Underground - 1970 - Loaded
+The Zombies - 1968 - Odessey and Oracle
+Cocteau Twins - 1990 - Heaven or Las Vegas
+LL Cool J - 1990 - Mama Said Knock You Out
+Sade - 1992 - Love Deluxe
+Green Day - 2004 - American Idiot
+Whitney Houston - 1985 - Whitney Houston
+Buzzcocks - 1979 - Singles Going Steady
+Elton John - 1972 - Honky Château
+Devo - 1978 - Q: Are We Not Men? A: We Are Devo!
+Pink Floyd - 1967 - The Piper at the Gates of Dawn
+Herbie Hancock - 1973 - Head Hunters
+Bob Dylan - 1963 - The Freewheelin' Bob Dylan
+Tracy Chapman - 1988 - Tracy Chapman
+Dolly Parton - 1971 - Coat of Many Colors
+Joni Mitchell - 1975 - The Hissing of Summer Lawns
+Janis Joplin - 1971 - Pearl
+The Slits - 1979 - Cut
+Beastie Boys - 1992 - Check Your Head
+New Order - 1983 - Power, Corruption & Lies
+The Beatles - 1964 - A Hard Day's Night
+Pink Floyd - 1975 - Wish You Were Here
+Pavement - 1995 - Wowee Zowee
+The Beatles - 1965 - Help!
+Minutemen - 1984 - Double Nickels on the Dime
+Randy Newman - 1972 - Sail Away
+Kacey Musgraves - 2018 - Golden Hour
+Mary J. Blige - 1992 - What's the 411?
+The Velvet Underground - 1968 - White Light/White Heat
+Gang of Four - 1979 - Entertainment!
+The Byrds - 1968 - Sweetheart of the Rodeo
+Curtis Mayfield - 1970 - Curtis
+Radiohead - 1995 - The Bends
+Alicia Keys - 2003 - The Diary of Alicia Keys
+Led Zeppelin - 1973 - Houses of the Holy
+Nirvana - 1994 - MTV Unplugged in New York
+50 Cent - 2003 - Get Rich or Die Tryin'
+Harry Nilsson - 1971 - Nilsson Schmilsson
+Frank Sinatra - 1955 - In the Wee Small Hours
+Donna Summer - 1979 - Bad Girls
+Merle Haggard - 1996 - Down Every Road 1962-1994
+Big Star - 1978 - Third/Sister Lovers
+Red Hot Chili Peppers - 1999 - Californication
+The Byrds - 1965 - Mr. Tambourine Man
 The Modern Lovers - The Modern Lovers
 Björk - Post
 Outkast - Speakerboxxx/The Love Below
@@ -518,7 +519,7 @@ ABBA - The Definitive Collection
 Bill Withers - Just as I Am
 Kiss - Alive!
 Al Green - I'm Still in Love with You
-Sam Cooke - Portrait of a Legend: 1951–1964
+Sam Cooke - Portrait of a Legend: 1951-1964
 Brian Eno - Here Come the Warm Jets
 Joy Division - Closer
 Wire - Pink Flag
@@ -613,7 +614,7 @@ Blondie - Blondie
 Fela Kuti and Africa '70 - Expensive Shit
 Ghostface Killah - Supreme Clientele
 Anita Baker - Rapture
-Various artists - Nuggets: Original Artyfacts from the First Psychedelic Era, 1965–1968
+Various artists - Nuggets: Original Artyfacts from the First Psychedelic Era, 1965-1968
 The Magnetic Fields - 69 Love Songs
 Neil Young - Everybody Knows This Is Nowhere
 Motörhead - Ace of Spades
