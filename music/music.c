@@ -64,7 +64,7 @@ int main() {
     fwrite(buf2, 1, str_len(buf2), done_w);
 
     if (result == 0) {
-      printf("DUPLICATE\n");
+      printf("DUPLICATE: %s\n", buf);
       break;
     }
   }
