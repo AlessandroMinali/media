@@ -1,21 +1,18 @@
 #!/usr/bin/env ruby
+# frozen_string_literal: true
 
-data = IO.readlines('spotify.txt', chomp: true)
-
-puts "Spotify Song List"
-loop do
-  print ">> "
-  save if gets.chomp == 'exit'
-  `open https://yewtu.be/search?q=#{data.shift.join(" ")}`
-  puts
-end
+DATA = IO.readlines('spotify.txt', chomp: true)
 
 def save
-  IO.write('spotify.txt', data)
+  IO.write('spotify.txt', DATA.join("\n"))
+  exit(0)
 end
 
-Signal.trap('INT') do
-  puts 'abort'
-  save
-  exit(0)
+Signal.trap('INT') { save }
+
+puts 'Spotify Song List'
+loop do
+  print '>> '
+  save if gets.chomp == 'exit'
+  `open "https://yewtu.be/search?q=#{DATA.shift}"`
 end
