@@ -14,5 +14,7 @@ puts 'Spotify Song List'
 loop do
   print '>> '
   save if gets.chomp == 'exit'
-  `open "https://yewtu.be/search?q=#{DATA.shift}"`
+  song = DATA.shift
+  puts song
+  `open "https://yewtu.be/search?q=#{song}"`
 end
