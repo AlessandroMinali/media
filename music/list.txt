@@ -1,3 +1,7 @@
+Daddy Yankee - 2004 - Barrio Fino
+Big Star - 1972 - #1 Record
+Sheryl Crow - 1996 - Sheryl Crow
+Sparks - 1974 - Kimono My House
 Ratking - 2014 - So It Goes
 Aphex Twin - 2018 - Collapse EP
 OFF! - 2022 - Free LSD
@@ -24,7 +28,7 @@ OHYUNG - 2022 - imagine naked!
 This Routine Is Hell - 2013 - Howl
 Joey Bada$$ - 2015 - B4.DA.$$
 Injury Reserve - 2015 - Live from the Dentist Office
-Run The Jewels - Run the Jewels
+Run The Jewels - 2013 - Run the Jewels
 Bloodz Boi, Claire Rousay, More Eaze - 2022 - a crying poem
 Anamanaguchi - 2019 - [USA]
 Charli XCX - 2019 - Charli
@@ -299,77 +303,71 @@ Alanis Morissette - 1995 - Jagged Little Pill
 N.W.A - 1988 - Straight Outta Compton
 Bob Marley and the Wailers - 1977 - Exodus
 Neil Young - 1972 - Harvest
-Aretha Franklin - Lady Soul
-Curtis Mayfield - Super Fly
-The Who - Who's Next
-Elvis Presley - The Sun Sessions
-Frank Ocean - Blonde
-Sex Pistols - Never Mind the Bollocks, Here's the Sex Pistols
-Beyoncé - Beyoncé
-Sly and the Family Stone - There's a Riot Goin' On
-Dusty Springfield - Dusty in Memphis
-AC/DC - Back in Black
-John Lennon - John Lennon/Plastic Ono Band
-The Doors - The Doors
-Miles Davis - Bitches Brew
-Erykah Badu - Baduizm
-Neil Young - After the Gold Rush
-Bruce Springsteen - Darkness on the Edge of Town
-The Jimi Hendrix Experience - Axis: Bold as Love
-Missy Elliott - Supa Dupa Fly
-The Stooges - Fun House
-Drake - Take Care
-R.E.M. - Automatic for the People
-Metallica - Master of Puppets
-Lucinda Williams - Car Wheels on a Gravel Road
-Taylor Swift - Red
-The Band - Music from Big Pink
-Led Zeppelin - Led Zeppelin
-De La Soul - 3 Feet High and Rising
-The Rolling Stones - Sticky Fingers
-The Allman Brothers Band - At Fillmore East
-Hole - Live Through This
-Television - Marquee Moon
-Fiona Apple - When the Pawn...
-Lou Reed - Transformer
-Joni Mitchell - Court and Spark
-Janet Jackson - Control
-Elton John - Goodbye Yellow Brick Road
-The Smiths - The Queen Is Dead
-The Strokes - Is This It
-The Cure - Disintegration
-Kanye West - Late Registration
-Eagles - Hotel California
-Sly and the Family Stone - Stand!
-Van Morrison - Moondance
-Elvis Costello - This Year's Model
-Nine Inch Nails - The Downward Spiral
-Led Zeppelin - Led Zeppelin II
-U2 - Achtung Baby
-Beastie Boys - Paul's Boutique
-Mary J. Blige - My Life
-Ray Charles - Modern Sounds in Country and Western Music
-Queen - A Night at the Opera
-Pink Floyd - The Wall
-Prince - 1999
-Portishead - Dummy
-Hank Williams - 40 Greatest Hits
-Joni Mitchell - Hejira
-Fugees - The Score
-U2 - The Joshua Tree
-Funkadelic - Maggot Brain
-Adele - 21
-Madonna - The Immaculate Collection
-Black Sabbath - Paranoid
-Bob Marley and the Wailers - Catch a Fire
-Pixies - Doolittle
-Bruce Springsteen - Born in the U.S.A.
-The Velvet Underground - The Velvet Underground
-Led Zeppelin - Physical Graffiti
-Eminem - The Marshall Mathers LP
-Blondie - Parallel Lines
-Jeff Buckley - Grace
-Frank Ocean - Channel Orange
+Aretha Franklin - 1968 - Lady Soul
+Curtis Mayfield - 1972 - Super Fly
+The Who - 1971 - Who's Next
+Elvis Presley - 1976 - The Sun Sessions
+Sex Pistols - 1977 - Never Mind the Bollocks, Here's the Sex Pistols
+Beyoncé - 2013 - Beyoncé
+Sly and the Family Stone - 1971 - There's a Riot Goin' On
+Dusty Springfield - 1969 - Dusty in Memphis
+AC/DC - 1980 - Back in Black
+John Lennon - 1970 - John Lennon/Plastic Ono Band
+The Doors - 1967 - The Doors
+Erykah Badu - 1997 - Baduizm
+Neil Young - 1970 - After the Gold Rush
+Bruce Springsteen - 1978 - Darkness on the Edge of Town
+The Jimi Hendrix Experience - 1967 - Axis: Bold as Love
+Missy Elliott - 1997 - Supa Dupa Fly
+The Stooges - 1970 - Fun House
+Drake - 2011 - Take Care
+R.E.M. - 1992 - Automatic for the People
+Metallica - 1986 - Master of Puppets
+Lucinda Williams - 1998 - Car Wheels on a Gravel Road
+The Band - 1968 - Music from Big Pink
+Led Zeppelin - 1969 - Led Zeppelin
+De La Soul - 1989 - 3 Feet High and Rising
+The Rolling Stones - 1971 - Sticky Fingers
+The Allman Brothers Band - 1971 - At Fillmore East
+Hole - 1994 - Live Through This
+Television - 1977 - Marquee Moon
+Fiona Apple - 1999 - When the Pawn...
+Lou Reed - 1972 - Transformer
+Joni Mitchell - 1974 - Court and Spark
+Janet Jackson - 1986 - Control
+Elton John - 1973 - Goodbye Yellow Brick Road
+The Smiths - 1986 - The Queen Is Dead
+The Strokes - 2001 - Is This It
+Eagles - 1976 - Hotel California
+Sly and the Family Stone - 1969 - Stand!
+Van Morrison - 1970 - Moondance
+Elvis Costello - 1978 - This Year's Model
+Nine Inch Nails - 1994 - The Downward Spiral
+Led Zeppelin - 1969 - Led Zeppelin II
+U2 - 1991 - Achtung Baby
+Beastie Boys - 1989 - Paul's Boutique
+Mary J. Blige - 1989 - My Life
+Ray Charles - 1962 - Modern Sounds in Country and Western Music
+Queen - 1975 - A Night at the Opera
+Pink Floyd - 1979 - The Wall
+Prince - 1982 - 1999
+Portishead - 1994 - Dummy
+Hank Williams - 1978 - 40 Greatest Hits
+Joni Mitchell - 1976 - Hejira
+Fugees - 1996 - The Score
+U2 - 1987 - The Joshua Tree
+Funkadelic - 1971 - Maggot Brain
+Adele - 2011 - 21
+Madonna - 1990 - The Immaculate Collection
+Bob Marley and the Wailers - 1973 - Catch a Fire
+Pixies - 1989 - Doolittle
+Bruce Springsteen - 1984 - Born in the U.S.A.
+The Velvet Underground - 1969 - The Velvet Underground
+Led Zeppelin - 1975 - Physical Graffiti
+Eminem - 2000 - The Marshall Mathers LP
+Blondie - 1978 - Parallel Lines
+Jeff Buckley - 1994 - Grace
+Frank Ocean - 2012 - Channel Orange
 John Prine - John Prine
 Bruce Springsteen - Nebraska
 George Michael - Faith
@@ -422,8 +420,6 @@ Pavement - Slanted and Enchanted
 Sade - Diamond Life
 A Tribe Called Quest - Midnight Marauders
 Björk - Homogenic
-Nick Drake - Pink Moon
-Kanye West - Graduation
 Cat Stevens - Tea for the Tillerman
 Eagles - Eagles
 Lil Wayne - Tha Carter III
@@ -431,7 +427,6 @@ Run-DMC - Raising Hell
 Ray Charles - The Birth of Soul
 Joy Division - Unknown Pleasures
 Nina Simone - Wild Is the Wind
-Fiona Apple - The Idler Wheel...
 Tom Petty - Wildflowers
 Grateful Dead - American Beauty
 Elliott Smith - Either/Or
@@ -462,7 +457,6 @@ Sam Cooke - Live at the Harlem Square Club, 1963
 Massive Attack - Blue Lines
 The Velvet Underground - Loaded
 The Zombies - Odessey and Oracle
-Kanye West - 808s & Heartbreak
 Cocteau Twins - Heaven or Las Vegas
 LL Cool J - Mama Said Knock You Out
 Sade - Love Deluxe
@@ -487,7 +481,6 @@ Pavement - Wowee Zowee
 The Beatles - Help!
 Minutemen - Double Nickels on the Dime
 Randy Newman - Sail Away
-Kanye West - Yeezus
 Kacey Musgraves - Golden Hour
 Mary J. Blige - What's the 411?
 The Velvet Underground - White Light/White Heat
@@ -585,7 +578,6 @@ Parliament - Mothership Connection
 Talking Heads - More Songs About Buildings and Food
 Madvillain - Madvillainy
 Aerosmith - Rocks
-Drake - If You're Reading This It's Too Late
 George Harrison - All Things Must Pass
 Mobb Deep - The Infamous
 Lil Wayne - Tha Carter II
@@ -610,7 +602,6 @@ Mariah Carey - The Emancipation of Mimi
 Pixies - Surfer Rosa
 Kelis - Kaleidoscope
 Ike & Tina Turner - Proud Mary: The Best of Ike & Tina Turner
-Taylor Swift - 1989
 Diana Ross - Diana
 D'Angelo and the Vanguard - Black Messiah
 Todd Rundgren - Something/Anything?
@@ -690,7 +681,3 @@ Manu Chao - Clandestino
 Juvenile - 400 Degreez
 Jefferson Airplane - Surrealistic Pillow
 SZA - Ctrl
-Daddy Yankee - 2004 - Barrio Fino
-Big Star - 1972 - #1 Record
-Sheryl Crow - 1996 - Sheryl Crow
-Sparks - 1974 - Kimono My House
