@@ -222,107 +222,83 @@ Haru Nemuri - 2018 - Haru to Shura
 Otoboke Beaver - 2019 - Itekoma Hits
 Beach Fossils - 2013 - Clash The Truth
 Armand Hammer & The Alchemist - 2021 - Haram
-Sleaford Mods - Key Markets
-Wild Nothing - Nocturne
-Lingua Ignota - Caligula
-Black Dresses - Peaceful as Hell
-The Mountain Goats - Goths
-Gospel - The Loser
-Princess Nokia - 1992 Deluxe
-Imperial Triumphant - Vile Luxury
-Lupe Fiasco - Drill Music in Zion
-Death Grips - The Powers That B
-MUNA - MUNA
-Richard Dawson - 2020
-Godspeed You! Black Emperor - ‘Allelujah! Don't Bend! Ascend!
-L'Rain - Fatigue
-A Tribe Called Quest - We Got It from Here... Thank You 4 Your Service
-D'Angelo and The Vanguard - Black Messiah
-Beyoncé - Lemonade
-Algiers - The Underside of Power
-Ash Koosha - Guud
-Lana Del Rey - Norman Fucking Rockwell!
-Elder - Reflections of a Floating World
-Neil Cicierega - Mouth Sounds / Mouth Silence
-Perfume Genius - Set My Heart on Fire Immediately
-Billy Woods - Known Unknowns
-The Voidz - Virtue
-Marissa Nadler - Strangers
-Dope Body - Natural History
-The Flaming Lips - American Head
-Marvin Gaye - What's Going On
-The Beach Boys - Pet Sounds
-Joni Mitchell - Blue
-Stevie Wonder - Songs in the Key of Life
-The Beatles - Abbey Road
-Nirvana - Nevermind
-Fleetwood Mac - Rumours
-Prince and the Revolution - Purple Rain
-Bob Dylan - Blood on the Tracks
-Lauryn Hill - The Miseducation of Lauryn Hill
-The Beatles - Revolver
-Michael Jackson - Thriller
-Aretha Franklin - I Never Loved a Man the Way I Love You
-The Rolling Stones - Exile on Main St.
-Public Enemy - It Takes a Nation of Millions to Hold Us Back
-The Clash - London Calling
-Kanye West - My Beautiful Dark Twisted Fantasy
-Bob Dylan - Highway 61 Revisited
-Radiohead - Kid A
-Bruce Springsteen - Born to Run
-The Notorious B.I.G. - Ready to Die
-The Velvet Underground - The Velvet Underground & Nico
-The Beatles - Sgt. Pepper's Lonely Hearts Club Band
-Carole King - Tapestry
-Patti Smith - Horses
-Wu-Tang Clan - Enter the Wu-Tang (36 Chambers)
-D'Angelo - Voodoo
-The Beatles - The Beatles
-The Jimi Hendrix Experience - Are You Experienced
-Miles Davis - Kind of Blue
-Beyoncé - Lemonade
-Amy Winehouse - Back to Black
-Stevie Wonder - Innervisions
-The Beatles - Rubber Soul
-Michael Jackson - Off the Wall
-Dr. Dre - The Chronic
-Bob Dylan - Blonde on Blonde
-Talking Heads - Remain in Light
-David Bowie - The Rise and Fall of Ziggy Stardust and the Spiders from Mars
-The Rolling Stones - Let It Bleed
-Radiohead - OK Computer
-A Tribe Called Quest - The Low End Theory
-Nas - Illmatic
-Prince - Sign o' the Times
-Paul Simon - Graceland
-Ramones - Ramones
-Bob Marley and the Wailers - Legend
-Outkast - Aquemini
-Jay-Z - The Blueprint
-Chuck Berry - The Great Twenty-Eight
-David Bowie - Station to Station
-The Jimi Hendrix Experience - Electric Ladyland
-James Brown - Star Time
-Pink Floyd - The Dark Side of the Moon
-Liz Phair - Exile in Guyville
-The Band - The Band
-Led Zeppelin - Led Zeppelin IV
-Stevie Wonder - Talking Book
-Van Morrison - Astral Weeks
-Eric B. & Rakim - Paid in Full
-Guns N' Roses - Appetite for Destruction
-Steely Dan - Aja
-Outkast - Stankonia
-James Brown - Live at the Apollo
-John Coltrane - A Love Supreme
-Jay-Z - Reasonable Doubt
-Kate Bush - Hounds of Love
-Alanis Morissette - Jagged Little Pill
-N.W.A - Straight Outta Compton
-Bob Marley and the Wailers - Exodus
-Neil Young - Harvest
-My Bloody Valentine - Loveless
-Kanye West - The College Dropout
+Sleaford Mods - 2015 - Key Markets
+Wild Nothing - 2012 - Nocturne
+Lingua Ignota - 2019 - Caligula
+Black Dresses - 2020 - Peaceful as Hell
+The Mountain Goats - 2017 - Goths
+Gospel - 2022 - The Loser
+Princess Nokia - 2017 - 1992 Deluxe
+Imperial Triumphant - 2018 - Vile Luxury
+Lupe Fiasco - 2022 - Drill Music in Zion
+Death Grips - 2014 - The Powers That B
+MUNA - 2022 - MUNA
+Richard Dawson - 2019 - 2020
+L'Rain - 2021 - Fatigue
+A Tribe Called Quest - 2016 - We Got It from Here... Thank You 4 Your Service
+D'Angelo and The Vanguard - 2014 - Black Messiah
+Beyoncé - 2016 - Lemonade
+Algiers - 2017 - The Underside of Power
+Ash Koosha - 2015 - Guud
+Lana Del Rey - 2019 - Norman Fucking Rockwell!
+Elder - 2017 - Reflections of a Floating World
+Neil Cicierega - 2014 - Mouth Sounds
+Neil Cicierega - 2014 - Mouth Silence
+Perfume Genius - 2020 - Set My Heart on Fire Immediately
+Billy Woods - 2017 - Known Unknowns
+Marissa Nadler - 2016 - Strangers
+Dope Body - 2012 - Natural History
+The Flaming Lips - 2020 - American Head
+Marvin Gaye - 1971 - What's Going On
+Stevie Wonder - 1976 - Songs in the Key of Life
+Nirvana - 1991 - Nevermind
+Fleetwood Mac - 1977 - Rumours
+Prince and the Revolution - 1984 - Purple Rain
+Bob Dylan - 1975 - Blood on the Tracks
+Lauryn Hill - 1998- The Miseducation of Lauryn Hill
+Michael Jackson - 1982 - Thriller
+Aretha Franklin - 1967 - I Never Loved a Man the Way I Love You
+The Rolling Stones - 1972 - Exile on Main St.
+Public Enemy - 1988 - It Takes a Nation of Millions to Hold Us Back
+Bob Dylan - 1965 - Highway 61 Revisited
+Bruce Springsteen - 1975 - Born to Run
+The Notorious B.I.G. - 1994 - Ready to Die
+Carole King - 1971 - Tapestry
+Patti Smith - 1975 - Horses
+D'Angelo - 2000 - Voodoo
+The Jimi Hendrix Experience - 1967 - Are You Experienced
+Amy Winehouse - 2006 - Back to Black
+Stevie Wonder - 1973 - Innervisions
+The Beatles - 1965 - Rubber Soul
+Michael Jackson - 1979 - Off the Wall
+Dr. Dre - 1992 - The Chronic
+Bob Dylan - 1966 - Blonde on Blonde
+The Rolling Stones - 1969 - Let It Bleed
+A Tribe Called Quest - 1991 - The Low End Theory
+Prince - 1987 - Sign o' the Times
+Ramones - 1976 - Ramones
+Bob Marley and the Wailers - 1984 - Legend
+Outkast - 1998 - Aquemini
+Jay-Z - 2001 - The Blueprint
+Chuck Berry - 1982 - The Great Twenty-Eight
+David Bowie - 1976 - Station to Station
+James Brown - 1991 - Star Time
+Pink Floyd - 1973 - The Dark Side of the Moon
+Liz Phair - 1993 - Exile in Guyville
+Led Zeppelin - 1970 - Led Zeppelin IV
+Stevie Wonder - 1972 - Talking Book
+Van Morrison - 1968 - Astral Weeks
+Eric B. & Rakim - 1987 - Paid in Full
+Guns N' Roses - 1987 - Appetite for Destruction
+Steely Dan - 1977 - Aja
+Outkast - 2000 - Stankonia
+James Brown - 1963 - Live at the Apollo
+Jay-Z - 1996 - Reasonable Doubt
+Kate Bush - 1985 - Hounds of Love
+Alanis Morissette - 1995 - Jagged Little Pill
+N.W.A - 1988 - Straight Outta Compton
+Bob Marley and the Wailers - 1977 - Exodus
+Neil Young - 1972 - Harvest
 Aretha Franklin - Lady Soul
 Curtis Mayfield - Super Fly
 The Who - Who's Next
@@ -336,7 +312,6 @@ AC/DC - Back in Black
 John Lennon - John Lennon/Plastic Ono Band
 The Doors - The Doors
 Miles Davis - Bitches Brew
-David Bowie - Hunky Dory
 Erykah Badu - Baduizm
 Neil Young - After the Gold Rush
 Bruce Springsteen - Darkness on the Edge of Town
@@ -350,7 +325,6 @@ Lucinda Williams - Car Wheels on a Gravel Road
 Taylor Swift - Red
 The Band - Music from Big Pink
 Led Zeppelin - Led Zeppelin
-The Clash - The Clash
 De La Soul - 3 Feet High and Rising
 The Rolling Stones - Sticky Fingers
 The Allman Brothers Band - At Fillmore East
@@ -451,7 +425,6 @@ Björk - Homogenic
 Nick Drake - Pink Moon
 Kanye West - Graduation
 Cat Stevens - Tea for the Tillerman
-David Bowie - Low
 Eagles - Eagles
 Lil Wayne - Tha Carter III
 Run-DMC - Raising Hell
@@ -632,7 +605,6 @@ Massive Attack - Mezzanine
 The Kinks - The Kinks Are the Village Green Preservation Society
 Ramones - Rocket to Russia
 J Dilla - Donuts
-Radiohead - In Rainbows
 Aretha Franklin - Young, Gifted and Black
 Mariah Carey - The Emancipation of Mimi
 Pixies - Surfer Rosa

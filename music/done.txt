@@ -294,7 +294,7 @@ Fiona Apple - 2020 - Fetch the Bolt Cutters
 Fishmans - 1999 - 98.12.28 男達の別れ
 FKA twigs - 2015 - M3LL155X EP
 FKA twigs - 2022 - CAPRISONGS
-FKA twigs - LP1 - 2014
+FKA twigs - 2014 - LP1
 Flaming Lips - 2009 - Embryonic
 Fleet Foxes - 2011 - Helplessness Blues - The Shrine / An Argument
 Floating Points, Pharoah Sanders & The London Symphony Orchestra - 2021 - Promises
@@ -854,7 +854,7 @@ The Tallest Man On Earth - 2018 - When the Bird Sees Solid Ground
 The Tallest Man On Earth - 2019 - I Love You. It's a Fever Dream.
 The Underachievers - 2015 - Evermore: The Art of Duality
 The UV Race - 2011 - Homo
-The Velvet Underground & Nico - 1967
+The Velvet Underground - 1967 - The Velvet Underground & Nico
 The Voidz - 2018 - Virtue
 The Weeknd - 2012 - Echoes of Silence - D.D.
 The Weeknd - 2022 - Dawn FM
