@@ -56,7 +56,7 @@ int main() {
           }
         }
       }
-      snprintf(buf2, BUF_SIZE, "open \"https://duckduckgo.com/?q=%s+!ytm\" &", buf);
+      snprintf(buf2, BUF_SIZE, "open \"https://hyperpipe.surge.sh/search/%s\" &", buf);
       system(buf2);
       break;
     }
