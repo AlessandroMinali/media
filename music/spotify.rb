@@ -16,5 +16,6 @@ loop do
   save if gets.chomp == 'exit'
   song = DATA.shift
   puts song
-  `open "https://yewtu.be/search?q=#{song}"`
+  # `open "https://yewtu.be/search?q=#{song}"`
+  `open "https://vid.puffyan.us/search?q=#{song}"`
 end

@@ -56,7 +56,7 @@ int main() {
           }
         }
       }
-      snprintf(buf2, BUF_SIZE, "open \"https://hyperpipe.surge.sh/search/%s\" &", buf);
+      snprintf(buf2, BUF_SIZE, "open \"https://music.youtube.com/search?q=%s\" &", buf);
       system(buf2);
       break;
     }
