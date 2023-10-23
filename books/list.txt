@@ -1,10 +1,9 @@
-Blindsight
-
 Star Maker
-Linear Algebra Done Right
+
 The Rings of Saturn
 Moby Dick
 Atlas Shrugged
+Linear Algebra Done Right
 Cat's Cradle
 From Bacteria to Bach and Back
 
@@ -108,6 +107,7 @@ Quarantine
 Real Time Collision Detection
 Reap3r
 Reasons and Persons
+Resistance to Civil Government
 Right-Wing Women
 Seveneves
 SICP (js edition???)
@@ -182,7 +182,9 @@ Underground - Murakami
 Understanding Software Dynamics
 Uzumaki
 VALIS
+Walden
 We are Here: An Atlas of Aotearoa
-Working Effectively with Legacy Code
 Where the Crawdads Sing
+Without Conscience: The Disturbing World of the Psychopaths Among Us
+Working Effectively with Legacy Code
 https://danluu.com/programming-books/
