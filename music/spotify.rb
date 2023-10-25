@@ -1,10 +1,10 @@
 #!/usr/bin/env ruby
 # frozen_string_literal: true
 
-DATA = IO.readlines('spotify.txt', chomp: true)
+DATA = IO.readlines("#{__dir__}/spotify.txt", chomp: true)
 
 def save
-  IO.write('spotify.txt', DATA.join("\n"))
+  IO.write("#{__dir__}/spotify.txt", DATA.join("\n"))
   exit(0)
 end
 
