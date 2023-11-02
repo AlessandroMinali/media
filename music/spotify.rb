@@ -11,7 +11,7 @@ end
 Signal.trap('INT') { save }
 
 puts 'Spotify Song List'
-count = 100
+count = 30
 n = 5
 loop do
   print '>> '
