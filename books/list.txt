@@ -40,6 +40,7 @@ Cloud Atlas
 Computer Architecture: A Quantitative Approach
 Computer Organization and Design RISC-V Edition: The Hardware Software Interface
 Consciousness Explained
+Cracking the Coding Interview
 Creativity: A Short and Cheerful Guide
 Crime and Punishment
 Cryptonomicon
@@ -133,6 +134,7 @@ Performance Analysis and Tuning on Modern CPUs
 Philosophical Investigations
 Physically Based Rendering, Third Edition
 Pictures from the Water Trade: An Englishman in Japan
+Probability and Computing: Randomized Algorithms and Probabilistic Analysis
 Proust
 Quantum Mechanics: The Theoretical Minimum 
 Quran
@@ -151,7 +153,6 @@ Solaris
 Something to Do with Paying Attention
 Sometimes a Great Notion
 Special Relativity and Classical Field Theory: The Theoretical Minimum
-Steven Skiena's The Algorithm Design Manual
 Stiff: The Curious Lives of Human Cadavers
 Story of Your Life
 Sun and Steel
@@ -163,6 +164,7 @@ Terra Nostra
 The 4-Hour Workweek
 The Alchemist
 The Aleph and Other Stories
+The Algorithm Design Manual
 The Art of Computer Programming
 The Art of Doing Science and Engineering
 The Art of Unix Programming
@@ -189,6 +191,7 @@ The Dispossessed
 The Distance of the Moon
 The Dream Machine - M. Mitchell Waldrop
 The Electric Kool-Aid Acid Test
+The Elements of Computing Systems: Building a Modern Computer from First Principles (nand2tetris)
 The Elephant Vanishes
 The Epic of Gilgamesh - Andrew George
 The Feynman Lectures on Physics
@@ -256,4 +259,5 @@ We are Here: An Atlas of Aotearoa
 Where the Crawdads Sing
 Without Conscience: The Disturbing World of the Psychopaths Among Us
 Working Effectively with Legacy Code
-https://danluu.com/programming-books/
+xv6 - https://pdos.csail.mit.edu/6.1810/2023/xv6.html
+
