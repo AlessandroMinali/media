@@ -14,8 +14,10 @@ From Bacteria to Bach and Back
 A Brief History of Time
 A Gentlement in Moscow
 A Scanner Darkly
+A Universal History of Infamy
 Aesop's Fables
 Alice's Adventures in Wonderland
+All the Pretty Horses
 American Psycho
 Anathem
 Anna Karenina
@@ -39,35 +41,43 @@ Crime and Punishment
 Cryptonomicon
 Cyberiad
 Debt: The first 5000 years
+Demian: The Story of a Boyhood
 Do Androids Dream of Electric Sheep
 Dune Messiah
 East of Eden
+Ecce Homo
 Elbow Room
 Exhalation
 Fahrenheit 451
 Ficciones
 FlatLand
 Flowers for Algernon
+Fourteen: A Daughter’s Memoir of Adventure, Sailing, and Survival
 Frankenstein; or, The Modern Prometheus
 Game Engine Architecture, Third Edition
 Game Engine Black Book: DOOM
 Game Engine Black Book: Wolfenstein 3D
 Gardens of the Moon
-Grapes of Wrath
+Grapes of Wrath (buy)
 Graphics Gems
 Graphics Programming Black Book
 Gravity's Rainbow
 Gulliver's Travels
+Guns, Germs & Steel
 Hacker's Delight
 Hacking, 2nd Edition
 Hard-Boiled Wonderland and the End of the World
 House of Leaves
+How to Be a Woman
 How to Blow Up a Pipeline
 How to Lie with Statistics
 How Not to Die
 HyperComplex Numbers: An Elementary Introduction to Algebras
 If on a Winter's Night a Traveler
+I Hope I Shall Arrive Soon
 Iliad
+In Praise of Darkness
+Incognito: The Secret Lives of the Brain
 Infinite Jest
 Into the Wild
 Invisible Cities
@@ -78,6 +88,7 @@ Kokoro
 Last and First Men
 Learn Functional Programming with Elixir
 Leaves of Grass
+Letter to my Father
 Letters to a Young Poet
 Life of Johnson
 Literate Programming
@@ -89,13 +100,16 @@ Mastering Algorithms with C
 Meditations
 Meditations on First Philosophy
 Modern Processor Design: Fundamentals of Superscalar Processors
+Mr. Palomar
 Nausicaä Of The Valley Of The Wind Box Set
 Neuromancer
 Odyssey
 Oliver Byrne: The First Six Books of the Elements of Euclid 
 One Hundred Years of Solitude
+One-Hour Wargames: Practical Tabletop Battles for those with Limited Time and Space
 Opening Theory Made Easy: Twenty Strategic Principles to Improve Your Opening Game
 Overcoming Gravity: A Systematic Approach to Gymnastics and Bodyweight Strength
+Our Ancestors
 Permutation City
 Performance Analysis and Tuning on Modern CPUs
 Philosophical Investigations
@@ -107,11 +121,13 @@ Quarantine
 Real Time Collision Detection
 Reap3r
 Reasons and Persons
+Remember to Remember
 Resistance to Civil Government
 Right-Wing Women
 Seveneves
 SICP (js edition???)
 Scientific Freedom: The Elixir of Civilization
+Something to Do with Paying Attention
 Sometimes a Great Notion
 Special Relativity and Classical Field Theory: The Theoretical Minimum
 Steven Skiena's The Algorithm Design Manual
@@ -133,7 +149,10 @@ The Brothers K
 The Broom of the System
 The C Programming Language 2nd Edition
 The Castle
+The Castle of Crossed Destinies
 The Chrysalids
+The Conquest of Bread
+The Circle
 The Design of Everyday Things
 The Demon-Haunted World
 The Distance of the Moon
@@ -171,9 +190,12 @@ The Theoretical Minimum: What You Need to Know to Start Doing Physics
 The Three Stigmata of Palmer Eldritch
 The Toyota Way
 The Way of Kings
-The unbearable lightness of being
+The White Castle
+The Written World and the Unwritten World
+The Unbearable Lightness of Being
 Three Body Problem
 Through the Looking Glass
+Trees: An Anthology of Writings and Paintings
 To Kill a Mockingbird
 Tomie
 Ubik
