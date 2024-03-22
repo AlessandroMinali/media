@@ -17,6 +17,7 @@ A Gentlement in Moscow
 A Scanner Darkly
 A Universal History of Infamy
 Aesop's Fables
+Akira
 Alice's Adventures in Wonderland
 All the Pretty Horses
 American Psycho
@@ -48,6 +49,7 @@ Divine Comedy
 Do Androids Dream of Electric Sheep
 Don't Sleep, There Are Snakes: Life and Language in the Amazonian Jungle
 Dracula
+Duck, Death and the Tulip
 Dune Messiah
 East of Eden
 Ecce Homo
@@ -64,7 +66,9 @@ Game Engine Architecture, Third Edition
 Game Engine Black Book: DOOM
 Game Engine Black Book: Wolfenstein 3D
 Gardens of the Moon
-Grapes of Wrath (buy)
+Ghost in the shell
+Godforsaken Sea: The True Story of a Race Through the World's Most Dangerous Waters
+Grapes of Wrath
 Graphics Gems
 Graphics Programming Black Book
 Gravity's Rainbow
@@ -78,7 +82,7 @@ How the Food Industry Influences Nutrition and Health
 How to Be a Woman
 How to Blow Up a Pipeline
 How to Lie with Statistics
-How Not to Die
+How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease
 HyperComplex Numbers: An Elementary Introduction to Algebras
 If on a Winter's Night a Traveler
 I Hope I Shall Arrive Soon
@@ -105,14 +109,19 @@ Lord of the Flies
 Love in the Time of Cholera
 Man's Search for Meaning
 Mastering Algorithms with C
+Maus
 Meditations
 Meditations on First Philosophy
 Modern Processor Design: Fundamentals of Superscalar Processors
 Mr. Palomar
-Nausicaä Of The Valley Of The Wind Box Set
+Nausicaä of the Valley of the Wind
 Neuromancer
+North to the Night : A Spiritual Odyssey in the Arctic
 Odyssey
-Oliver Byrne: The First Six Books of the Elements of Euclid 
+Oliver Byrne: The First Six Books of the Elements of Euclid
+On Food and Cooking: The Science and Lore of the Kitchen
+On Trails: An Exploration
+On War
 One Hundred Years of Solitude
 One Human Minute
 One-Hour Wargames: Practical Tabletop Battles for those with Limited Time and Space
@@ -134,6 +143,7 @@ Reasons and Persons
 Remember to Remember
 Resistance to Civil Government
 Right-Wing Women
+Seraffyn's European Adventure
 Seveneves
 SICP (js edition???)
 Scientific Freedom: The Elixir of Civilization
@@ -166,6 +176,7 @@ The Broom of the System
 The C Programming Language 2nd Edition
 The Castle
 The Castle of Crossed Destinies
+The Celestine Prophecy
 The China Study: The Most Comprehensive Study of Nutrition Ever Conducted And the Startling Implications for Diet, Weight Loss, And Long-term Health
 The Chrysalids
 The Circle
@@ -198,6 +209,8 @@ The Making of Prince of Persia: Journals 1985-1993
 The Man in the High Castle
 The Man Who Mistook His Wife for a Hat
 The Medusa and the Snail
+The Monkey Wrench Gang
+The Morning of the Magicians: Introduction to Fantastic Realism
 The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins
 The Mythical Man Month
 The Nose (https://www.gutenberg.org/files/36238/36238-h/36238-h.htm)
@@ -237,6 +250,7 @@ Understanding Software Dynamics
 Uzumaki
 VALIS
 Walden & Civil Disobedience
+War and Peace
 Watership Down
 We are Here: An Atlas of Aotearoa
 Where the Crawdads Sing
