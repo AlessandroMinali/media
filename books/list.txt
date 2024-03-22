@@ -20,6 +20,7 @@ Alice's Adventures in Wonderland
 All the Pretty Horses
 American Psycho
 Anathem
+Animal Liberation: A New Ethics for Our Treatment of Animals
 Anna Karenina
 Autobiography of a Corpse
 Axiomatic
@@ -39,10 +40,11 @@ Consciousness Explained
 Creativity: A Short and Cheerful Guide
 Crime and Punishment
 Cryptonomicon
-Cyberiad
 Debt: The first 5000 years
 Demian: The Story of a Boyhood
+Divine Comedy
 Do Androids Dream of Electric Sheep
+Don't Sleep, There Are Snakes: Life and Language in the Amazonian Jungle
 Dune Messiah
 East of Eden
 Ecce Homo
@@ -86,6 +88,7 @@ It Can't Happen Here
 Keys to Infinity
 Kokoro
 Last and First Men
+Le Ton beau de Marot: In Praise of the Music of Language
 Learn Functional Programming with Elixir
 Leaves of Grass
 Letter to my Father
@@ -114,6 +117,7 @@ Permutation City
 Performance Analysis and Tuning on Modern CPUs
 Philosophical Investigations
 Physically Based Rendering, Third Edition
+Pictures from the Water Trade: An Englishman in Japan
 Proust
 Quantum Mechanics: The Theoretical Minimum 
 Quran
@@ -127,10 +131,12 @@ Right-Wing Women
 Seveneves
 SICP (js edition???)
 Scientific Freedom: The Elixir of Civilization
+Solaris
 Something to Do with Paying Attention
 Sometimes a Great Notion
 Special Relativity and Classical Field Theory: The Theoretical Minimum
 Steven Skiena's The Algorithm Design Manual
+Stiff: The Curious Lives of Human Cadavers
 Story of Your Life
 Sun and Steel
 Super-Frog Saves Tokyo
@@ -139,20 +145,25 @@ Termination Shock
 Terra Nostra
 The 4-Hour Workweek
 The Alchemist
+The Aleph and Other Stories
 The Art of Computer Programming
 The Art of Doing Science and Engineering
 The Bell Jar
 The Book of CP-System
 The Book of Five Rings
+The Box Wine Sailors: Misadventures of a Broke Young Couple at Sea
 The Brothers Karamazov
 The Brothers K
 The Broom of the System
 The C Programming Language 2nd Edition
 The Castle
 The Castle of Crossed Destinies
+The China Study: The Most Comprehensive Study of Nutrition Ever Conducted And the Startling Implications for Diet, Weight Loss, And Long-term Health
 The Chrysalids
-The Conquest of Bread
 The Circle
+The Conquest of Bread
+The Cyberiad
+The Definitive H.P. Lovecraft- 67 Tales of Horror in One Volume
 The Design of Everyday Things
 The Demon-Haunted World
 The Distance of the Moon
@@ -166,14 +177,18 @@ The Fountainhead
 The Glass Bead Game
 The Giver
 The Hero with a Thousand Faces
+The Jounral of Henry David Thoreau, 1837-1861
 The Library of Babel
+The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing
 The Little Prince
 The Machinery of Life
 The Making of Prince of Persia: Journals 1985-1993
+The Man in the High Castle
 The Man Who Mistook His Wife for a Hat
 The Medusa and the Snail
 The Mythical Man Month
 The Nose (https://www.gutenberg.org/files/36238/36238-h/36238-h.htm)
+The One-Straw Revolution: An Introduction to Natural Farming
 The Origin of Consciousness in the Breakdown of the Bicameral Mind
 The Pale King
 The Princess Bride
@@ -183,6 +198,7 @@ The River Why
 The Road
 The Remains of the Day
 The Setting Sun
+The Sixth Extinction: An Unnatural History
 The Sleepwalkers: A History of Man's Changing Vision of the Universe 
 The Sympathizer
 The Temple of the Golden Pavilion
@@ -195,6 +211,7 @@ The Written World and the Unwritten World
 The Unbearable Lightness of Being
 Three Body Problem
 Through the Looking Glass
+Travels In Hyperreality
 Trees: An Anthology of Writings and Paintings
 To Kill a Mockingbird
 Tomie
@@ -204,7 +221,7 @@ Underground - Murakami
 Understanding Software Dynamics
 Uzumaki
 VALIS
-Walden
+Walden & Civil Disobedience
 We are Here: An Atlas of Aotearoa
 Where the Crawdads Sing
 Without Conscience: The Disturbing World of the Psychopaths Among Us
