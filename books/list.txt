@@ -12,6 +12,7 @@ From Bacteria to Bach and Back
 1Q84
 99 Bottles of OOP
 A Brief History of Time
+A Canticle for Leibowitz
 A Gentlement in Moscow
 A Scanner Darkly
 A Universal History of Infamy
@@ -19,6 +20,7 @@ Aesop's Fables
 Alice's Adventures in Wonderland
 All the Pretty Horses
 American Psycho
+Anna Karenina
 Anathem
 Animal Liberation: A New Ethics for Our Treatment of Animals
 Anna Karenina
@@ -45,6 +47,7 @@ Demian: The Story of a Boyhood
 Divine Comedy
 Do Androids Dream of Electric Sheep
 Don't Sleep, There Are Snakes: Life and Language in the Amazonian Jungle
+Dracula
 Dune Messiah
 East of Eden
 Ecce Homo
@@ -52,6 +55,7 @@ Elbow Room
 Exhalation
 Fahrenheit 451
 Ficciones
+Finite and Infinite Games
 FlatLand
 Flowers for Algernon
 Fourteen: A Daughter’s Memoir of Adventure, Sailing, and Survival
@@ -70,6 +74,7 @@ Hacker's Delight
 Hacking, 2nd Edition
 Hard-Boiled Wonderland and the End of the World
 House of Leaves
+How the Food Industry Influences Nutrition and Health
 How to Be a Woman
 How to Blow Up a Pipeline
 How to Lie with Statistics
@@ -109,6 +114,7 @@ Neuromancer
 Odyssey
 Oliver Byrne: The First Six Books of the Elements of Euclid 
 One Hundred Years of Solitude
+One Human Minute
 One-Hour Wargames: Practical Tabletop Battles for those with Limited Time and Space
 Opening Theory Made Easy: Twenty Strategic Principles to Improve Your Opening Game
 Overcoming Gravity: A Systematic Approach to Gymnastics and Bodyweight Strength
@@ -141,6 +147,7 @@ Story of Your Life
 Sun and Steel
 Super-Frog Saves Tokyo
 Surreal Numbers - D. Knuth
+Systemantics
 Termination Shock
 Terra Nostra
 The 4-Hour Workweek
@@ -148,6 +155,7 @@ The Alchemist
 The Aleph and Other Stories
 The Art of Computer Programming
 The Art of Doing Science and Engineering
+The Art of Unix Programming
 The Bell Jar
 The Book of CP-System
 The Book of Five Rings
@@ -166,26 +174,31 @@ The Cyberiad
 The Definitive H.P. Lovecraft- 67 Tales of Horror in One Volume
 The Design of Everyday Things
 The Demon-Haunted World
+The Dispossessed
 The Distance of the Moon
 The Dream Machine - M. Mitchell Waldrop
 The Electric Kool-Aid Acid Test
 The Elephant Vanishes
-The Epic of Gilgamesh - Benjamin R Foster
-The decline and fall of the roman empire volume 1
+The Epic of Gilgamesh - Andrew George
 The Feynman Lectures on Physics
 The Fountainhead
-The Glass Bead Game
 The Giver
+The Glass Bead Game
+The Golden Apples of the Sun
 The Hero with a Thousand Faces
+The Incredible Tide
 The Jounral of Henry David Thoreau, 1837-1861
 The Library of Babel
 The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing
 The Little Prince
+The Long Way
+The Machine Stops
 The Machinery of Life
 The Making of Prince of Persia: Journals 1985-1993
 The Man in the High Castle
 The Man Who Mistook His Wife for a Hat
 The Medusa and the Snail
+The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins
 The Mythical Man Month
 The Nose (https://www.gutenberg.org/files/36238/36238-h/36238-h.htm)
 The One-Straw Revolution: An Introduction to Natural Farming
@@ -200,10 +213,12 @@ The Remains of the Day
 The Setting Sun
 The Sixth Extinction: An Unnatural History
 The Sleepwalkers: A History of Man's Changing Vision of the Universe 
+The Summer Book
 The Sympathizer
 The Temple of the Golden Pavilion
 The Theoretical Minimum: What You Need to Know to Start Doing Physics
 The Three Stigmata of Palmer Eldritch
+The Timeless Way of Building
 The Toyota Way
 The Way of Kings
 The White Castle
@@ -222,6 +237,7 @@ Understanding Software Dynamics
 Uzumaki
 VALIS
 Walden & Civil Disobedience
+Watership Down
 We are Here: An Atlas of Aotearoa
 Where the Crawdads Sing
 Without Conscience: The Disturbing World of the Psychopaths Among Us
