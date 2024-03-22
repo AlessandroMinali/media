@@ -21,9 +21,9 @@ Akira
 Alice's Adventures in Wonderland
 All the Pretty Horses
 American Psycho
-Anna Karenina
 Anathem
 Animal Liberation: A New Ethics for Our Treatment of Animals
+Anna Karenina
 Anna Karenina
 Autobiography of a Corpse
 Axiomatic
@@ -79,14 +79,14 @@ Hacker's Delight
 Hacking, 2nd Edition
 Hard-Boiled Wonderland and the End of the World
 House of Leaves
+How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease
 How the Food Industry Influences Nutrition and Health
 How to Be a Woman
 How to Blow Up a Pipeline
 How to Lie with Statistics
-How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease
 HyperComplex Numbers: An Elementary Introduction to Algebras
-If on a Winter's Night a Traveler
 I Hope I Shall Arrive Soon
+If on a Winter's Night a Traveler
 Iliad
 In Praise of Darkness
 Incognito: The Secret Lives of the Brain
@@ -123,32 +123,32 @@ Oliver Byrne: The First Six Books of the Elements of Euclid
 On Food and Cooking: The Science and Lore of the Kitchen
 On Trails: An Exploration
 On War
-One Hundred Years of Solitude
 One Human Minute
+One Hundred Years of Solitude
 One-Hour Wargames: Practical Tabletop Battles for those with Limited Time and Space
 Opening Theory Made Easy: Twenty Strategic Principles to Improve Your Opening Game
-Overcoming Gravity: A Systematic Approach to Gymnastics and Bodyweight Strength
 Our Ancestors
-Permutation City
+Overcoming Gravity: A Systematic Approach to Gymnastics and Bodyweight Strength
 Performance Analysis and Tuning on Modern CPUs
+Permutation City
 Philosophical Investigations
 Physically Based Rendering, Third Edition
 Pictures from the Water Trade: An Englishman in Japan
 Probability and Computing: Randomized Algorithms and Probabilistic Analysis
 Proust
 Quantum Mechanics: The Theoretical Minimum 
-Quran
 Quarantine
+Quran
 Real Time Collision Detection
 Reap3r
 Reasons and Persons
 Remember to Remember
 Resistance to Civil Government
 Right-Wing Women
-Seraffyn's European Adventure
-Seveneves
 SICP (js edition???)
 Scientific Freedom: The Elixir of Civilization
+Seraffyn's European Adventure
+Seveneves
 Solaris
 Something to Do with Paying Attention
 Sometimes a Great Notion
@@ -172,9 +172,9 @@ The Bell Jar
 The Book of CP-System
 The Book of Five Rings
 The Box Wine Sailors: Misadventures of a Broke Young Couple at Sea
-The Brothers Karamazov
-The Brothers K
 The Broom of the System
+The Brothers K
+The Brothers Karamazov
 The C Programming Language 2nd Edition
 The Castle
 The Castle of Crossed Destinies
@@ -185,8 +185,8 @@ The Circle
 The Conquest of Bread
 The Cyberiad
 The Definitive H.P. Lovecraft- 67 Tales of Horror in One Volume
-The Design of Everyday Things
 The Demon-Haunted World
+The Design of Everyday Things
 The Dispossessed
 The Distance of the Moon
 The Dream Machine - M. Mitchell Waldrop
@@ -209,8 +209,8 @@ The Long Way
 The Machine Stops
 The Machinery of Life
 The Making of Prince of Persia: Journals 1985-1993
-The Man in the High Castle
 The Man Who Mistook His Wife for a Hat
+The Man in the High Castle
 The Medusa and the Snail
 The Monkey Wrench Gang
 The Morning of the Magicians: Introduction to Fantastic Realism
@@ -220,12 +220,12 @@ The Nose (https://www.gutenberg.org/files/36238/36238-h/36238-h.htm)
 The One-Straw Revolution: An Introduction to Natural Farming
 The Origin of Consciousness in the Breakdown of the Bicameral Mind
 The Pale King
-The Princess Bride
 The Pragmatic Programmer
+The Princess Bride
+The Remains of the Day
 The Rise and Fall of the Third Reich
 The River Why
 The Road
-The Remains of the Day
 The Setting Sun
 The Sixth Extinction: An Unnatural History
 The Sleepwalkers: A History of Man's Changing Vision of the Universe 
@@ -236,16 +236,16 @@ The Theoretical Minimum: What You Need to Know to Start Doing Physics
 The Three Stigmata of Palmer Eldritch
 The Timeless Way of Building
 The Toyota Way
+The Unbearable Lightness of Being
 The Way of Kings
 The White Castle
 The Written World and the Unwritten World
-The Unbearable Lightness of Being
 Three Body Problem
 Through the Looking Glass
-Travels In Hyperreality
-Trees: An Anthology of Writings and Paintings
 To Kill a Mockingbird
 Tomie
+Travels In Hyperreality
+Trees: An Anthology of Writings and Paintings
 Ubik
 Ulysses
 Underground - Murakami
@@ -255,9 +255,7 @@ VALIS
 Walden & Civil Disobedience
 War and Peace
 Watership Down
-We are Here: An Atlas of Aotearoa
 Where the Crawdads Sing
 Without Conscience: The Disturbing World of the Psychopaths Among Us
 Working Effectively with Legacy Code
 xv6 - https://pdos.csail.mit.edu/6.1810/2023/xv6.html
-
