@@ -12,12 +12,18 @@ From Bacteria to Bach and Back
 1Q84
 99 Bottles of OOP
 A Brief History of Time
+A Canticle for Leibowitz
 A Gentlement in Moscow
 A Scanner Darkly
+A Universal History of Infamy
 Aesop's Fables
+Akira
 Alice's Adventures in Wonderland
+All the Pretty Horses
 American Psycho
 Anathem
+Animal Liberation: A New Ethics for Our Treatment of Animals
+Anna Karenina
 Anna Karenina
 Autobiography of a Corpse
 Axiomatic
@@ -34,40 +40,56 @@ Cloud Atlas
 Computer Architecture: A Quantitative Approach
 Computer Organization and Design RISC-V Edition: The Hardware Software Interface
 Consciousness Explained
+Cracking the Coding Interview
 Creativity: A Short and Cheerful Guide
 Crime and Punishment
 Cryptonomicon
-Cyberiad
 Debt: The first 5000 years
+Demian: The Story of a Boyhood
+Divine Comedy
 Do Androids Dream of Electric Sheep
+Don't Sleep, There Are Snakes: Life and Language in the Amazonian Jungle
+Dracula
+Duck, Death and the Tulip
 Dune Messiah
 East of Eden
+Ecce Homo
 Elbow Room
 Exhalation
 Fahrenheit 451
 Ficciones
+Finite and Infinite Games
 FlatLand
 Flowers for Algernon
+Fourteen: A Daughter’s Memoir of Adventure, Sailing, and Survival
 Frankenstein; or, The Modern Prometheus
 Game Engine Architecture, Third Edition
 Game Engine Black Book: DOOM
 Game Engine Black Book: Wolfenstein 3D
 Gardens of the Moon
+Ghost in the shell
+Godforsaken Sea: The True Story of a Race Through the World's Most Dangerous Waters
 Grapes of Wrath
 Graphics Gems
 Graphics Programming Black Book
 Gravity's Rainbow
 Gulliver's Travels
+Guns, Germs & Steel
 Hacker's Delight
 Hacking, 2nd Edition
 Hard-Boiled Wonderland and the End of the World
 House of Leaves
+How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease
+How the Food Industry Influences Nutrition and Health
+How to Be a Woman
 How to Blow Up a Pipeline
 How to Lie with Statistics
-How Not to Die
 HyperComplex Numbers: An Elementary Introduction to Algebras
+I Hope I Shall Arrive Soon
 If on a Winter's Night a Traveler
 Iliad
+In Praise of Darkness
+Incognito: The Secret Lives of the Brain
 Infinite Jest
 Into the Wild
 Invisible Cities
@@ -76,8 +98,10 @@ It Can't Happen Here
 Keys to Infinity
 Kokoro
 Last and First Men
+Le Ton beau de Marot: In Praise of the Music of Language
 Learn Functional Programming with Elixir
 Leaves of Grass
+Letter to my Father
 Letters to a Young Poet
 Life of Johnson
 Literate Programming
@@ -86,105 +110,154 @@ Lord of the Flies
 Love in the Time of Cholera
 Man's Search for Meaning
 Mastering Algorithms with C
+Maus
 Meditations
 Meditations on First Philosophy
 Modern Processor Design: Fundamentals of Superscalar Processors
-Nausicaä Of The Valley Of The Wind Box Set
+Mr. Palomar
+Nausicaä of the Valley of the Wind
 Neuromancer
+North to the Night : A Spiritual Odyssey in the Arctic
 Odyssey
-Oliver Byrne: The First Six Books of the Elements of Euclid 
+Oliver Byrne: The First Six Books of the Elements of Euclid
+On Food and Cooking: The Science and Lore of the Kitchen
+On Trails: An Exploration
+On War
+One Human Minute
 One Hundred Years of Solitude
+One-Hour Wargames: Practical Tabletop Battles for those with Limited Time and Space
 Opening Theory Made Easy: Twenty Strategic Principles to Improve Your Opening Game
+Our Ancestors
 Overcoming Gravity: A Systematic Approach to Gymnastics and Bodyweight Strength
-Permutation City
+Pebble in the Sky
 Performance Analysis and Tuning on Modern CPUs
+Permutation City
 Philosophical Investigations
 Physically Based Rendering, Third Edition
+Pictures from the Water Trade: An Englishman in Japan
+Probability and Computing: Randomized Algorithms and Probabilistic Analysis
 Proust
 Quantum Mechanics: The Theoretical Minimum 
-Quran
 Quarantine
+Quran
 Real Time Collision Detection
 Reap3r
 Reasons and Persons
+Remember to Remember
 Resistance to Civil Government
 Right-Wing Women
-Seveneves
-SICP (js edition???)
+Shogun
+Structure and Interpretation of Computer Programs
 Scientific Freedom: The Elixir of Civilization
+Seraffyn's European Adventure
+Seveneves
+Solaris
+Something to Do with Paying Attention
 Sometimes a Great Notion
 Special Relativity and Classical Field Theory: The Theoretical Minimum
-Steven Skiena's The Algorithm Design Manual
+Stiff: The Curious Lives of Human Cadavers
 Story of Your Life
 Sun and Steel
 Super-Frog Saves Tokyo
 Surreal Numbers - D. Knuth
+Systemantics
 Termination Shock
 Terra Nostra
 The 4-Hour Workweek
 The Alchemist
+The Aleph and Other Stories
+The Algorithm Design Manual
 The Art of Computer Programming
 The Art of Doing Science and Engineering
+The Art of Unix Programming
 The Bell Jar
 The Book of CP-System
 The Book of Five Rings
-The Brothers Karamazov
-The Brothers K
+The Box Wine Sailors: Misadventures of a Broke Young Couple at Sea
 The Broom of the System
+The Brothers K
+The Brothers Karamazov
 The C Programming Language 2nd Edition
 The Castle
+The Castle of Crossed Destinies
+The Celestine Prophecy
+The China Study: The Most Comprehensive Study of Nutrition Ever Conducted And the Startling Implications for Diet, Weight Loss, And Long-term Health
 The Chrysalids
-The Design of Everyday Things
+The Circle
+The Conquest of Bread
+The Cyberiad
+The Definitive H.P. Lovecraft- 67 Tales of Horror in One Volume
 The Demon-Haunted World
+The Design of Everyday Things
+The Dispossessed
 The Distance of the Moon
 The Dream Machine - M. Mitchell Waldrop
 The Electric Kool-Aid Acid Test
+The Elements of Computing Systems: Building a Modern Computer from First Principles (nand2tetris)
 The Elephant Vanishes
-The Epic of Gilgamesh - Benjamin R Foster
-The decline and fall of the roman empire volume 1
+The Epic of Gilgamesh - Andrew George
 The Feynman Lectures on Physics
 The Fountainhead
-The Glass Bead Game
 The Giver
+The Glass Bead Game
+The Golden Apples of the Sun
 The Hero with a Thousand Faces
+The Incredible Tide
+The Jounral of Henry David Thoreau, 1837-1861
 The Library of Babel
+The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing
 The Little Prince
+The Long Way
+The Machine Stops
 The Machinery of Life
 The Making of Prince of Persia: Journals 1985-1993
 The Man Who Mistook His Wife for a Hat
+The Man in the High Castle
 The Medusa and the Snail
+The Monkey Wrench Gang
+The Morning of the Magicians: Introduction to Fantastic Realism
+The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins
 The Mythical Man Month
 The Nose (https://www.gutenberg.org/files/36238/36238-h/36238-h.htm)
+The One-Straw Revolution: An Introduction to Natural Farming
 The Origin of Consciousness in the Breakdown of the Bicameral Mind
 The Pale King
-The Princess Bride
 The Pragmatic Programmer
+The Princess Bride
+The Remains of the Day
 The Rise and Fall of the Third Reich
 The River Why
 The Road
-The Remains of the Day
 The Setting Sun
+The Sixth Extinction: An Unnatural History
 The Sleepwalkers: A History of Man's Changing Vision of the Universe 
+The Summer Book
 The Sympathizer
 The Temple of the Golden Pavilion
 The Theoretical Minimum: What You Need to Know to Start Doing Physics
 The Three Stigmata of Palmer Eldritch
+The Timeless Way of Building
 The Toyota Way
+The Unbearable Lightness of Being
 The Way of Kings
-The unbearable lightness of being
+The White Castle
+The Written World and the Unwritten World
 Three Body Problem
 Through the Looking Glass
 To Kill a Mockingbird
 Tomie
+Travels In Hyperreality
+Trees: An Anthology of Writings and Paintings
 Ubik
 Ulysses
 Underground - Murakami
 Understanding Software Dynamics
 Uzumaki
 VALIS
-Walden
-We are Here: An Atlas of Aotearoa
+Walden & Civil Disobedience
+War and Peace
+Watership Down
 Where the Crawdads Sing
 Without Conscience: The Disturbing World of the Psychopaths Among Us
 Working Effectively with Legacy Code
-https://danluu.com/programming-books/
+xv6 - https://pdos.csail.mit.edu/6.1810/2023/xv6.html

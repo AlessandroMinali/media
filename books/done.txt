@@ -1,21 +1,61 @@
++ A Clockwork Orange
++ A Sand County Almanac
++ Animal Farm
++ Blindsight
++ Brave New World
++ Catcher in the Rye
++ Deep Work
++ Diaspora
++ Don Quixote
++ Dune
++ Entangled Life
+- Finnegans Wake
 Goedel, Escher, Bach
++ Gyo
 Hagakure
 Heart of Darkness
+- How to Win Friends and Influence People
 I Am a Strange Loop
++ Ishmael
++ Kafka On the Shore
 Lessons in the Fundamentals of Go
++ Love Far From Home
 Masters Of Doom
++ My Name is Red
 Never Let Me Go
 No Longer Human
++ Norwegian Wood
++ Of Mice and Men
++ One Thousand and One Nights - abridged
++ Saga
++ Sapiens
++ Schild's Ladder
++ Siddhartha
++ Slaughterhouse 5
++ Snow Crash
++ Stand on Zanibar
 Surely You're Joking, Mr. Feynman!
++ The Art of War
 The Call of Cthulhu
++ The Eyes Have It
 The Great Gatsby
++ The Hitchhiker's Guide to the Galaxy
 The Japanese Negotiator: Subtlety and Strategy Beyond Western Logic
+- The Magic Mountain
 The Metamorphosis
++ The Mind's I
++ The Music of Erich Zann
 The Myth of Sisyphus
++ The Nine Billion Names of God
++ The Power of Habit
 The Shadow Out of Time
++ The Shockwave Rider
 The Shunned House
 The Snow Leopard
++ The Wind-Up Bird Chronicle
++ Tractatus Logico-Philosophicus
 Understanding Comics
++ Watchmen
 We Are Here: An Atlas of Aotearoa
 Why Kids Don't Like School
 Zach-Like
