@@ -12,8 +12,8 @@ int main() {
   char *sites[] = {
     "https://www.criterionchannel.com/search?q=",
     "http://unogs.com/search/",
-    "https://sflix.app/browse?c=movie&m=filter&keyword=",
     "https://thepiratebay.org/search.php?q="
+    "https://sflix.app/browse?c=movie&m=filter&keyword=",
   };
   char *site_labels[] = {"criterion", "netflix", "sflix", "thepiratebay"};
 
