@@ -88,8 +88,8 @@ Beach House - 2012 - Bloom
 Beastie Boys - 2011 - Hot Sauce Committee Part Two
 Belle & Sebastian - 1996 - If You're Feeling Sinister
 Benjamin Earl Turner - 2016 - Yell Pretty - Outro Feat. Saba
-Benjamin Earl Turner - 2019 - FUCK
 Benjamin Earl Turner - 2019 - Bad Nature
+Benjamin Earl Turner - 2019 - FUCK
 Benjamin Earl Turner - 2021 - CURSE OF THE REAL
 Benjamin Earl Turner - 2021 - SELLING AIR - HURT ME
 Beyoncé - 2022 - RENAISSANCE - I'M THAT GIRL
@@ -109,8 +109,8 @@ billy woods - 2012 - History Will Absolve Me
 billy woods - 2022 - Aethiopes
 Björk - 2015 - Vulnicura
 Black Country, New Road - 2021 - For the first time - Instrumental
-Black Country, New Road - 2022 - Snow Globes - Snow Globes
 Black Country, New Road - 2022 - Ants From Up There - Intro
+Black Country, New Road - 2022 - Snow Globes - Snow Globes
 Black Dresses - 2021 - Forever in Your Heart
 Black Flag - 1981 - Damaged
 black midi - 2021 - Cavalcade
@@ -175,17 +175,13 @@ Carly Rae Jepsen - 2016 - Emotion: Side B
 caroline - 2022 - caroline
 Caroline Polachek - 2023 - Desire, I Want To Turn Into You
 Cate Le Bon - 2022 - Pompeii
-Chelsea Wolfe - 2013 - Pain Is Beauty
-Coldplay - 2005 - X&Y - Fix You
-Crosby, Stills & Nash - 1969 - Crosby, Stills & Nash
-Cyndi Lauper - 1983 - She's So Unusual
-Cécile McLorin Salvant - 2022 - Ghost Song
 Ceremony - 2010 - Rohnert Park
 Charli XCX - 2016 - Vroom Vroom EP - Paradise
 Charli XCX - 2020 - how i'm feeling now
 Charlotte Adigéry & Bolis Pupul - 2022 - Topical Dancer
 Chat Pile - 2022 - God's Country
 Chelsea Wolfe - 2011 - Ἀποκάλυψις
+Chelsea Wolfe - 2013 - Pain Is Beauty
 Chelsea Wolfe - 2015 - Abyss
 Chloe x Halle - 2021 - Ungodly Hour
 CHON - 2013 - Newborn Sun
@@ -207,15 +203,19 @@ clipping. - 2020 - Visions of Bodies Being Burned - Something Underneath
 Cloak - 2022 - 111
 Cloud Nothings - 2012 - Attack On Memory
 Clues - 2009 - Clues
+Coldplay - 2005 - X&Y - Fix You
 Colin Stetson - 2011 - New History Warfare Vol. 2: Judges
 Conor Oberst - 2016 - Ruminations
 Converge - 2017 - The Dusk in Us
 Cormorant - 2011 - Dwellings
 Craft Spells - 2011 - Idle Labor
+Crosby, Stills & Nash - 1969 - Crosby, Stills & Nash
 Crying - 2016 - Beyond the Fleeting Gales
 Crystal Stilts - 2011 - In Love with Oblivion
 CunninLynguists - 2011 - Oneirology - Enemies with Benefits
 Current 93 - 2018 - The Light Is Leaving Us All
+Cyndi Lauper - 1983 - She's So Unusual
+Cécile McLorin Salvant - 2022 - Ghost Song
 Da Mafia 6ix - 2013 - 6ix Commandments
 Daddy Yankee - 2004 - Barrio Fino
 Daniel Rossen - 2012 - Silent Hour / Golden Mile
@@ -232,8 +232,8 @@ Dean Blunt - 2020 - Roaches 2012-2019
 Death Grips - 2011 - Exmilitary
 Death Grips - 2012 - The Money Store - Get Got
 Death Grips - 2018 - Year of the Snitch
-Deathspell Omega - 2012 - Drought
 death's dynamic shroud - 2022 - Darklife
+Deathspell Omega - 2012 - Drought
 Deerhoof - 2011 - Deerhoof vs Evil - Super Duper Rescue Heads !
 Deerhoof - 2020 - Future Teenage Cave Artists
 Deerhoof - 2021 - Actually, You Can
@@ -306,9 +306,9 @@ Fiona Apple - 1999 - When the Pawn...
 Fiona Apple - 2012 - The Idler Wheel...
 Fiona Apple - 2020 - Fetch the Bolt Cutters
 Fishmans - 1999 - 98.12.28 男達の別れ
+FKA twigs - 2014 - LP1
 FKA twigs - 2015 - M3LL155X EP
 FKA twigs - 2022 - CAPRISONGS
-FKA twigs - 2014 - LP1
 Flaming Lips - 2009 - Embryonic
 Fleet Foxes - 2011 - Helplessness Blues - The Shrine / An Argument
 Floating Points, Pharoah Sanders & The London Symphony Orchestra - 2021 - Promises
@@ -379,6 +379,7 @@ Hotline Miami - 2012 - Hotline Miami OST - Hydrogen
 Howlin' Wolf - 1959 - Moanin' in the Moonlight
 Huerco S. - 2022 - Plonk - Plonk X
 Hurray for the Riff Raff - 2022 - LIFE ON EARTH
+I Need to Start a Garden - 1993 - Haley Heynderickx - The Bug Collector
 iamamiwhoami - 2012 - Kin
 Iceage - 2011 - New Brigade
 Iceage - 2013 - You're Nothing
@@ -425,11 +426,6 @@ Joanna Newsom - 2015 - Divers - Leaving the City
 Jockstrap - 2022 - I Love You Jennifer B
 Joey Bada$$ - 2017 - All-Amerikkkan Bada$$
 Jogging House - 2022 - Fiber
-Joy Division - 1980 - Closer
-Julia Holter - 2015 - Have You in My Wilderness
-Jóhann Jóhannsson - 2016 - Arrival
-Jóhann Jóhannsson - 2020 - Last and First Men - Physical Description of the Last Human Beings
-Jóhann Jóhannsson - 2022 - Drone Mass
 Johanna Warren - 2022 - Lessons for Mutants
 John Coltrane - 1965 - A Love Supreme - Part 1: "Acknowledgement"
 John Mayer - 2006 - Continuum
@@ -446,11 +442,16 @@ José González - 2007 - In Our Nature
 José González - 2015 - Vestiges & Claws
 José González - 2021 - Local Valley - El Invento
 Joy Division - 1979 - Unknown Pleasures
+Joy Division - 1980 - Closer
 JPEGMAFIA - 2019 - All My Heroes Are Cornballs
 Julia Holter - 2013 - Loud City Song
+Julia Holter - 2015 - Have You in My Wilderness
 Julia Holter - 2018 - Aviary
 Julien Baker - 2017 - Turn Out the Lights - Appointments
 Julien Baker - 2021 - Little Oblivions
+Jóhann Jóhannsson - 2016 - Arrival
+Jóhann Jóhannsson - 2020 - Last and First Men - Physical Description of the Last Human Beings
+Jóhann Jóhannsson - 2022 - Drone Mass
 Ka - 2013 - The Night's Gambit
 Ka - 2016 - Honor Killed the Samurai
 Kali Uchis - 2018 - Isolation
@@ -818,7 +819,6 @@ The Beths - 2022 - Expert in a Dying Field - Silence is Golden
 The Blaze - 2017 - Territory - Virile
 The Blaze - 2018 - DANCEHALL
 The Blaze - 2023 - JUNGLE
-The Blaze - 2017 - Territory
 The Books - 2011 - Lost and Safe (Remastered) - Smells Like Content
 The Books - 2011 - The Lemon of Pink (Remastered)
 The Books - 2011 - Thought For Food (Remastered)
