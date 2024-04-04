@@ -12,12 +12,12 @@ int main() {
   char *sites[] = {
     "https://www.criterionchannel.com/search?q=",
     "http://unogs.com/search/",
-    "https://thepiratebay.org/search.php?q="
-    "https://sflix.app/browse?c=movie&m=filter&keyword=",
+    "https://thepiratebay.org/search.php?q=",
+    // "https://sflix.app/browse?c=movie&m=filter&keyword=",
   };
-  char *site_labels[] = {"criterion", "netflix", "sflix", "thepiratebay"};
+  char *site_labels[] = { "criterion", "netflix",  "thepiratebay", "sflix", };
 
-  for(int i=0; i < 4; ++i) {
+  for(int i=0; i < 3 ; ++i) {
     printf("Search %s? [y/n] ", site_labels[i]);
     scanf(" %c", &c);
     if (c == 'n') { continue; }
