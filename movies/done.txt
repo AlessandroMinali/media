@@ -11,6 +11,7 @@ A Beautiful Mind
 A Hard Day's Night
 + A Man Escaped
 + A Touch of Sin
+A Woman Under the Influence
 About Dry Grasses
 + Adventure Time (TV show)
 + Afire
@@ -19,7 +20,7 @@ After Hours
 + After Life
 Air Doll
 + Akira
-Aladdin
+Aladdin (1992)
 + Alien
 All About Eve
 + All About Lily Chou-Chou
@@ -156,7 +157,7 @@ Ghost Dog: The Way of the Samurai
 + Gladiator
 Godland
 + Gone Girl
-Gone with the Wind
+Gone With the Wind
 Good Morning
 Good Will Hunting
 Goodfellas
@@ -194,6 +195,7 @@ Indiana Jones
 Infernal Affairs
 Inglorious Basterds
 + Inside
+Intentions of Murder
 Interstellar
 + Into the Wild
 + Invincible (TV show)
@@ -210,8 +212,7 @@ Jaws
 + Jojo Rabbit
 Joker
 Jurassic Park
-+ Kill Bill: Volume 1
-+ Kill Bill: Volume 2
++ Kill Bill
 + Kill la Kill (TV show)
 Kumiko, the Treasure Hunter
 + Koyaanisqatsi
@@ -298,6 +299,7 @@ Paris, Texas
 + Pieces of a Woman
 + Ping Pong the animation (TV show)
 Pirates of the Caribbean
+Platform (2000)
 + PlayTime
 + Please Vote for Me
 + Poison
@@ -341,8 +343,9 @@ Scarface
 Schindler's List
 + School of Rock
 + Scott Pilgrim vs. the World
+- Senso
 + Serial Experiments Lain (TV show)
-+ Seven
++ Se7en
 + Severance (TV show)
 + Shaun of the Dead
 Shutter Island
@@ -389,8 +392,10 @@ The Bridge on the River Kwai
 The Deer Hunter
 The Departed
 + The Dirties
+The Earrings of Madame de...
 + The Eight Mountains
 The Elephant Man
+The End of Summer
 + The Evil Dead
 + The Father
 + The Firemen's Ball
@@ -410,6 +415,7 @@ The Hobbit
 + The Hunt (2012)
 The Incredibles
 + The Iron Giant
+The Insect Woman
 + The Killing of a Sacred Deer
 The Koumiko Mystery
 + The Last of Us (TV show)
@@ -481,6 +487,7 @@ Ugetsu
 + Uncut Gems
 + Under the Skin
 + Under the Sun
+Unknown Pleasures
 Up
 + Up in the Air
 + Up the Yangtze
@@ -498,8 +505,11 @@ Wheel of Fortune and Fantasy
 + Whiplash
 Wife of a Spy
 + Wild Tales
+Woman in the Dunes
 + Written on the Wind
 + Xiao Wu
+Yellow Submarine
 Yi Yi
 + Yojimbo
 Your Name.
+Zodiac
