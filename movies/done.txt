@@ -27,14 +27,14 @@ All About Eve
 + All Light Everywhere
 + All My Friends Hate Me
 Amadeus
-Anarcord
-Amélie
 + American Beauty
 American History X
 + American Psycho
 Amorres perros
-+ Anatomy of a Fall
+Amélie
 An Autumn Afternoon
+Anarcord
++ Anatomy of a Fall
 And Life Goes On
 Andrei Rublev
 + Annihilation
@@ -52,11 +52,10 @@ As Tears Go By
 - Au hasard Balthazar
 + Avatar: The Last Airbender (TV show)
 + Babel
+Back to the Future
++ Band of Brothers (TV show)
 + Baraka
 + Barry Lyndon
-+ La Belle et la Bête(Beauty and the Beast)
-+ Band of Brothers (TV show)
-Back to the Future
 - Battleship Potemkin
 + Beef House (TV show)
 + Before Midnight
@@ -86,12 +85,12 @@ Censor
 + Chernobyl (TV show)
 + Children of Men
 + Chungking Express
+Cinema Paradiso
 Citizen Kane
 + Citizenfour
 City of God
-Cinema Paradiso
-Cléo from 5 to 7
 + Close-Up
+Cléo from 5 to 7
 Come and See
 + Connections (TV show)
 + Cowboy Bebop (TV show)
@@ -147,9 +146,9 @@ Forrest Gump
 France
 Freddy Got Fingered
 + Free Solo
++ Full Metal Jacket
 + Fullmetal Alchemist (TV show)
 + Fullmetal Alchemist: Brotherhood (TV show)
-+ Full Metal Jacket
 + Game of Thrones (TV show)
 + Gates of Heaven
 Ghost Dog: The Way of the Samurai
@@ -161,8 +160,8 @@ Gone With the Wind
 Good Morning
 Good Will Hunting
 Goodfellas
-+ Grave of the Fireflies
 Gran Torino
++ Grave of the Fireflies
 + Grizzly Man
 + Groundhog Day
 + Gurren Lagann (TV show)
@@ -174,16 +173,16 @@ Hamilton
 + HarmonQuest (TV show)
 Harry Potter
 + Hausu (House)
-Heaven's Gate
 + Heaven Only Knows
+Heaven's Gate
 + Hellsing (TV show)
 + Her
 + Hero
 High and Low
 Hive
 + Hot Fuzz
-How to Train Your Dragon
 + House of Games
+How to Train Your Dragon
 + How To with John Wilson (TV show)
 + Howl's Moving Castle
 Ikiru
@@ -201,11 +200,11 @@ Interstellar
 + Invincible (TV show)
 Irma Vep
 + Isle of Dogs
++ It Follows
+It Happened One Night
 It's a Wonderful Life
 + It's Always Sunny in Philadelphia (TV show)
 + It's Such a Beautiful Day
-+ It Follows
-It Happened One Night
 - Ivan the Terrible
 Jaws
 + Jodorowsky's Dune
@@ -214,11 +213,12 @@ Joker
 Jurassic Park
 + Kill Bill
 + Kill la Kill (TV show)
-Kumiko, the Treasure Hunter
 + Koyaanisqatsi
+Kumiko, the Treasure Hunter
 + Kung Fu Hustle
-L.A. Confidential
 L'argent
+L.A. Confidential
++ La Belle et la Bête(Beauty and the Beast)
 La collectionneuse
 + La La Land
 La piscine
@@ -228,7 +228,6 @@ Late Spring
 Lawerence of Arabia
 Le samouraï
 Le testament d'Orphée (Testament of Orpheus)
-Léon: The Professional
 Life Is Beautiful
 + Lilo & Stitch
 + Little Miss Sunshine
@@ -236,6 +235,7 @@ Logan
 + Look Around You (TV show)
 + Lost in Translation
 + Lupin III: The Castle of Cagliostro
+Léon: The Professional
 Mad Max
 + Making a Murderer (TV show)
 + Maniac (TV show)
@@ -257,11 +257,11 @@ Million Dollar Baby
 Modern Times
 + Mommy
 Mon Oncle (My Uncle)
+Monsieur Hulot's Holiday (Mr. Hulot's Holiday)
 + Monster (2023)
 Monsters Inc.
-Monsieur Hulot's Holiday (Mr. Hulot's Holiday)
-+ Monty Python's The Meaning of Life
 + Monty Python and the Holy Grail
++ Monty Python's The Meaning of Life
 + Moon (2009)
 + Mother 2009
 Mulholldan Dr.
@@ -309,9 +309,9 @@ Platform (2000)
 + Portlandia (TV show)
 + Primal (TV show)
 + Princess Mononoke
-Purple Noon
 + Psycho
 + Pulp Fiction
+Purple Noon
 + Raging Bull
 + Raise the Red Lantern
 + Raising Arizona
@@ -343,9 +343,10 @@ Scarface
 Schindler's List
 + School of Rock
 + Scott Pilgrim vs. the World
++ Se7en
 - Senso
 + Serial Experiments Lain (TV show)
-+ Se7en
+Seven Samurai
 + Severance (TV show)
 + Shaun of the Dead
 Shutter Island
@@ -378,8 +379,8 @@ The Apartment
 The Battle of Algiers
 The Big Lebowski
 + The Blair Witch Project
-The Bridge on the River Kwai
 + The Boys (TV show)
+The Bridge on the River Kwai
 + The Cabin in the Woods
 + The Castle of Cagliostro
 + The Climb
@@ -414,8 +415,8 @@ The Handmaiden
 The Hobbit
 + The Hunt (2012)
 The Incredibles
-+ The Iron Giant
 The Insect Woman
++ The Iron Giant
 + The Killing of a Sacred Deer
 The Koumiko Mystery
 + The Last of Us (TV show)
@@ -446,8 +447,8 @@ The Red Shoes
 + The Rescue
 + The Royal Tenenbaums
 + The Rules of the Game
-The Shawshank Redemption
 + The Seventh Seal
+The Shawshank Redemption
 + The Shining
 The Silence of the Lambs
 + The Sisters Brothers
@@ -474,10 +475,10 @@ Through a Glass Darkly
 + Thunder Road
 + Tie Xi Qu: West of the Tracks
 To Kill a Mockingbird
-Top Gun
-+ Toy Story
 Tokyo Story
 Tokyo Twilight
+Top Gun
++ Toy Story
 Trainspotting
 + Triangle of Sadness
 + Trigun (TV show)
