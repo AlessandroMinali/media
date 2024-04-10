@@ -1,23 +1,30 @@
 + 12 Angry Men
 12 Years a Slave
+127 Hours
 1917
 + 2001: A Space Odyssey
+25th Hour
 + 28 Days Later
 3 Idiots
 + 76 Days
 A Beautiful Mind
+A Christmas Story
 + A Clockwork Orange
 + A Cop Movie
 A Hard Day's Night
 + A Man Escaped
+A Prairie Home Companion
 + A Touch of Sin
 A Woman Under the Influence
+A.I. Artificial Intelligence
 About Dry Grasses
+Ace in the Hole
 + Adventure Time (TV show)
 + Afire
 + Afro Samurai (TV show)
 After Hours
 + After Life
+Aguirre, the Wrath of God
 Air Doll
 + Akira
 Aladdin (1992)
@@ -33,10 +40,12 @@ American History X
 Amorres perros
 Amélie
 An Autumn Afternoon
++ An Honest Liar
 Anarcord
 + Anatomy of a Fall
 And Life Goes On
 Andrei Rublev
+Anomalisa
 + Annihilation
 + Another Round
 - Anselm
@@ -45,37 +54,53 @@ Andrei Rublev
 + Apollo 11
 + Arcane (TV show)
 + Armadillo
+Army of Darkness
 + Arrested Development (TV show)
 + Arrival
++ Art and Craft
 As Tears Go By
 + Asteroid City
 - Au hasard Balthazar
 + Avatar: The Last Airbender (TV show)
 + Babel
 Back to the Future
+Badlands (1973)
 + Band of Brothers (TV show)
 + Baraka
 + Barry Lyndon
 - Battleship Potemkin
+Beat the Devil
 + Beef House (TV show)
 + Before Midnight
 + Before Sunrise
 + Before Sunset
 + Being John Malkovich
+Being There
 Bicycle Thieves
 + Big Mouth (TV show)
 + Birdman or (The Unexpected Virtue of Ignorance)
 + Black Bear
+Black Dynamite
 + Black Mirror (TV show)
 Black Narcissus
+Black Swan
 + Blade Runner
+Blow-Up
+Body Heat
 + BoJack Horseman (TV show)
+Bonnie and Clyde
++ Bowling for Columbine
 Boyhood
 Braveheart
+Brazil
 + Breaking Bad (TV show)
 Breathless
+Bride of Frankenstein
+Broken Blossoms or The Yellow Man and the Girl
 + Bronson
+Brüno
 + Burning
+Caché
 Capernaum
 Casablanca
 + Castle in the Sky
@@ -84,11 +109,13 @@ Catch Me If You Can
 Censor
 + Chernobyl (TV show)
 + Children of Men
+Chimes at Midnight
 + Chungking Express
 Cinema Paradiso
 Citizen Kane
 + Citizenfour
 City of God
++ Clerks
 + Close-Up
 Cléo from 5 to 7
 Come and See
@@ -206,6 +233,7 @@ It's a Wonderful Life
 + It's Always Sunny in Philadelphia (TV show)
 + It's Such a Beautiful Day
 - Ivan the Terrible
+James Bond
 Jaws
 + Jodorowsky's Dune
 + Jojo Rabbit
