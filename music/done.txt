@@ -28,6 +28,7 @@ Alvvays - 2022 - Blue Rev
 Amber Mark - 2022 - Three Dimensions Deep
 American Football - 2014 - American Football
 American Football - 2016 - American Football LP2
+Amy Winehouse - 2006 - Back to Black
 Ana Frango Elétrico - 2019 - Little Electric Chicken Heart
 Andrew Jackson Jihad - 2011 - Knife Man - The Michael Jordan of Drunk Driving
 Andrew W.K. - 2018 - You're Not Alone
@@ -65,6 +66,7 @@ Arcade Fire - 2010 - The Suburbs (Deluxe) - Sprawl II (Mountains Beyond Mountain
 Arcade Fire - 2015 - Reflektor - Afterlife
 Arcade Fire - 2017 - Everything Now - Everything Now
 Arcade Fire - 2021 - Her (Original Score) - Photograph
+Arctic Monkeys - 2013 - AM
 Ari Lennox - 2022 - age/sex/location
 Ariana Grande - 2019 - thank u, next
 Ariel Pink - 2014 - Pom Pom
@@ -839,6 +841,7 @@ The 1975 - 2022 - Being Funny in a Foreign Language - The 1975
 The Backseat Lovers - 2019 - When We Were Friends - Kilby Girl
 The Backseat Lovers - 2022 - Waiting to Spill - Close Your Eyes
 The Band - 1969 - The Band
+The Beatles - 1965 - Help! - Yesterday
 The Beatles - 1966 - Revolver - Eleanor Rigby
 The Beatles - 1967 - Sgt. Pepper's Lonely Hearts Club Band - Sgt. Pepper's Lonely Hearts Club Band
 The Beatles - 1968 - The White Album - Blackbird
