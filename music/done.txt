@@ -122,6 +122,7 @@ Black Country, New Road - 2022 - Snow Globes - Snow Globes
 Black Dresses - 2021 - Forever in Your Heart
 Black Flag - 1981 - Damaged
 black midi - 2021 - Cavalcade
+black midi - 2022 - Hellfire
 Black Milk - 2013 - No Poison No Paradise
 Black Sabbath - 1970 - Black Sabbath
 Black Sabbath - 1970 - Paranoid - War Pigs
@@ -339,6 +340,7 @@ Frank Ocean - 2016 - Blonde - Nikes
 Frank Sinatra - 1955 - In the Wee Small Hours of the Morning
 Freddie Gibbs & Madlib - 2019 - Bandana
 Freddie Gibbs & The Alchemist - 2020 - Alfredo
+Fugees - 1996 - The Score
 FURI - 2016 - FURI OST - Make this Right
 Future of the Left - 2013 - How To Stop Your Brain In An Accident
 Genesis Owusu - 2021 - Smiling with No Teeth - Waitin' on Ya
@@ -971,6 +973,7 @@ Wavves - 2010 - King of the Beach
 We Are Trees - 2010 - Boyfriend - Sunrise Sunset
 We Are Trees - 2011 - Girlfriend - You
 We Are Trees - 2012 - To Build a Mountain
+Wednesday - 2023 - Rat Saw God - Bull Believer
 Weekend - 2010 - Sports
 Weezer - 2016 - Weezer (The White Album)
 Weezer - 2021 - OK Human
