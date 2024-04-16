@@ -30,7 +30,7 @@ int main() {
 
       snprintf(search, BUFFER_SIZE, "open \"%s%s\"", sites[i], buf);
       system(search);
-      usleep(500000);
+      usleep(1000000);
     }
     fclose(f);
   }

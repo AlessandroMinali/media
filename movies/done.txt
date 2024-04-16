@@ -15,9 +15,11 @@ A Christmas Story
 + A Clockwork Orange (1971)
 + A Cop Movie
 A Hard Day's Night
++ A Knight's Tale (2001)
 + A Man Escaped
 A Prairie Home Companion
 A Scanner Darkly (2006)
+A Taxi Driver (2017)
 + A Touch of Sin
 A Woman Under the Influence
 A.I. Artificial Intelligence
@@ -315,6 +317,7 @@ Jackie Brown (1997)
 James Bond
 Jason Bourne
 Jaws
++ Jiro Dreams of Sushi (2011)
 + Jodorowsky's Dune
 Johnny Guitar
 + Jojo Rabbit (2019)
@@ -349,6 +352,7 @@ Laurence Anyways (2012)
 Lawerence of Arabia
 Le samouraï
 Le testament d'Orphée (Testament of Orpheus)
+Leaving Neverland (2019)
 + Legend of the Galactic Heroes (TV show)
 Leon Morin, Priest
 Licorice Pizza (2021)
@@ -436,7 +440,7 @@ October Sky (1999)
 Okja (2017)
 + Oldboy (2003)
 On the Rocks (2020)
-+ One Cut of the Dead
++ One Cut of the Dead (2017)
 One Flew Over the Cuckoo's Nest
 + One for the Road
 + One Punch Man (TV show)
