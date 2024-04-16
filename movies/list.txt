@@ -1,4 +1,5 @@
 2 Everything 2 Terrible 2: Tokyo Drift # 2010
+24 City # 2008
 45 Years # 2015
 A Married Woman # 1964
 A Normal Family # 2023
@@ -6,6 +7,7 @@ A Single Man # 2009
 A Town Called Panic # 2002
 A Woman's Tale # 1991
 After Dark, My Sweet # 1990
+After the Storm # 2016
 Alps # 2011
 Amour # 2012
 Amy # 2015
@@ -14,8 +16,10 @@ Army of Shadows # 1969
 Asako I & II # 2018
 Atonement # 2007
 Audition # 1999
+Beau Is Afraid
 Before the Devil Knows You're Dead # 2007
 Belle # 2021
+Bernie # 2011
 Best of Enemies # 2015
 Biutiful # 2010
 Black Box Diaries # 2024
@@ -51,13 +55,17 @@ Enemy # 2013
 Evil Does Not Exist # 2023
 Ex Drummer # 2007
 Exit Through the Gift Shop # 2010
+Fear and Desire # 1952
 Finding Vivian Maier # 2013
+Flanders Dog # 2000
 Footnote # 2011
 Forbidden Games # 1952
 Frost/Nixon # 2008
 FUTURE BOY CONAN #1976
+Ghost in the Shell: Stand Alone Complex # 2002
 Gett: The Trial of Viviane Amsalem # 2014
 Grand Piano # 2013
+Hana yori mo naho # 2006
 High Life # 2018
 Hitman # 2023
 Hundreds of Beavers # 2022
@@ -70,10 +78,13 @@ Ichi the Killer # 2001
 Ida # 2013
 Indie Game: The Movie # 2012
 It's All Gone Pete Tong # 2004
+It's Only the End of the World # 2016
 Jackie Brown # 1997
 James White # 2015
 Jesus Camp # 2006
+Killer's Kiss # 1955
 Killing Them Softly # 2012
+Kinetta # 2005
 Knight of Cups # 2015
 Krisha # 2015
 Kung Pow: Enter the Fist # 2002
@@ -99,30 +110,37 @@ Martyrs # 2008
 Mary and Max. # 2009
 Masters of the Air # 2024
 Mean Creek # 2004
+Memories # 1995
 Mirai # 2018
 Mississippi Grind # 2015
 Mistaken for Strangers # 2013
 Mister Lonely # 2007
 Monsieur Hire # 1989
+Mountains May Depart # 2015
+My Best Friend # 2001
 My Kid Could Paint That # 2007
 My Uncle Antoine # 1971
 Nameless Gangster # 2012
 Night Moves # 1975
 Noriko's Dinner Table # 2005
 Norte, the End of History # 2013
+Nosferatu # 2024
 On the Waterfront # 1954
 Once # 2007
 Once Upon a Time in Anatolia # 2011
 Only the Dead # 2015
+Our Little Sister # 2015
 Paddington 2 # 2017
 Phoenix # 2014
 Pinocchio # 1940
 Poultrygeist: Night of the Chicken Dead # 2006
 Primer # 2004
 Prisoners # 2013
+Punch-Drunk Love # 2002
 Reality # 2023
 Requiem for a Dream # 2000
 Revanche # 2008
+Ride Your Wave # 2019
 Romeo and Juliet # 1968
 Rosemary's Baby # 1968
 Run Lola Run # 1998
@@ -132,6 +150,7 @@ Seasons # 2015
 Senna # 2010
 Shane # 1953
 Shōgun # 2024
+Shoplifters # 2018
 Shortbus # 2006
 Sicko # 2007
 Simon Killer # 2012
@@ -160,14 +179,63 @@ The Counterfeiters # 2007
 The Cove # 2009
 The Curse (American TV series) # 2023
 The Diving Bell and the Butterfly # 2007
+The Double # 2013
 The Fall # 2019
 The Final Girls # 2015
+The Fountain # 2006
 The Ghost Writer # 2010
 The Girl Who Leapt Through Time # 2006
 The Hateful Eight # 2015
+The Jinx: The Life and Deaths of Robert Durst 
+The Kid with a Bike # 2011
+The Man from Earth # 2007
 The Man with a Movie Camera # 1929
-The Teachers’ Lounge # 2023
-The Wrestler # 2008
+The Measure of a Man # 2015
+The Mist # 2007
+The Most Hated Family in America # 2007
+The Northman # 2022
+The Past # 2013
+The Phantom of the Opera # 1925
+The Pixar Story # 2007
+The Rabbi's Cat # 2011
+The Red Chapel # 2009
+The Sacrifice # 1986
+The Savages # 2007
+The Sessions # 2012
+The Signal # 2007
+The Skin I Live In # 2011
+The Survivalist # 2015
+The Third Man # 1949
+The Third Murder # 2017
+The Teachers' Lounge # 2023
+The Tree of Life # 2011
+The Union: The Business Behind Getting High # 2007
 The Unredacted # 2022
+The Wrestler # 2008
+Three Monkeys # 2008
+Tim's Vermeer # 2013
+Tom at the Farm # 2013
+Touchez pas au grisbi # 1954
+Trash Humpers # 2009
+Trouble in Paradise # 1932
+Tucker and Dale vs Evil # 2010
+Two Days, One Night # 2014
+Unforgiven # 1992
+Victoria # 2015
+Violent # 2014
+WR: Mysteries of the Organism # 1971
+Walk Hard: The Dewey Cox Story # 2007
+Waltz with Bashir # 2008
 Weathering with You # 2019
+Weekend # 2011
+Welcome to Leith # 2015
 Wind River # 2017
+Winter Sleep # 2014
+Xavier: Renegade Angel
+Yella # 2007
+You, the Living # 2007
+Young & Beautiful # 2013
+Youth # 2015
+[Rec] # 2007
+[Rec]² # 2009
+

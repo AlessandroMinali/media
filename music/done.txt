@@ -20,6 +20,7 @@ Alex Cameron - 2019 - Miami Memory
 Alex G - 2022 - God Save the Animals
 Alex Isley & Jack Dine - 2022 - Marigold
 Algiers - 2015 - Algiers
+Alicia Keys - 2003 - The Diary of Alicia Keys
 Allison Russell - 2021 - Outside Child
 Alt-J - 2012 - An Awesome Wave - Taro
 Alvvays - 2014 - Alvvays - Archie, Marry Me
@@ -97,6 +98,7 @@ Benjamin Earl Turner - 2019 - Bad Nature
 Benjamin Earl Turner - 2019 - FUCK
 Benjamin Earl Turner - 2021 - CURSE OF THE REAL
 Benjamin Earl Turner - 2021 - SELLING AIR - HURT ME
+Beyoncé - 2016 - Lemonade - Hold Up
 Beyoncé - 2022 - RENAISSANCE - I'M THAT GIRL
 Big K.R.I.T. - 2011 - R4 Theme Song - Return of 4Eva
 Big K.R.I.T. - 2012 - 4eva N a Day
@@ -231,6 +233,7 @@ Cyndi Lauper - 1983 - She's So Unusual
 Cécile McLorin Salvant - 2022 - Ghost Song
 Da Mafia 6ix - 2013 - 6ix Commandments
 Daddy Yankee - 2004 - Barrio Fino
+Dan Deacon - 2020 - Mystic Familiar - Weeping Birch
 Daniel Rossen - 2012 - Silent Hour / Golden Mile
 Danny Brown - 2011 - XXX (Deluxe Version)
 Darkside - 2013 - Psychic
@@ -375,6 +378,10 @@ Hak Baker - 2018 - Misfits (Unplugged) - 7am
 Hak Baker - 2020 - Babylon
 Hak Baker - 2021 - Misled
 Hak Baker - 2023 - Worlds End FM
+Haley Heynderickx - 2016 - Fish Eyes
+Haley Heynderickx - 2017 - Unpeeled (Live)
+Haley Heynderickx - 2018 - Among Horses III - Slow Talkin'
+Haley Heynderickx - 2018 - I Need to Start a Garden - The Bug Collector
 Hania Rani - 2020 - Home - F Major
 HARDY - 2023 - the mockingbird & THE CROW
 Harry Styles - 2019 - Fine Line - Cherry
@@ -400,8 +407,8 @@ Hotline Miami - 2012 - Hotline Miami OST - Hydrogen
 Howlin' Wolf - 1959 - Moanin' in the Moonlight
 Huerco S. - 2022 - Plonk - Plonk X
 Hurray for the Riff Raff - 2022 - LIFE ON EARTH
-I Need to Start a Garden - 1993 - Haley Heynderickx - The Bug Collector
 iamamiwhoami - 2012 - Kin
+Ice Spice - 2023 - Like..?
 Iceage - 2011 - New Brigade
 Iceage - 2013 - You're Nothing
 Iceage - 2014 - Plowing Into the Field of Love
@@ -425,6 +432,7 @@ Injury Reserve - 2016 - Floss
 Injury Reserve - 2021 - By the Time I Get to Phoenix
 J.I.D - 2018 - DiCaprio 2
 Jack White - 2018 - Boarding House Reach
+jaimie branch - 2023 - Fly or Die Fly or Die Fly or Die ((world war))
 James Blake - 2021 - Friends That Break Your Heart
 James Brandon Lewis - 2021 - Jesup Wagon
 James Brown - 1970 - Sex Machine
@@ -522,6 +530,7 @@ Lady Gaga - 2011 - Born This Way
 LANY - 2018 - Malibu Nights
 Laura Marling - 2020 - Song for Our Daughter
 LCD Soundsystem - 2010 - This Is Happening - Home
+Led Zeppelin - 1969 - Led Zeppelin - Babe I'm Gonna Leave You
 Led Zeppelin - 1971 - Led Zeppelin IV - Black Dog
 Leenalchi - 2020 - Sugungga - Catch a Rabbit
 Leikeli47 - 2022 - Shape Up
@@ -553,6 +562,7 @@ Lucrecia Dalt - 2022 - ¡Ay!
 Lucy Dacus - 2021 - Home Video
 Lukah - 2021 - When The Black Hand Touches You
 Luke Abbott - 2010 - Holkham Drones - Whitebox
+L'Rain - 2023 - I Killed Your Dog - 5 to 8 Hours a Day (WWwaG)
 Mac Demarco - 2012 - 2 - My Kind of Woman
 Mac Demarco - 2012 - Rock and Roll Night Club - Rock and Roll Night Club
 Mac Demarco - 2014 - Salad Days - Blue Boy
@@ -576,6 +586,7 @@ Maggie Rogers - 2019 - Heard it in a Past Life - Alaska
 Magic Kids - 2010 - Memphis - Hey Boy
 Makaya McCraven - 2022 - In These Times
 Malibu Ken - 2019 - Malibu Ken
+Mariah Carey - 2005 - The Emancipation of Mimi
 Marina Herlop - 2022 - Pripyat
 Marquis Hill - 2018 - Modern Flows, Vol. 2 (2018)
 Martin O'Donnell - 2004 - Halo 2 OST - Peril
@@ -669,6 +680,7 @@ OFF! - 2010 - First Four EPs
 Oh Sees - 2017 - Orc
 Ondatrópica - 2012 - Ondatrópica
 Oneohtrix Point Never - 2011 - Replica
+Open Mike Eagle - 2015 - A Special Episode Of EP - Ziggy Starfish (Anxiety Raps) (feat. Gold Panda)
 Open Mike Eagle - 2017 - Brick Body Kids Still Daydream
 Oranssi Pazuzu - 2020 - Mestarin kynsi - Tyhjyyden sakramentti
 Oren Ambarchi - 2022 - Shebang
@@ -678,12 +690,14 @@ Outkast - 2000 - Stankonia - Ms. Jackson
 Owen Pallett - 2010 - Heartland
 Oxbow - 2017 - Thin Black Duke
 Panopticon - 2015 - Autumn Eternal
+Paul Simon - 1972 - Paul Simon
 Paul Simon - 1986 - Graceland - Graceland
 Paysage d'Hiver - 2020 - Im Wald
 Perfume Genius - 2012 - Put Your Back N 2 It
 Perfume Genius - 2014 - Too Bright
 Perfume Genius - 2017 - No Shape - Otherside
 Pet Shop Boys - 1987 - Actually
+Peter Gabriel - 1986 - So
 Peter Rehberg - 2021 - at GRM
 Petrol Girls - 2022 - Baby
 Phoebe Bridgers - 2020 - Punisher - Kyoto
@@ -696,6 +710,7 @@ Pinegrove - 2022 - Need 2 - Need 2 (fast pinegrove)
 Pink Floyd - 1973 - Dark Side of the Moon
 Pink Floyd - 1975 - Wish You Were Here
 Pink Floyd - 1977 - Animals
+Pink Floyd - 1979 - The Wall
 Pink Siifu - 2021 - GUMBO'!
 PinkPantheress - 2021 - to hell with it
 Pixies - 1989 - Doolittle
@@ -785,8 +800,14 @@ Slint - 1991 - Spiderland
 slowthai - 2020 - TYRON
 Smino - 2022 - Luv 4 Rent
 Smith Westerns - 2013 - Soft Will
+Snooper - 2023 - Super Snõõper
 Soap&Skin - 2012 - Narrow
 Soccer Mommy - 2022 - Sometimes, Forever
+Sofia Kourtesis - 2019 - Sofia Kourtesis
+Sofia Kourtesis - 2020 - Sarita Colonia
+Sofia Kourtesis - 2021 - Fresia Magdalena - La perla
+Sofia Kourtesis - 2023 - How Music Makes You Feel Better - How Music Makes You Feel Better
+Sofia Kourtesis - 2023 - Madres - Madres
 Solange - 2016 - A Seat at the Table
 Sons of Kemet - 2018 - Your Queen Is a Reptile - My Queen Is Harriet Tubman
 Sophie - 2015 - Product
@@ -942,6 +963,7 @@ Tkay Maidza - 2020 - Last Year Was Weird Vol. 2
 TNGHT - 2012 - TNGHT
 Tomas Dvorak - 2009 - Machinarium OST - The Sea
 Torche - 2012 - Harmonicraft
+Touché Amoré - 2016 - Stage Four
 Toumani Diabaté and The London Symphony Orchestra - 2021 - Kôrôlén
 Toxic Holocaust - 2011 - Conjure and Command
 Travis Scott - 2015 - Rodeo
@@ -954,6 +976,7 @@ Ty Segall & White Fence - 2012 - Hair
 Ty Segall Band - 2012 - Slaughterhouse
 Tyler, the Creator - 2019 - IGOR - A BOY IS A GUN*
 Tyler, The Creator - 2021 - CALL ME IF YOU GET LOST
+U.S. Girls - 2018 - In a Poem Unlimited
 Uboa - 2019 - The Origin of My Depression
 Ulcerate - 2020 - Stare Into Death and Be Still
 Uncommon Nasa - 2014 - New York Telephone
@@ -994,6 +1017,7 @@ Xiu Xiu - 2019 - Girl with Basket of Fruit
 XXXTentacion - 2017 - 17
 Yasmin Williams - 2018 - Unwind
 Yasmin Williams - 2021 - Urban Driftwood - Juvenescence
+Yaya Bey - 2022 - Remember Your North Star
 Yeah Yeah Yeahs - 2009 - It's Blitz! - Heads Will Roll
 Yebba - 2021 - Dawn
 YG - 2016 - Still Brazy

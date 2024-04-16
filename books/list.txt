@@ -39,6 +39,7 @@ Children of Dune
 Cloud Atlas
 Computer Architecture: A Quantitative Approach
 Computer Organization and Design RISC-V Edition: The Hardware Software Interface
+Cinema Speculation
 Consciousness Explained
 Cracking the Coding Interview
 Creativity: A Short and Cheerful Guide
@@ -61,7 +62,7 @@ Ficciones
 Finite and Infinite Games
 FlatLand
 Flowers for Algernon
-Fourteen: A Daughter’s Memoir of Adventure, Sailing, and Survival
+Fourteen: A Daughter's Memoir of Adventure, Sailing, and Survival
 Frankenstein; or, The Modern Prometheus
 Game Engine Architecture, Third Edition
 Game Engine Black Book: DOOM
