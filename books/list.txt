@@ -98,6 +98,7 @@ Isaac Asimov: The Complete Story Vi
 It Can't Happen Here
 Keys to Infinity
 Kokoro
+La Débâcle
 Last and First Men
 Le Ton beau de Marot: In Praise of the Music of Language
 Learn Functional Programming with Elixir
@@ -160,6 +161,7 @@ Stiff: The Curious Lives of Human Cadavers
 Story of Your Life
 Sun and Steel
 Super-Frog Saves Tokyo
+Supplying War
 Surreal Numbers - D. Knuth
 Systemantics
 Termination Shock
