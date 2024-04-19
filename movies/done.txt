@@ -15,6 +15,7 @@ A Christmas Story
 + A Clockwork Orange (1971)
 + A Cop Movie
 A Hard Day's Night
+A Hidden Life (2019)
 + A Knight's Tale (2001)
 + A Man Escaped
 A Prairie Home Companion
@@ -94,6 +95,7 @@ Bicycle Thieves
 + Big Mouth (TV show)
 - Bird Box (2018)
 + Birdman or (The Unexpected Virtue of Ignorance)
+Birth (2004)
 + Black Bear
 Black Dynamite
 + Black Mirror (TV show)
@@ -147,6 +149,7 @@ Contact (1997)
 + Cowboy Bebop (TV show)
 + Cowboy Bebop: The Movie (2001)
 Cries and Whispers
+Cronos (1993)
 + Crouching Tiger, Hidden Dragon
 Cryptozoo
 + Cunk on Earth (TV show)
@@ -412,6 +415,7 @@ Mulholldan Dr.
 + Museo
 My Dinner with André
 My Fair Lady (1964)
+my favorite software is being here (2021)
 My Man Godfrey (1936)
 My Neighbor Totoro (1988)
 My Neighbors the Yamadas (1999)
@@ -513,6 +517,7 @@ Roman Holiday
 Room
 + Rosencrantz and Guildenstern are Dead
 Roujin Z (1991)
+- Running Scared (2006)
 + Rushmore (1998)
 + Rush Hour (1998)
 Sada
@@ -537,6 +542,7 @@ Schindler's List
 Seven Samurai (1954)
 + Severance (TV show)
 + Shaun of the Dead
+- She and Her Cat
 + Shoah (1985)
 Shutter Island (2010)
 Sicario (2015)
@@ -733,6 +739,7 @@ The Thief of Bagdad
 The Thing
 The Tragedy of Macbeth (2021)
 The Treasure of the Sierra Madre
++ The Tree of Life (2011)
 + The Truman Show
 - The Truth (2019)
 The Virigin Suicides (1999)
@@ -786,6 +793,7 @@ Vermilion Souls (2007)
 Veronika Voss
 Vertigo
 Vivre Sa Vie (1962)
+- Voices of a Distant Star (2002)
 + Waking Life (2001)
 - Walkabout
 WALL-E
