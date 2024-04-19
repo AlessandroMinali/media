@@ -14,8 +14,11 @@ From Bacteria to Bach and Back
 A Brief History of Time
 A Canticle for Leibowitz
 A Gentlement in Moscow
+A Kayak Full of Ghosts
+A Perfect Vacuum
 A Scanner Darkly
 A Universal History of Infamy
+Aberration in the Heartland of the Real
 Aesop's Fables
 Akira
 Alice's Adventures in Wonderland
@@ -24,14 +27,16 @@ American Psycho
 Anathem
 Animal Liberation: A New Ethics for Our Treatment of Animals
 Anna Karenina
-Anna Karenina
+Another Day of Life
 Autobiography of a Corpse
 Axiomatic
 Babel-17
 Beowulf
 Beyond Good & Evil
 Bhagavad Gita
+Blood Meridian
 Brief Interviews with Hideous Men
+Butcher’s Crossing
 Calculus, Vol. 1: One-Variable Calculus, with an Introduction to Linear Algebra
 Catch-22
 Celestial Emporium of Benevolent Knowledge
@@ -41,12 +46,15 @@ Computer Architecture: A Quantitative Approach
 Computer Organization and Design RISC-V Edition: The Hardware Software Interface
 Cinema Speculation
 Consciousness Explained
+Consider Phlebas
 Cracking the Coding Interview
 Creativity: A Short and Cheerful Guide
 Crime and Punishment
 Cryptonomicon
+Culture & Imperialism
 Debt: The first 5000 years
 Demian: The Story of a Boyhood
+Desert Solitaire
 Divine Comedy
 Do Androids Dream of Electric Sheep
 Don't Sleep, There Are Snakes: Life and Language in the Amazonian Jungle
@@ -55,6 +63,8 @@ Duck, Death and the Tulip
 Dune Messiah
 East of Eden
 Ecce Homo
+Empire of Pain
+Endurance: Shackleton's Incredible Voyage
 Elbow Room
 Exhalation
 Fahrenheit 451
@@ -62,6 +72,7 @@ Ficciones
 Finite and Infinite Games
 FlatLand
 Flowers for Algernon
+Foucault’s Pendulum
 Fourteen: A Daughter's Memoir of Adventure, Sailing, and Survival
 Frankenstein; or, The Modern Prometheus
 Game Engine Architecture, Third Edition
@@ -69,6 +80,8 @@ Game Engine Black Book: DOOM
 Game Engine Black Book: Wolfenstein 3D
 Gardens of the Moon
 Ghost in the shell
+Giles Corey
+God Emperor of Dune
 Godforsaken Sea: The True Story of a Race Through the World's Most Dangerous Waters
 Grapes of Wrath
 Graphics Gems
@@ -79,6 +92,7 @@ Guns, Germs & Steel
 Hacker's Delight
 Hacking, 2nd Edition
 Hard-Boiled Wonderland and the End of the World
+Hothouse
 House of Leaves
 How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease
 How the Food Industry Influences Nutrition and Health
@@ -89,7 +103,8 @@ HyperComplex Numbers: An Elementary Introduction to Algebras
 I Hope I Shall Arrive Soon
 If on a Winter's Night a Traveler
 Iliad
-In Praise of Darkness
+In a Lonely Place
+In Praise of Shadows
 Incognito: The Secret Lives of the Brain
 Infinite Jest
 Into the Wild
@@ -110,6 +125,7 @@ Literate Programming
 Lolita
 Lord of the Flies
 Love in the Time of Cholera
+Making - Tim Ingold
 Man's Search for Meaning
 Mastering Algorithms with C
 Maus
@@ -125,6 +141,8 @@ Oliver Byrne: The First Six Books of the Elements of Euclid
 On Food and Cooking: The Science and Lore of the Kitchen
 On Trails: An Exploration
 On War
+On Writing
+One Game at a Time
 One Human Minute
 One Hundred Years of Solitude
 One-Hour Wargames: Practical Tabletop Battles for those with Limited Time and Space
@@ -139,15 +157,17 @@ Physically Based Rendering, Third Edition
 Pictures from the Water Trade: An Englishman in Japan
 Probability and Computing: Randomized Algorithms and Probabilistic Analysis
 Proust
-Quantum Mechanics: The Theoretical Minimum 
+Quantum Mechanics: The Theoretical Minimum
 Quarantine
 Quran
 Real Time Collision Detection
 Reap3r
 Reasons and Persons
+Red Sorghum
 Remember to Remember
 Resistance to Civil Government
 Right-Wing Women
+Sculpting in Time
 Shogun
 Structure and Interpretation of Computer Programs
 Scientific Freedom: The Elixir of Civilization
@@ -156,7 +176,9 @@ Seveneves
 Solaris
 Something to Do with Paying Attention
 Sometimes a Great Notion
+Songs of a Dead Dreamer & Grimscribe
 Special Relativity and Classical Field Theory: The Theoretical Minimum
+Spinal Catastrophism
 Stiff: The Curious Lives of Human Cadavers
 Story of Your Life
 Sun and Steel
@@ -164,14 +186,18 @@ Super-Frog Saves Tokyo
 Supplying War
 Surreal Numbers - D. Knuth
 Systemantics
+Tender is the Flesh
 Termination Shock
+Termush
 Terra Nostra
 The 4-Hour Workweek
 The Alchemist
 The Aleph and Other Stories
 The Algorithm Design Manual
+The Ark Sakura
 The Art of Computer Programming
 The Art of Doing Science and Engineering
+The Art of Not Being Governed
 The Art of Unix Programming
 The Bell Jar
 The Book of CP-System
@@ -187,7 +213,9 @@ The Celestine Prophecy
 The China Study: The Most Comprehensive Study of Nutrition Ever Conducted And the Startling Implications for Diet, Weight Loss, And Long-term Health
 The Chrysalids
 The Circle
+The Collected Works of Billy the Kid
 The Conquest of Bread
+The Cormorant
 The Cyberiad
 The Definitive H.P. Lovecraft- 67 Tales of Horror in One Volume
 The Demon-Haunted World
@@ -195,16 +223,22 @@ The Design of Everyday Things
 The Dispossessed
 The Distance of the Moon
 The Dream Machine - M. Mitchell Waldrop
+The Drawing of the Three
 The Electric Kool-Aid Acid Test
 The Elements of Computing Systems: Building a Modern Computer from First Principles (nand2tetris)
+The Elements of Style
 The Elephant Vanishes
 The Epic of Gilgamesh - Andrew George
 The Feynman Lectures on Physics
+The First 49 Stories
 The Fountainhead
+The Gallows Pole
 The Giver
 The Glass Bead Game
 The Golden Apples of the Sun
+The Gunslinger
 The Hero with a Thousand Faces
+The House Jack Built
 The Incredible Tide
 The Jounral of Henry David Thoreau, 1837-1861
 The Library of Babel
@@ -225,19 +259,23 @@ The Nose (https://www.gutenberg.org/files/36238/36238-h/36238-h.htm)
 The One-Straw Revolution: An Introduction to Natural Farming
 The Origin of Consciousness in the Breakdown of the Bicameral Mind
 The Pale King
+The Passenger
+The Politics of Heroin
 The Pragmatic Programmer
 The Princess Bride
 The Remains of the Day
 The Rise and Fall of the Third Reich
 The River Why
 The Road
+The Ruined Map
 The Setting Sun
 The Sixth Extinction: An Unnatural History
-The Sleepwalkers: A History of Man's Changing Vision of the Universe 
+The Sleepwalkers: A History of Man's Changing Vision of the Universe
 The Summer Book
 The Sympathizer
 The Temple of the Golden Pavilion
 The Theoretical Minimum: What You Need to Know to Start Doing Physics
+The Three Body Problem
 The Three Stigmata of Palmer Eldritch
 The Timeless Way of Building
 The Toyota Way
@@ -245,10 +283,10 @@ The Unbearable Lightness of Being
 The Way of Kings
 The White Castle
 The Written World and the Unwritten World
-Three Body Problem
 Through the Looking Glass
 To Kill a Mockingbird
 Tomie
+Tonight It’s a World we Burn
 Travels In Hyperreality
 Trees: An Anthology of Writings and Paintings
 Ubik
@@ -259,6 +297,7 @@ Uzumaki
 VALIS
 Walden & Civil Disobedience
 War and Peace
+War Songs
 Watership Down
 Where the Crawdads Sing
 Without Conscience: The Disturbing World of the Psychopaths Among Us
