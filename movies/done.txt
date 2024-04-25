@@ -36,6 +36,7 @@ Aguirre, the Wrath of God
 Air Doll
 + Akira
 Aladdin (1992)
+Ali: Fear Eats the Soul
 + Alien
 All About Eve
 + All About Lily Chou-Chou
@@ -75,7 +76,6 @@ Attack on Titan (TV show)
 - Au hasard Balthazar
 + Avatar: The Last Airbender (TV show)
 + Babel
-The Unbearable Weight of Massive Talent
 Baby Drive (2017)
 - Babylon (2022)
 Back to the Future
@@ -107,6 +107,7 @@ Black Swan (2010)
 + Blade Runner
 Blade Runner 2049 (2017)
 Blow-Up
+Blue Is the Warmest Colour (2013)
 Bo Burnham: Inside (2021)
 Bodies Bodies Bodies (2022)
 Body Heat
@@ -121,6 +122,7 @@ Brazil
 + Breaking Bad (TV show)
 Breathless
 Bride of Frankenstein
+Brokeback Mountain (2005)
 Broken Blossoms or The Yellow Man and the Girl
 Broker (2022)
 + Bronson
@@ -136,13 +138,14 @@ Catch Me If You Can
 Censor
 + Chernobyl (TV show)
 + Children of Men
+Children Who Chase Lost Voices (2011)
 Chimes at Midnight
 Chop Shop (2007)
 + Chungking Express (1994)
 Cinema Paradiso
 Citizen Kane
 + Citizenfour
-City of God
+City of God (2002)
 + Clerks
 + Close-Up
 Cléo from 5 to 7
@@ -154,7 +157,7 @@ Contact (1997)
 + Cowboy Bebop: The Movie (2001)
 Cries and Whispers
 Cronos (1993)
-+ Crouching Tiger, Hidden Dragon
++ Crouching Tiger, Hidden Dragon (2000)
 Cryptozoo
 + Cunk on Earth (TV show)
 + Curb Your Enthusiasm (TV show)
@@ -232,7 +235,7 @@ Flowers of Shanghai (1998)
 Following (1998)
 + Force Majeure (2014)
 Forrest Gump
-France
+France (2021)
 Freddy Got Fingered
 + Free Solo
 From Up on Poppy Hill (2011)
@@ -284,7 +287,7 @@ Heaven's Gate
 + Her (2013)
 Herditary (2018)
 + Hero
-High and Low
+High and Low (1963)
 Hive
 + Hot Fuzz
 + House of Games
@@ -344,7 +347,7 @@ King Kong (1933)
 Knives Out (2019)
 + Koyaanisqatsi
 Kumiko, the Treasure Hunter
-+ Kung Fu Hustle
++ Kung Fu Hustle (2004)
 Kundun (1997)
 Kung Fury
 L'argent
@@ -357,6 +360,7 @@ La piscine
 Lady Vengeance (2005)
 + Last and First Men
 Last Night in Soho (2021)
+- Last Yeat at Marienbad (1961)
 Late Autumn (1960)
 Late Spring
 Laurence Anyways (2012)
@@ -455,11 +459,13 @@ October Sky (1999)
 Okja (2017)
 + Oldboy (2003)
 On the Rocks (2020)
+On the Waterfront (1954)
 + One Cut of the Dead (2017)
 One Flew Over the Cuckoo's Nest
 + One for the Road
 + One Punch Man (TV show)
 Once Upon a Time... In Hollywood (2019)
+Once Upon A Time In Anatolia (2011)
 Only Yesterday (1991)
 Onibaba
 - Oppenheimer (2023)
@@ -482,6 +488,7 @@ Phoenix (2014)
 Pickpocket (1959)
 Picnic at Hanging Rock (1975)
 + Pieces of a Woman
+Pigs and Battleships (1962)
 + Ping Pong the animation (TV show)
 Pink Floyd: The Wall (1982)
 Pirates of the Caribbean
@@ -491,7 +498,9 @@ Platform (2000)
 + PlayTime
 + Please Vote for Me
 + Poison
-+ Police Story
++ Police Story (1985)
+Police Story 2 (1988)
+Police Story 3: Supercop (1992)
 Pom Poko (1994)
 + Ponyo (2008)
 + Poor Things (2023)
@@ -520,6 +529,7 @@ Red Rocket
 + Redline
 Requiem for a Dream (2000)
 + Reservoir Dogs (1992)
+Revanche (2008)
 + Rick and Morty (TV show)
 + Riki-Oh: The Story of Ricky
 RoboCop (1987)
@@ -555,6 +565,7 @@ Schindler's List
 + Serial Experiments Lain (TV show)
 Seven Samurai (1954)
 + Severance (TV show)
+Shaolin Soccer (2001)
 + Shaun of the Dead
 - She and Her Cat
 + Shoah (1985)
@@ -592,6 +603,7 @@ Sunset Boulevard
 Suspiria (2018)
 Sweet Smell of Success (1957)
 Swing Time (1936)
++ Swiss Army Man
 + Sympathy for Mr. Vengeance (2002)
 + Synecdoche, New York
 - Tales from Earthsea (2006)
@@ -644,6 +656,7 @@ The Earrings of Madame de...
 The Elephant Man
 The End of Summer (1961)
 The Enigma of Kaspar Hauser (1974)
+The Exorcist (1973)
 + The Evil Dead
 + The Father
 + The Fall (2019)
@@ -675,6 +688,7 @@ The Hobbit
 The Holy Mountain (1973)
 The Host (2006)
 + The Hunt (2012)
+The Hurt Locker (2008)
 The Hustler (1961)
 The Incredibles
 The Insect Woman
@@ -704,6 +718,7 @@ The Lobster (2015)
 The Long Goodbye (1973)
 + The Look of Silence
 + The Lord of the Rings
+The Magician (1958)
 The Marriage of Maria Braun
 + The Master (2012)
 The Match Factory Girl
@@ -718,7 +733,7 @@ The Only Son (1936)
 The Pacific (TV show)
 The Passion of Joan of Arc
 The Peanut Butter Falcon
-The Pianist
+The Pianist (2002)
 The Piano Teacher
 The Player
 The Power of the Dog (2021)
@@ -772,13 +787,15 @@ The Wolf of Wall Street (2013)
 The Wolfpack (2015)
 + The Wonderful Story of Henry Sugar (2024)
 The World's End (2013)
++ The Zone of Interest (2023)
 + There Will Be Blood (2007)
 + Thirst (2009)
 This Sporting Life
 - Thor: Ragnarok (2017)
 + Three Billboards Outside Ebbing, Missouri
+Three Kings (1999)
 Throne of Blood (1957)
-Through a Glass Darkly
+Through a Glass Darkly (1961)
 + Thunder Road
 + Tie Xi Qu: West of the Tracks
 Tim and Eric's Billion Dollar Movie (2012)
@@ -786,6 +803,7 @@ To Kill a Mockingbird
 Tokyo Godfathers (2003)
 Tokyo Story (1953)
 Tokyo Twilight
+Toni Erdmann (2016)
 Top Gun
 + Toy Story
 Touch of Evil (1958)x
@@ -798,6 +816,7 @@ True Grit (2010)
 True Mothers
 Twilight
 Ugetsu
+Uncle Boonmee Who Can Recall His Past Lives (2010)
 + Uncut Gems (2019)
 + Under the Skin
 + Under the Sun (2015)
@@ -841,4 +860,4 @@ Yellow Submarine
 Yi Yi
 + Yojimbo
 Your Name.
-Zodiac
+Zodiac (2011)
