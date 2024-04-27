@@ -16,6 +16,7 @@ Hagakure
 Heart of Darkness
 - How to Win Friends and Influence People
 I Am a Strange Loop
++ Industrial Society and Its Future
 + Ishmael
 + Kafka On the Shore
 Lessons in the Fundamentals of Go

@@ -3,6 +3,7 @@
 12 Years a Slave
 127 Hours
 1917
++ 20 Days in Mariupol (2023)
 + 2001: A Space Odyssey (1968)
 - 2046 (2004)
 25th Hour
@@ -80,8 +81,10 @@ Baby Drive (2017)
 - Babylon (2022)
 Back to the Future
 Badlands (1973)
+Bambi (1942)
 + Band of Brothers (TV show)
 + Baraka
+Barbie (2023)
 + Barry Lyndon (1975)
 - Battleship Potemkin
 Beat the Devil
@@ -96,6 +99,7 @@ Beau Is Afraid (2023)
 Being There
 Bicycle Thieves
 + Big Mouth (TV show)
+Billy Lynn's Long Halftime Walk
 - Bird Box (2018)
 + Birdman or (The Unexpected Virtue of Ignorance)
 Birth (2004)
@@ -108,10 +112,12 @@ Black Swan (2010)
 Blade Runner 2049 (2017)
 Blow-Up
 Blue Is the Warmest Colour (2013)
+Blue Valentine (2010)
 Bo Burnham: Inside (2021)
 Bodies Bodies Bodies (2022)
 Body Heat
 + BoJack Horseman (TV show)
+Bones and All (2022)
 Bonnie and Clyde
 Bottle Rocket (1996)
 + Bowling for Columbine
@@ -119,6 +125,7 @@ Boy (2010)
 Boyhood (2014)
 Braveheart
 Brazil
+Breakfast at Tiffany's (1961)
 + Breaking Bad (TV show)
 Breathless
 Bride of Frankenstein
@@ -137,6 +144,7 @@ Casino (1995)
 Catch Me If You Can
 Censor
 + Chernobyl (TV show)
+Children Of Heaven (1997)
 + Children of Men
 Children Who Chase Lost Voices (2011)
 Chimes at Midnight
@@ -155,6 +163,7 @@ Come and See
 Contact (1997)
 + Cowboy Bebop (TV show)
 + Cowboy Bebop: The Movie (2001)
++ Crazy, Stupid, Love (2011)
 Cries and Whispers
 Cronos (1993)
 + Crouching Tiger, Hidden Dragon (2000)
@@ -191,7 +200,7 @@ Double Indemnity
 Downfall
 + Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)
 Dracula (1931)
-+ Drive
++ Drive (2011)
 Drive My Car (2021)
 Drunken Angel (1948)
 Duck Soup
@@ -220,6 +229,7 @@ Exotica
 Eyes Wide Shut (1999)
 + F for Fake
 Fanny and Alexander (Theatrical Version)
+Fantasia (1940)
 + Fantastic Mr. Fox (2009)
 Fear and Loathing in Las Vegas
 + Fight Club
@@ -227,6 +237,7 @@ Finding Nemo
 First Man (2018)
 Fitzcarraldo
 Five Easy Pieces
+Five Fingers of Death (1972)
 + FLCL (TV show)
 Flashdance (1983)
 + Floating Weeds (1959)
@@ -291,6 +302,7 @@ High and Low (1963)
 Hive
 + Hot Fuzz
 + House of Games
+How to Blow Up a Pipeline (2023)
 How to Train Your Dragon
 + How To with John Wilson (TV show)
 + Howl's Moving Castle (2004)
@@ -355,14 +367,16 @@ L.A. Confidential
 + La Belle et la Bête(Beauty and the Beast)
 La cérémonie (1995)
 La collectionneuse
-+ La La Land
++ La La Land (2016)
 La piscine
 Lady Vengeance (2005)
++ Lars and the Real Girl (2007)
 + Last and First Men
 Last Night in Soho (2021)
 - Last Yeat at Marienbad (1961)
 Late Autumn (1960)
 Late Spring
++ Laura (1944)
 Laurence Anyways (2012)
 Lawerence of Arabia
 Le samouraï
@@ -372,6 +386,7 @@ Leaving Neverland (2019)
 Leon Morin, Priest
 Licorice Pizza (2021)
 Life Is Beautiful
+Life of Pi (2012)
 Like Father, Like Son (2013)
 + Lilo & Stitch
 Limitless (2011)
@@ -466,10 +481,12 @@ One Flew Over the Cuckoo's Nest
 + One Punch Man (TV show)
 Once Upon a Time... In Hollywood (2019)
 Once Upon A Time In Anatolia (2011)
+Only God Forgives (2013)
 Only Yesterday (1991)
 Onibaba
 - Oppenheimer (2023)
 + Orphée (Orpheus)
+Out Little Sister (2015)
 Out of the Past (1947)
 Pacific Rim (2013)
 + Pale Flower
@@ -569,6 +586,7 @@ Shaolin Soccer (2001)
 + Shaun of the Dead
 - She and Her Cat
 + Shoah (1985)
++ Shrek (2001)
 Shutter Island (2010)
 Sicario (2015)
 Silence (2016)
@@ -610,6 +628,7 @@ Swing Time (1936)
 Tampopo
 + Take Shelter (2011)
 + Taxi Driver (1976)
++ Taxi to the Dark Side (2007)
 Tenet (2020)
 The 400 Blows
 + The Act of Killing
@@ -625,9 +644,11 @@ The Band Wagon (1953)
 The Bank Dick (1940)
 + The Banshees of Inisherin
 The Battle of Algiers
++ The Believer (2001)
 The Beta Test (2021)
 The Bicycle Thief (1948)
 The Big Lebowski (1998)
++ The Big Short (2015)
 + The Blair Witch Project
 + The Boys (TV show)
 The Bridge on the River Kwai
@@ -704,6 +725,7 @@ The Lady Eve (1941)
 + The Last of Us (TV show)
 The Last Laugh (1924)
 The Last Picture Show (1971)
+The Last Samurai (2003)
 + The League of Gentlemen (TV show)
 + The Lego Movie (2014)
 The Life and Death of Colonel Blimp (1943)
@@ -728,13 +750,14 @@ The Martian (2015)
 + The Night Is Short, Walk on Girl (2017)
 The Night of the Hunter (1955)
 + The Nightmare Before Christmas (1993)
-+ The Notebook
++ The Notebook (2004)
 The Only Son (1936)
 The Pacific (TV show)
 The Passion of Joan of Arc
 The Peanut Butter Falcon
 The Pianist (2002)
 The Piano Teacher
+The Place Beyond the Pines (2012)
 The Player
 The Power of the Dog (2021)
 + The Prestige (2006)

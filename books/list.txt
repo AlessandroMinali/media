@@ -63,6 +63,7 @@ Duck, Death and the Tulip
 Dune Messiah
 East of Eden
 Ecce Homo
+Einstein's Dreams
 Empire of Pain
 Endurance: Shackleton's Incredible Voyage
 Elbow Room
@@ -217,6 +218,7 @@ The Circle
 The Collected Works of Billy the Kid
 The Conquest of Bread
 The Cormorant
+The Count of Monte Cristo
 The Cyberiad
 The Definitive H.P. Lovecraft- 67 Tales of Horror in One Volume
 The Demon-Haunted World
@@ -263,6 +265,7 @@ The Pale King
 The Passenger
 The Politics of Heroin
 The Pragmatic Programmer
+The Prince
 The Princess Bride
 The Remains of the Day
 The Rise and Fall of the Third Reich
