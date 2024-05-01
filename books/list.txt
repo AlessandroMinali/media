@@ -155,6 +155,7 @@ Pebble in the Sky
 Performance Analysis and Tuning on Modern CPUs
 Permutation City
 Philosophical Investigations
+Philosophus Autodidactus
 Physically Based Rendering, Third Edition
 Pictures from the Water Trade: An Englishman in Japan
 Probability and Computing: Randomized Algorithms and Probabilistic Analysis
@@ -176,6 +177,7 @@ Scientific Freedom: The Elixir of Civilization
 Seraffyn's European Adventure
 Seveneves
 Solaris
+Solo: Backcountry Adventuring in Aotearoa
 Something to Do with Paying Attention
 Sometimes a Great Notion
 Songs of a Dead Dreamer & Grimscribe

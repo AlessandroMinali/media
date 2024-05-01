@@ -18,6 +18,7 @@ A Christmas Story
 A Hard Day's Night
 A Hidden Life (2019)
 + A Knight's Tale (2001)
+A Letter to Momo (2011)
 + A Man Escaped
 A Prairie Home Companion
 A Scanner Darkly (2006)
@@ -143,6 +144,7 @@ Casino (1995)
 + Castlevania (TV show)
 Catch Me If You Can
 Censor
+Changeling
 + Chernobyl (TV show)
 Children Of Heaven (1997)
 + Children of Men
@@ -215,6 +217,7 @@ El Norte
 El Topo
 + Embrace of the Serpent
 Emotion
+Encounters At The End Of The World
 + Enter the Void
 - EO
 Eraserhead
@@ -223,6 +226,7 @@ E.T. the Extra-Terrestrial
 + Eternal Sunshine of the Spotless Mind
 + Euphoria (TV show)
 + Eureka Seven (TV show)
++ Evil Does Not Exist (2023)
 + Everything Everywhere All at Once
 + Ex Machina
 Exotica
@@ -244,6 +248,7 @@ Flashdance (1983)
 Florida Project
 Flowers of Shanghai (1998)
 Following (1998)
+Footnote (2011)
 + Force Majeure (2014)
 Forrest Gump
 France (2021)
@@ -335,6 +340,7 @@ Irma Vep
 + It Follows
 It Happened One Night
 It's a Wonderful Life
+It's All Gone Pete Tong (2004)
 + It's Always Sunny in Philadelphia (TV show)
 + It's Such a Beautiful Day
 - Ivan the Terrible
@@ -343,6 +349,7 @@ James Bond
 Jason Bourne
 Jaws
 Jigoku (1960)
+Jin-Roh: The Wolf Brigade
 + Jiro Dreams of Sushi (2011)
 + Jodorowsky's Dune
 Johnny Guitar
@@ -383,6 +390,7 @@ Le samouraï
 Le testament d'Orphée (Testament of Orpheus)
 Leaving Neverland (2019)
 + Legend of the Galactic Heroes (TV show)
+Leolo
 Leon Morin, Priest
 Licorice Pizza (2021)
 Life Is Beautiful
@@ -411,6 +419,7 @@ Mank (2020)
 May December
 Mean Streets (1973)
 Meantime (1984)
+Meet Joe Black (1998)
 + Memento (2000)
 Memories of Murder (2003)
 Metropolis
@@ -450,9 +459,10 @@ My Neighbor Totoro (1988)
 My Neighbors the Yamadas (1999)
 + My Year of Dicks
 Mystery Train (1989)
+Nameless Gangster: Rules of the Time (2012)
 + Nanook of the North
 Napoleon (2023)
-Napoleon Dynamite (2004)
++ Napoleon Dynamite (2004)
 + Nausicaä of the Valley of the Wind (1984)
 + Neon Genesis Evangelion (TV show)
 + Nightcrawler
@@ -541,6 +551,7 @@ Ratatouille
 Reality (2012)
 Rear Window
 Red Beard (1965)
+Red Eye (2005)
 Red River (1948)
 Red Rocket
 + Redline
@@ -586,6 +597,7 @@ Shaolin Soccer (2001)
 + Shaun of the Dead
 - She and Her Cat
 + Shoah (1985)
+Shortbus (2006)
 + Shrek (2001)
 Shutter Island (2010)
 Sicario (2015)
