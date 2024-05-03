@@ -601,6 +601,7 @@ Shortbus (2006)
 + Shrek (2001)
 Shutter Island (2010)
 Sicario (2015)
++ Sicko (2007)
 Silence (2016)
 + Sigur Rós: Heima
 Singin' in the Rain
@@ -611,6 +612,7 @@ Snowpiercer (2013)
 + Solaris (1972)
 Son of Saul (2015)
 + Sonatine (1993)
+- Song To Song (2017)
 + South Park (TV show)
 + Space Dandy (TV show)
 Spartacus (1960)
@@ -636,9 +638,10 @@ Swing Time (1936)
 + Swiss Army Man
 + Sympathy for Mr. Vengeance (2002)
 + Synecdoche, New York
++ Take Shelter (2011)
 - Tales from Earthsea (2006)
 Tampopo
-+ Take Shelter (2011)
+Tár (2022)
 + Taxi Driver (1976)
 + Taxi to the Dark Side (2007)
 Tenet (2020)
@@ -673,6 +676,7 @@ The Cat Returns (2002)
 + The Congress
 The Conversation (1974)
 + The Corporation
+The Curious Case of Benjamin Button (2008)
 - The Dance of Reality (2013)
 + The Darjeeling Unlimited (2007)
 + The Dark Knight
@@ -810,6 +814,7 @@ The Treasure of the Sierra Madre
 + The Tree of Life (2011)
 + The Truman Show
 - The Truth (2019)
+The Turin Horse (2011)
 The Unbearable Weight of Massive Talent (2022)
 The Virigin Suicides (1999)
 + The Whale (2022)
@@ -894,5 +899,5 @@ Yankee Doodle Dandy (1942)
 Yellow Submarine
 Yi Yi
 + Yojimbo
-Your Name.
+Your Name. (2016)
 Zodiac (2011)
