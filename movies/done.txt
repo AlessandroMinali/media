@@ -30,7 +30,7 @@ A.I. Artificial Intelligence
 About Dry Grasses
 Ace in the Hole
 + Adventure Time (TV show)
-+ Afire
++ Afire (2023)
 + Afro Samurai (TV show)
 After Hours (1985)
 + After Life (1998)
@@ -67,6 +67,7 @@ Apollo 10 1⁄2: A Space Age Childhood (2022)
 + Arcane (TV show)
 + Armadillo
 Army of Darkness
+Army of Shadows (1969)
 + Arrested Development (TV show)
 Arriety (2010)
 + Arrival (2016)
@@ -297,6 +298,7 @@ Harry Potter
 + Hausu (House)
 Heart of Glass (Herz aus Glas)
 Heartbeats (2010)
+Heat (1995)
 + Heaven Only Knows
 Heaven's Gate
 - Hellboy (2004)
@@ -316,7 +318,7 @@ Hunt for the Wilderpeople (2016)
 I don't feel at home in this world anymore. (2017)
 I Wish (2011)
 I'm a Cyborg, But That's OK (2006)
-I'm Thinking of Ending Things
++ I'm Thinking of Ending Things
 Ikiru (1952)
 In a Lonely Place
 + In Bruges
@@ -377,6 +379,7 @@ La cérémonie (1995)
 La collectionneuse
 + La La Land (2016)
 La piscine
+- La Vie en Rose (2007)
 Lady Vengeance (2005)
 + Lars and the Real Girl (2007)
 + Last and First Men
@@ -510,6 +513,7 @@ Paris, Texas
 + Past Lives
 + Patlabor 2 (1993)
 + Perfect Blue (1997)
+Perfect Days (2023)
 - Phantom Thread (2017)
 Phoenix (2014)
 + Pi (1998)
@@ -630,6 +634,7 @@ Star Wars
 + Steve Jobs
 Still Life (2006)
 Still Walking (2008)
++ Stories We Tell (2012)
 + Stutz
 + Summer Heights High (TV show) (2007)
 Sunset Boulevard
@@ -639,12 +644,14 @@ Swing Time (1936)
 + Swiss Army Man
 + Sympathy for Mr. Vengeance (2002)
 + Synecdoche, New York
++ Tabu (2012)
 + Take Shelter (2011)
 - Tales from Earthsea (2006)
 Tampopo
 Tár (2022)
 + Taxi Driver (1976)
 + Taxi to the Dark Side (2007)
+Ten (2002)
 Tenet (2020)
 The 400 Blows
 + The Act of Killing
@@ -677,6 +684,7 @@ The Cat Returns (2002)
 + The Congress
 The Conversation (1974)
 + The Corporation
++ The Curse (2023)
 The Curious Case of Benjamin Button (2008)
 - The Dance of Reality (2013)
 + The Darjeeling Unlimited (2007)
@@ -901,5 +909,6 @@ Yankee Doodle Dandy (1942)
 Yellow Submarine
 Yi Yi
 + Yojimbo
+You, the Living (2007)
 Your Name. (2016)
 Zodiac (2011)

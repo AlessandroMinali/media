@@ -83,6 +83,7 @@ Gardens of the Moon
 Ghost in the shell
 Giles Corey
 God Emperor of Dune
+Goedel, Escher, Bach
 Godforsaken Sea: The True Story of a Race Through the World's Most Dangerous Waters
 Grapes of Wrath
 Graphics Gems
@@ -93,6 +94,7 @@ Guns, Germs & Steel
 Hacker's Delight
 Hacking, 2nd Edition
 Hard-Boiled Wonderland and the End of the World
+Heart of Darkness
 Hothouse
 House of Leaves
 How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease
@@ -127,7 +129,7 @@ Lolita
 Lord of the Flies
 Lotus Sūtra
 Love in the Time of Cholera
-Making - Tim Ingold
+Making: Anthropology, Archaeology, Art and Architecture
 Man's Search for Meaning
 Mastering Algorithms with C
 Maus
@@ -188,7 +190,7 @@ Story of Your Life
 Sun and Steel
 Super-Frog Saves Tokyo
 Supplying War
-Surreal Numbers - D. Knuth
+Surreal Numbers
 Systemantics
 Tender is the Flesh
 Termination Shock
@@ -227,7 +229,7 @@ The Demon-Haunted World
 The Design of Everyday Things
 The Dispossessed
 The Distance of the Moon
-The Dream Machine - M. Mitchell Waldrop
+The Dream Machine
 The Drawing of the Three
 The Electric Kool-Aid Acid Test
 The Elements of Computing Systems: Building a Modern Computer from First Principles (nand2tetris)
@@ -277,6 +279,7 @@ The Ruined Map
 The Setting Sun
 The Sixth Extinction: An Unnatural History
 The Sleepwalkers: A History of Man's Changing Vision of the Universe
+The Society of the Spectacle
 The Summer Book
 The Sympathizer
 The Temple of the Golden Pavilion
@@ -297,7 +300,7 @@ Travels In Hyperreality
 Trees: An Anthology of Writings and Paintings
 Ubik
 Ulysses
-Underground - Murakami
+Underground: The Tokyo Gas Attack and the Japanese Psyche
 Understanding Software Dynamics
 Uzumaki
 VALIS
@@ -308,4 +311,5 @@ Watership Down
 Where the Crawdads Sing
 Without Conscience: The Disturbing World of the Psychopaths Among Us
 Working Effectively with Legacy Code
+Why Don't Students Like School?
 xv6 - https://pdos.csail.mit.edu/6.1810/2023/xv6.html

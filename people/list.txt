@@ -52,6 +52,7 @@ AUTHORS
 Douglas Hofstadter
 Greg Egan
 Haruki Murakami
+David Foster Wallace
 
 HIKERS
 John Zahorian <https://www.youtube.com/johnzahorian>: Hayduke <https://www.youtube.com/watch?v=qyq64MBvbWc>, Death Valley <https://www.youtube.com/watch?v=hCsj266W8Jk>, PCT YoYo <https://www.youtube.com/watch?v=pGlj4cqb2Ws>, Colorado Trail FKT <https://www.youtube.com/watch?v=Vk6CrWJdRto>
