@@ -47,6 +47,7 @@ Computer Organization and Design RISC-V Edition: The Hardware Software Interface
 Cinema Speculation
 Consciousness Explained
 Consider Phlebas
+Cosmicomics
 Cracking the Coding Interview
 Creativity: A Short and Cheerful Guide
 Crime and Punishment
@@ -55,6 +56,7 @@ Culture & Imperialism
 Debt: The first 5000 years
 Demian: The Story of a Boyhood
 Desert Solitaire
+Dictionary of the Khazars
 Divine Comedy
 Do Androids Dream of Electric Sheep
 Don't Sleep, There Are Snakes: Life and Language in the Amazonian Jungle
@@ -192,6 +194,7 @@ Super-Frog Saves Tokyo
 Supplying War
 Surreal Numbers
 Systemantics
+t zero
 Tender is the Flesh
 Termination Shock
 Termush
@@ -243,8 +246,10 @@ The Gallows Pole
 The Giver
 The Glass Bead Game
 The Golden Apples of the Sun
+The Ground Beneath Her Feet
 The Gunslinger
 The Hero with a Thousand Faces
+The Hobbit
 The House Jack Built
 The Incredible Tide
 The Jounral of Henry David Thoreau, 1837-1861
@@ -252,6 +257,7 @@ The Library of Babel
 The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing
 The Little Prince
 The Long Way
+The Lord of the Rings
 The Machine Stops
 The Machinery of Life
 The Making of Prince of Persia: Journals 1985-1993
@@ -270,6 +276,7 @@ The Passenger
 The Politics of Heroin
 The Pragmatic Programmer
 The Prince
+The Princess and the Pea
 The Princess Bride
 The Remains of the Day
 The Rise and Fall of the Third Reich
@@ -287,6 +294,7 @@ The Theoretical Minimum: What You Need to Know to Start Doing Physics
 The Three Body Problem
 The Three Stigmata of Palmer Eldritch
 The Timeless Way of Building
+The Trouble with Being Born
 The Toyota Way
 The Unbearable Lightness of Being
 The Way of Kings

@@ -27,7 +27,7 @@ A Taxi Driver (2017)
 + A Touch of Sin
 A Woman Under the Influence
 A.I. Artificial Intelligence
-About Dry Grasses
+About Dry Grasses (2023)
 Ace in the Hole
 + Adventure Time (TV show)
 + Afire (2023)
@@ -36,6 +36,7 @@ After Hours (1985)
 + After Life (1998)
 Aguirre, the Wrath of God
 Air Doll
+Airplane!
 + Akira
 Aladdin (1992)
 Ali: Fear Eats the Soul
@@ -55,6 +56,7 @@ An Autumn Afternoon (1962)
 Anarcord
 + Anatomy of a Fall
 And Life Goes On
++ And Now for Something Completely Different
 Andrei Rublev (1966)
 Anomalisa
 + Annihilation
@@ -75,6 +77,7 @@ Arriety (2010)
 As Tears Go By (1988)
 + Asako I & II (2018)
 + Asteroid City (2023)
+Atonement (2007)
 Attack on Titan (TV show)
 - Au hasard Balthazar
 + Avatar: The Last Airbender (TV show)
@@ -140,12 +143,14 @@ Brüno
 + Burning
 Caché
 Capernaum
+Cartel Land (2015)
 Casablanca
 Casino (1995)
 + Castle in the Sky (1986)
 + Castlevania (TV show)
 Catch Me If You Can
 Censor
+Chainsaw Man (TV show) (2023)
 Changeling
 + Chernobyl (TV show)
 Children Of Heaven (1997)
@@ -291,6 +296,7 @@ Hacksaw Ridge
 Hail, Caesar! (2016)
 Hamilton
 + Hana-bi
++ Hanna (2011)
 + Happy Hour (2015)
 + Harakiri
 + HarmonQuest (TV show)
@@ -327,6 +333,7 @@ In Cold Blood
 + Incendies
 + Inception (2010)
 Indiana Jones
+Indie Game: The Movie (2012)
 Infernal Affairs
 Inglorious Basterds (2009)
 Inherent Vice (2014)
@@ -347,7 +354,7 @@ It's All Gone Pete Tong (2004)
 + It's Always Sunny in Philadelphia (TV show)
 + It's Such a Beautiful Day
 - Ivan the Terrible
-Jackie Brown (1997)
++ Jackie Brown (1997)
 James Bond
 Jason Bourne
 Jaws
@@ -368,6 +375,7 @@ killing them softly (2012)
 King Kong (1933)
 Knives Out (2019)
 + Koyaanisqatsi
+Krisha (2015)
 Kumiko, the Treasure Hunter
 + Kung Fu Hustle (2004)
 Kundun (1997)
@@ -384,7 +392,7 @@ Lady Vengeance (2005)
 + Lars and the Real Girl (2007)
 + Last and First Men
 Last Night in Soho (2021)
-- Last Yeat at Marienbad (1961)
+- Last Year at Marienbad (1961)
 Late Autumn (1960)
 Late Spring
 + Laura (1944)
@@ -421,6 +429,7 @@ Mank (2020)
 + Master of None (TV show)
 + Matrix
 May December
+Mean Creek (2004)
 Mean Streets (1973)
 Meantime (1984)
 Meet Joe Black (1998)
@@ -441,6 +450,9 @@ Mirror (1975)
 Modern Times
 + Mommy (2014)
 Mon Oncle (My Uncle)
++ Monty Python and the Holy Grail
++ Monty Python's Life of Brian
++ Monty Python's The Meaning of Life
 Monsieur Hulot's Holiday (Mr. Hulot's Holiday)
 + Monster (2023)
 Monsters Inc.
@@ -545,6 +557,7 @@ Pretty Woman (1990)
 + Psycho
 + Pulp Fiction (1994)
 - Pulse (2001)
+Pumping Iron (1977)
 Purple Noon
 + Raging Bull (1980)
 + Raise the Red Lantern
@@ -682,6 +695,7 @@ The Cabinet of Dr. Caligari (1920)
 The Cat Returns (2002)
 + The Climb
 + The Congress
+The Contestant (2023)
 The Conversation (1974)
 + The Corporation
 + The Curse (2023)
@@ -751,6 +765,7 @@ The Lady Eve (1941)
 The Last Laugh (1924)
 The Last Picture Show (1971)
 The Last Samurai (2003)
+The Last Stop in Yuma County (2023)
 + The League of Gentlemen (TV show)
 + The Lego Movie (2014)
 The Life and Death of Colonel Blimp (1943)
@@ -776,6 +791,7 @@ The Martian (2015)
 + The Night Is Short, Walk on Girl (2017)
 The Night of the Hunter (1955)
 + The Nightmare Before Christmas (1993)
+The Northman (2022)
 + The Notebook (2004)
 The Only Son (1936)
 The Pacific (TV show)
@@ -826,6 +842,7 @@ The Treasure of the Sierra Madre
 - The Truth (2019)
 The Turin Horse (2011)
 The Unbearable Weight of Massive Talent (2022)
+The Usual Suspects (1995)
 The Virigin Suicides (1999)
 + The Whale (2022)
 The White Ribbon
@@ -865,6 +882,7 @@ Triumph of the Will (1935)
 True Grit (2010)
 True Mothers
 Twilight
+Two Days, One Night (2014)
 Ugetsu
 Uncle Boonmee Who Can Recall His Past Lives (2010)
 + Uncut Gems (2019)

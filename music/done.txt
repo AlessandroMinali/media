@@ -147,6 +147,12 @@ Bob Dylan - 1975 - Blood On the Tracks
 Bob Dylan and the Band - 1975 - The Basement Tapes
 Bodi Bill - 2022 - I Love U I Do
 Bonnie Raitt - 1989 - Nick of Time
+Bonobo - 2000 - Animal Magic - Terrapin
+Bonobo - 2003 - Dial "M" for Monkey
+Bonobo - 2006 - Days to Come
+Bonobo - 2010 - Black Sands
+Bonobo - 2013 - The North Borders - Cirrus
+Bonobo - 2017 - Migration - Kerala
 Bored Nothing - 2010 - Other Things - red red red
 Bored Nothing - 2011 - 7 ribs
 Bored Nothing - 2011 - Beard of Bees
@@ -224,6 +230,7 @@ Cloud Nothings - 2012 - Attack On Memory
 Clues - 2009 - Clues
 Coldplay - 2005 - X&Y - Fix You
 Colin Stetson - 2011 - New History Warfare Vol. 2: Judges
+Comadre - 2013 - Comadre - Untitled
 Connor Sherlock - 2013 - TRIHAYWBFRFYH
 Connor Sherlock - 2015 - Voice of Vamana
 Conor Oberst - 2016 - Ruminations
@@ -730,10 +737,16 @@ Outkast - 2000 - Stankonia - Ms. Jackson
 Owen Pallett - 2010 - Heartland
 Oxbow - 2017 - Thin Black Duke
 Panopticon - 2015 - Autumn Eternal
+Paul McCartney and Linda McCartney - 1971 - Ram
 Paul Simon - 1972 - Paul Simon
 Paul Simon - 1986 - Graceland - Graceland
 Paysage d'Hiver - 2020 - Im Wald
 Penguin Cafe - 2014 - The Red Book
+Penguin Cafe - 2015 - Umbrella
+Penguin Cafe - 2017 - The Imperfect Sea
+Penguin Cafe - 2019 - Handfuls of Night
+Penguin Cafe - 2021 - A Matter of Life... 2021
+Penguin Cafe - 2023 - Rain Before Seven...
 Penguin Cafe Orchestra - 1976 - Music From The Penguin Cafe - The Sound Of Someone You Love Who's Going Away And It Doesn't Matter
 Penguin Cafe Orchestra - 1981 - Penguin Cafe Orchestra - Number 1-4
 Penguin Cafe Orchestra - 1984 - Broadcasting From Home
@@ -760,6 +773,7 @@ Pink Floyd - 1977 - Animals
 Pink Floyd - 1979 - The Wall
 Pink Siifu - 2021 - GUMBO'!
 PinkPantheress - 2021 - to hell with it
+PinkPantheress - 2023 - Heaven knows
 Pixies - 1989 - Doolittle
 PJ Harvey - 2011 - Let England Shake
 Polyphia - 2018 - New Levels New Devils
@@ -872,6 +886,7 @@ Stella Donnely - 2019 - Beware of the Dogs - Mosquito
 Stella Donnely - 2022 - Flood
 Step Brothers - 2014 - Lord Steppington
 Steve Reich - 1976 - Music for 18 Musicians
+Sturgill Simpson - 2016 - A Sailor's Guide to Earth
 Sudan Archives - 2022 - Natural Brown Prom Queen
 Sufjan Stevens & Angelo De Augustine - 2021 - A Beginner's Mind
 Sufjan Stevens - 2010 - All Delighted People EP - From the Mouth of Gabriel
