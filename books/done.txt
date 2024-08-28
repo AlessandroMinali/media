@@ -5,12 +5,16 @@
 + Blindsight
 + Brave New World
 + Catcher in the Rye
+CY_BORG
+DEATH IN SPACE
 + Deep Work
 + Diaspora
 + Don Quixote
 + Dune
++ Dungeons & Dragons Core Rulebooks 5e
 + Entangled Life
 - Finnegans Wake
+FIST
 Goedel, Escher, Bach
 + Gyo
 Hagakure
@@ -18,12 +22,17 @@ Heart of Darkness
 - How to Win Friends and Influence People
 I Am a Strange Loop
 + Industrial Society and Its Future
++ Into the Odd Remastered
 + Ishmael
 + Kafka On the Shore
++ LANCER Core Book
++ Lonely Planet Fast Talk French 5e
 Lessons in the Fundamentals of Go
+Liminal Horror
 + Look Back
 + Love Far From Home
 Masters Of Doom
++ Mörk Borg
 + My Name is Red
 Never Let Me Go
 No Longer Human

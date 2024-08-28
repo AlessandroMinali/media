@@ -1,9 +1,11 @@
 Star Maker
+Linear Algebra Done Right
+The Lord of the Rings The Fellowship of the Ring
+Lonely Planet Fast Talk Japanese 1e
 
 The Rings of Saturn
 Moby Dick
 Atlas Shrugged
-Linear Algebra Done Right
 Cat's Cradle
 From Bacteria to Bach and Back
 
@@ -267,7 +269,8 @@ The Library of Babel
 The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing
 The Little Prince
 The Long Way
-The Lord of the Rings
+The Lord of the Rings: Two Towers
+The Lord of the Rings: The Return of the King
 The Machine Stops
 The Machinery of Life
 The Making of Prince of Persia: Journals 1985-1993
