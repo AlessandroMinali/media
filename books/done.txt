@@ -1,5 +1,6 @@
 + A Clockwork Orange
 + A Sand County Almanac
++ Alice's Adventures in Wonderland
 + Animal Farm
 + Blindsight
 + Brave New World
@@ -54,6 +55,8 @@ The Shadow Out of Time
 The Shunned House
 The Snow Leopard
 + The Wind-Up Bird Chronicle
+Through the Looking-Glass, and What Alice Found There
+To Build a Fire
 + Tractatus Logico-Philosophicus
 Understanding Comics
 + Watchmen

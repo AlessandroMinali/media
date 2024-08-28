@@ -33,4 +33,4 @@ IO.readlines('all.txt').map{ |x| x.strip }.each do |i|
   matches << r if r =~ /match/
 end
 puts "Game Pass matches: #{matches.length}"
-puts matches.sample
+puts matches
