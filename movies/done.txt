@@ -49,7 +49,7 @@ Amadeus
 + American Beauty
 American History X
 + American Psycho
-Amorres perros
+Amores perros (2000)
 Amélie
 An Autumn Afternoon (1962)
 + An Honest Liar
@@ -118,6 +118,7 @@ Blade Runner 2049 (2017)
 Blow-Up
 Blue Is the Warmest Colour (2013)
 Blue Valentine (2010)
+Blue Velvet (1986)
 Bo Burnham: Inside (2021)
 Bob le flambeur (1956)
 Bodies Bodies Bodies (2022)
@@ -133,6 +134,7 @@ Braveheart
 Brazil
 Breakfast at Tiffany's (1961)
 + Breaking Bad (TV show)
+Breaking Waves (1996)
 Breathless
 Bride of Frankenstein
 Brokeback Mountain (2005)
@@ -396,7 +398,7 @@ Lady Vengeance (2005)
 Last Night in Soho (2021)
 - Last Year at Marienbad (1961)
 Late Autumn (1960)
-Late Spring
+Late Spring (1949)
 + Laura (1944)
 Laurence Anyways (2012)
 Lawerence of Arabia
@@ -924,7 +926,7 @@ Wild Strawberries (1957)
 Woman in the Dunes
 Woodstock (1970)
 World of Tomorrow (2015)
-+ Written on the Wind
++ Written on the Wind (1956)
 Xavier: Renegade Angel (2007)
 + Xiao Wu
 Yankee Doodle Dandy (1942)
