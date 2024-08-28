@@ -1,18 +1,22 @@
 #BLUD
 24 Killers
+7 Billion Humans
 A Monster's Expedition
 Accounting (Legacy)
 Accounting+
 Agent 64: Spies Never Die
 Airframe Ultra
+Alien: Isolation
 ANIMAL WELL
 ARMORED CORE VI FIRES OF RUBICON
 Arranger: A Role-Puzzling Adventure
 Balatro
+Ballad of Antara
 Black Powder Read Earth
 Bleak Sword DX
 Bomb Rush Cyberfunk
 Brave Earth: Prologue
+Cairn
 Carto
 Chants of Sennar
 Children of a Dead Earth
@@ -38,21 +42,26 @@ Earthblade
 Eastward
 El Shaddai ASCENSION OF THE METATRON
 En Garde!
+Factorio
 FAITH: The Unholy Trinity
 FIGHT KNIGHT
 Flotilla
 Flotilla 2
+From dust
 G String
+Ghost of Tsushima
 Ghostrunner 2
 Ghostwire: Tokyo
 Gloomwood
 Half-Life: Alyx
+Halo Infinite
 Happy Game
 Hardspace: Shipbreaker
 Hardspace: Shipbreaker
 Hell Let Loose
 Hi-Fi RUSH
 High On Life
+Human Resource Machine
 HYPER DEMON
 Hyper Light Breaker
 IMMORTALITY
@@ -68,8 +77,10 @@ Kenshi
 Kunitsu-Gami: Path of the Goddess
 Laika: Aged Through Blood
 Lies of P
+Little Inferno
 Lords of the Fallen
 Lorn's Lure
+Metaphor: ReFantazio
 Miegakure
 Mina the Hollower
 Mineko's Night Market
@@ -83,14 +94,17 @@ MOUSE
 MULLET MADJACK
 Neon White
 Nine Sols
+No Man's Sky
 No Place for Bravery
 Nobody Saves the World
 Northern Journey
 Ode to a Moon
 Ooblets
 Open Roads
+Pathologic
 Patrick's Parabox
 Pepper Grinder
+Persona 3 Reload
 Phantom Abyss
 Phonopolis
 Pizza Tower
@@ -110,12 +124,13 @@ RoboCop: Rogue City
 Rogue Legacy 2
 ROUTINE
 SCHiM
+Screenbound
 SEASON: A Letter to the future
 Senua's Saga: Hellblade II
 Shotgun King: The Final Checkmate
 Sifu
 SIGNALIS
-SILENT HILL 2
+Silent Hill 2
 Silicon Dreams
 Skate Story
 Skin Deep
@@ -125,6 +140,7 @@ Somerville
 Squad
 Stardew Valley
 Starfield
+Stephen's Sausage Roll
 Stormgate
 Storyteller
 Stray
@@ -136,6 +152,7 @@ System Shock
 Taiji
 Tandis
 Teardown
+Tenjutsu
 The Banished Vault
 The Eternal Cyclinder
 The Last Night
@@ -153,5 +170,8 @@ Unpacking
 Viewfinder
 VTOL VR
 War of Rights
+Where Winds Meet
 Wobbledogs
+World of Goo
+World of Goo 2
 WORLD OF HORROR
