@@ -19,6 +19,7 @@ A Gentlement in Moscow
 A Humument: A treated Victorian novel
 A Kayak Full of Ghosts
 A Perfect Vacuum
+A Philosophy of Software Design
 A Scanner Darkly
 A Universal History of Infamy
 Aberration in the Heartland of the Real
@@ -126,7 +127,6 @@ La Débâcle
 Landscape Painted with Tea
 Last and First Men
 Le Ton beau de Marot: In Praise of the Music of Language
-Learn Functional Programming with Elixir
 Leaves of Grass
 Letter to my Father
 Letters to a Young Poet
