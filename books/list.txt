@@ -145,6 +145,7 @@ Meditations
 Meditations on First Philosophy
 Modern Processor Design: Fundamentals of Superscalar Processors
 Mr. Palomar
+Narnia
 Nausicaä of the Valley of the Wind
 Neuromancer
 North to the Night : A Spiritual Odyssey in the Arctic
@@ -183,6 +184,7 @@ Right-Wing Women
 Sartor Resartus: The Life and Opinions of Herr Teufelsdröckh in Three Books
 Sculpting in Time
 Shogun
+Strange Land
 Structure and Interpretation of Computer Programs
 Scientific Freedom: The Elixir of Civilization
 Seraffyn's European Adventure
