@@ -95,7 +95,9 @@ Baths - 2010 - Cerulean - Maximalist
 Battles - 2011 - Gloss Drop
 Beach House - 2010 - Teen Dreams
 Beach House - 2012 - Bloom
+Beastie Boys - 1992 - Check Your Head
 Beastie Boys - 2011 - Hot Sauce Committee Part Two
+Beck - 1996 - Odelay
 Belle & Sebastian - 1996 - If You're Feeling Sinister
 Ben Vida, Yarn/Wire, Nina Dante - 2023 - The Beat My Head Hit
 Benjamin Earl Turner - 2016 - Yell Pretty - Outro Feat. Saba
@@ -252,6 +254,7 @@ Cécile McLorin Salvant - 2022 - Ghost Song
 D'Angelo and The Vanguard - 2014 - Black Messiah
 Da Mafia 6ix - 2013 - 6ix Commandments
 Daddy Yankee - 2004 - Barrio Fino
+Daft Punk - 2001 - Discovery - One More Time
 Dan Deacon - 2020 - Mystic Familiar - Weeping Birch
 Daniel Rossen - 2012 - Silent Hour / Golden Mile
 Danny Brown - 2011 - XXX (Deluxe Version)
@@ -399,6 +402,7 @@ Grace Ives - 2022 - Janky Star
 Grateful Dead - 1970 - American Beauty
 Grouper - 2011 - A I A: Alien Observer
 Guerilla Toss - 2018 - Twisted Crystal
+Guns N' Roses - 1987 - Appetite for Destruction - Paradise City
 GZA - 1995 - Liquid Swords - Liquid Swords
 HAIM - 2020 - Women in Music Pt. III
 Hak Baker - 2017 - Misfits - Conundrum
@@ -546,6 +550,7 @@ Kendrick Lamar - 2012 - Good Kid, M.A.A.D City - The Art of Peer Pressure
 Kendrick Lamar - 2015 - To Pimp A Butterfly - Momma
 Kendrick Lamar - 2016 - untitled unmastered.
 Kendrick Lamar - 2017 - DAMN - LOVE.
+Kendrick Lamar - 2022 - Mr. Morale & The Big Steppers
 Kenny Beats - 2022 - LOUIE - Hold My Head
 Kenny Garrett - 2021 - Sounds from the Ancestors
 Kero Kero Bonito - 2016 - Bonito Generation
@@ -772,7 +777,7 @@ Pinegrove - 2020 - Marigold
 Pinegrove - 2021 - Amperland, NY
 Pinegrove - 2022 - 11:11
 Pinegrove - 2022 - Need 2 - Need 2 (fast pinegrove)
-Pink Floyd - 1973 - Dark Side of the Moon
+Pink Floyd - 1973 - The Dark Side of the Moon
 Pink Floyd - 1975 - Wish You Were Here
 Pink Floyd - 1977 - Animals
 Pink Floyd - 1979 - The Wall
@@ -802,6 +807,7 @@ Pusha T - 2022 - It's Almost Dry
 Queens of the Stone Age - 2013 - ...Like Clockwork
 Quelle Chris & Chris Keys - 2020 - Innocent Country 2
 R.A.P. Ferreira - 2020 - Purple Moonlight Pages
+R.E.M. - 1983 - Murmur
 Rachika Nayar - 2022 - Heaven Come Crashing - Tetramorph
 Radiohead - 1997 - OK Computer
 Radiohead - 2000 - Kid A
@@ -818,6 +824,7 @@ Renaissance Sound - 2012 - Renaissance Sound
 Richard and Linda Thompson - 1974 - I Want to See the Bright Lights Tonight
 Richard Dawson & Circle - 2021 - Henki
 Richard Dawson - 2022 - The Ruby Cord
+Rina Sawayama - 2017 - RINA
 Rod Stewart - 1971 - Every Picture Tells a Story
 Rodrigo Amarante - 2021 - Drama
 Roland Kayn - 2021 - Matego I-II
@@ -977,6 +984,7 @@ The Drones - 2013 - I See Seaweed
 The Drones - 2016 - Feelin Kinda Free
 The Drums - 2010 - The Drums - Let's Go Surfing
 The Evens - 2012 - The Odds
+The Flying Burrito Brothers - 1969 - The Gilded Palace of Sin
 The Fray - 2005 - How To Save A Life - How to Save a Life
 The Fray - 2009 - The Fray
 The Fray - 2012 - Scars and Stories
@@ -984,6 +992,7 @@ The Fray - 2014 - Helios
 The Game - 2015 - The Documentary 2.5
 The Haxan Cloak - 2013 - Excavation
 The Highwomen - 2019 - The Highwomen
+The Jimi Hendrix Experience - 1967 - Axis: Bold as Love
 The Jimi Hendrix Experience - 1968 - Electric Ladyland - All Along The Watchtower
 The Killers - 2004 - Hot Fuss - Glamorous Indie Rock and Roll
 The Killers - 2006 - Sam's Town - Read My Mind
@@ -1061,6 +1070,7 @@ TOKYOPILL - 2022 - Dopamine Online - ONLINE INDUCED HIGH
 Tom Petty - 1989 - Full Moon Fever
 Tomas Dvorak - 2009 - Machinarium OST - The Sea
 Torche - 2012 - Harmonicraft
+Tori Amos - 1992 - Little Earthquakes
 Touché Amoré - 2016 - Stage Four
 Toumani Diabaté and The London Symphony Orchestra - 2021 - Kôrôlén
 Toxic Holocaust - 2011 - Conjure and Command
@@ -1113,6 +1123,7 @@ Whitney Houston - 1985 - Whitney Houston
 Wiki - 2021 - Half God
 Wildbirds & Peacedrums - 2014 - Rhythm
 WILLOW - 2021 - lately I feel EVERYTHING
+Wire - 1977 - Pink Flag
 Wolves In the Throne Room - 2014 - Celestite
 Women - 2010 - Public Strain
 Woods - 2009 - Songs of Shame
