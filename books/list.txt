@@ -1,9 +1,12 @@
 TO READ
 Linear Algebra Done Right
+Fundamentals of Computer Graphics 4e (pdf)
+The Elements of Computing Systems: Building a Modern Computer from First Principles (pdf)
 
-The C Programming Language 2nd Edition
+The C Programming Language 2e
+Computer Organization and Design RISC-V Edition: The Hardware Software Interface (pdf)
 The Ray Tracer Challenge
-Real-Time Rendering, Fourth Edition
+Real-Time Rendering 4e
 The Lord of the Rings The Fellowship of the Ring
 The Lord of the Rings: Two Towers
 The Lord of the Rings: The Return of the King
@@ -59,7 +62,7 @@ Children of Dune
 Cloud Atlas
 Code of Hammurabi
 Computer Architecture: A Quantitative Approach
-Computer Organization and Design RISC-V Edition: The Hardware Software Interface
+
 Cinema Speculation
 Consciousness Explained
 Consider Phlebas
@@ -258,7 +261,6 @@ The Dragons of Eden
 The Dream Machine
 The Drawing of the Three
 The Electric Kool-Aid Acid Test
-+ The Elements of Computing Systems: Building a Modern Computer from First Principles
 The Elements of Style
 The Elephant Vanishes
 The Epic of Gilgamesh - Andrew George
@@ -280,7 +282,6 @@ The Library of Babel
 The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing
 The Little Prince
 The Long Way
-The Machine Stops
 The Machinery of Life
 The Making of Prince of Persia: Journals 1985-1993
 The Man Who Mistook His Wife for a Hat

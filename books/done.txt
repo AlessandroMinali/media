@@ -7,6 +7,7 @@
 + Catcher in the Rye
 CY_BORG
 DEATH IN SPACE
++ Data-Oriented Design (pdf)
 + Deep Work
 + Diaspora
 + Don Quixote
@@ -21,16 +22,17 @@ Hagakure
 Heart of Darkness
 - How to Win Friends and Influence People
 I Am a Strange Loop
-+ Industrial Society and Its Future
++ I Have No Mouth, and I Must Scream (pdf)
++ Industrial Society and Its Future (pdf)
 + Into the Odd Remastered
 + Ishmael
 + Kafka On the Shore
 + LANCER Core Book
 + Lonely Planet Fast Talk French 5e
-Lessons in the Fundamentals of Go
+Lessons in the Fundamentals of Go (pdf)
 Liminal Horror
 + Look Back
-+ Love Far From Home
++ Love Far From Home (pdf)
 Masters Of Doom
 + Mörk Borg
 + My Name is Red
@@ -39,6 +41,7 @@ No Longer Human
 + Norwegian Wood
 + Of Mice and Men
 + One Thousand and One Nights - abridged
++ Opening Theory Made Easy: Twenty Strategic Principles to Improve Your Opening Game (pdf)
 + Saga
 + Sapiens
 + Schild's Ladder
@@ -48,28 +51,30 @@ No Longer Human
 + Stand on Zanibar
 Surely You're Joking, Mr. Feynman!
 + The Art of War
-The Call of Cthulhu
-+ The Eyes Have It
+The Call of Cthulhu (pdf)
++ The Eyes Have It (pdf)
 The Great Gatsby
 + The Hitchhiker's Guide to the Galaxy
 The Japanese Negotiator: Subtlety and Strategy Beyond Western Logic
++ The Machine Stops (pdf)
 - The Magic Mountain
 The Metamorphosis
 + The Mind's I
-+ The Music of Erich Zann
++ The Music of Erich Zann (pdf)
 The Myth of Sisyphus
-+ The Nine Billion Names of God
++ The Nine Billion Names of God (pdf)
 + The Power of Habit
-The Shadow Out of Time
+The Shadow Out of Time (pdf)
 + The Shockwave Rider
-The Shunned House
+The Shunned House (pdf)
 The Snow Leopard
 + The Wind-Up Bird Chronicle
 Through the Looking-Glass, and What Alice Found There
-To Build a Fire
+To Build a Fire (pdf)
 + Tractatus Logico-Philosophicus
 Understanding Comics
 + Watchmen
++ What Every Programmer Should Know About Memory (pdf)
 We Are Here: An Atlas of Aotearoa
 Why Kids Don't Like School
 Zach-Like
