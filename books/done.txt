@@ -6,8 +6,8 @@
 + Brave New World
 + Catcher in the Rye
 CY_BORG
-DEATH IN SPACE
 + Data-Oriented Design (pdf)
+DEATH IN SPACE
 + Deep Work
 + Diaspora
 + Don Quixote
@@ -28,14 +28,14 @@ I Am a Strange Loop
 + Ishmael
 + Kafka On the Shore
 + LANCER Core Book
-+ Lonely Planet Fast Talk French 5e
 Lessons in the Fundamentals of Go (pdf)
 Liminal Horror
++ Lonely Planet Fast Talk French 5e
 + Look Back
 + Love Far From Home (pdf)
 Masters Of Doom
-+ Mörk Borg
 + My Name is Red
++ Mörk Borg
 Never Let Me Go
 No Longer Human
 + Norwegian Wood
@@ -74,7 +74,7 @@ To Build a Fire (pdf)
 + Tractatus Logico-Philosophicus
 Understanding Comics
 + Watchmen
-+ What Every Programmer Should Know About Memory (pdf)
 We Are Here: An Atlas of Aotearoa
++ What Every Programmer Should Know About Memory (pdf)
 Why Kids Don't Like School
 Zach-Like
