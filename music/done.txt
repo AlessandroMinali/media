@@ -420,6 +420,7 @@ Gorillaz - 2020 - Song Machine, Season One: Strange Timez
 Grace Ives - 2022 - Janky Star
 Grateful Dead - 1970 - American Beauty
 Grouper - 2011 - A I A: Alien Observer
+Guerilla Toss - 2017 - GT ULTRA
 Guerilla Toss - 2018 - Twisted Crystal
 Guns N' Roses - 1987 - Appetite for Destruction - Paradise City
 GZA - 1995 - Liquid Swords - Liquid Swords
@@ -600,6 +601,7 @@ Lady Gaga - 2011 - Born This Way
 LANY - 2018 - Malibu Nights
 Laura Marling - 2020 - Song for Our Daughter
 Laurel Halo - 2023 - Atlas
+Lauryn Hill - 1998 - The Miseducation of Lauryn Hill
 LCD Soundsystem - 2010 - This Is Happening - Home
 Led Zeppelin - 1969 - Led Zeppelin - Babe I'm Gonna Leave You
 Led Zeppelin - 1971 - Led Zeppelin IV - Black Dog
@@ -731,7 +733,7 @@ My Bloody Valentine - 1988 - Isn't Anything
 My Bloody Valentine - 1988 - You Made Me Realise - Cigarette in Your Bed
 My Bloody Valentine - 1991 - Loveless - To Here Knows When
 My Bloody Valentine - 2013 - m b v
-N.W.A - 1988 - Straight Outta Compton
+N.W.A - 1988 - Straight Outta Compton - Straight Outta Compton
 Nancy Mounir - 2022 - Nozhet El Nofous
 Nas - 1994 - Illmatic - The Worlds is Yours
 Nas - 2021 - King's Disease II
