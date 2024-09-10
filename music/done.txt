@@ -346,6 +346,7 @@ Elvis Presley - 1956 - Elvis Presley - Blue Suede Shoes
 Elzhi - 2011 - Elmatic
 Emile Mosseri - 2021 - Minari OST - Minari Suite
 Eminem - 1999 - The Slim Shady LP - My Name Is
+Eric B. & Rakim - 1987 - Paid in Full
 Eric Church - 2011 - Chief
 Eris Drew - 2021 - Quivering In Time
 Ethel Cain - 2021 - Inbred
@@ -692,6 +693,7 @@ MGMT - 2007 - Oracular Spectacular - Electric Feel
 MGMT - 2010 - Congratulations
 MGMT - 2013 - MGMT
 MGMT - 2018 - Little Dark Age
+Michael Jackson - 1979 - Off the Wall - Don’t Stop 'Til You Get Enough
 Michael Jackson - 1987 - Bad - Dirty Diana
 Mick Jenkins - 2014 - The Water[s] - Jazz
 Mickey Guyton - 2021 - Remember Her Name
@@ -729,6 +731,7 @@ My Bloody Valentine - 1988 - Isn't Anything
 My Bloody Valentine - 1988 - You Made Me Realise - Cigarette in Your Bed
 My Bloody Valentine - 1991 - Loveless - To Here Knows When
 My Bloody Valentine - 2013 - m b v
+N.W.A - 1988 - Straight Outta Compton
 Nancy Mounir - 2022 - Nozhet El Nofous
 Nas - 1994 - Illmatic - The Worlds is Yours
 Nas - 2021 - King's Disease II
@@ -844,6 +847,7 @@ Radiohead - 2007 - In Rainbows
 Radiohead - 2016 - A Moon Shaped Pool
 Rapsody - 2017 - Laila's Wisdom
 Ratatat - 2010 - LP4 - Bilar
+Ratking - 2014 - So It Goes
 Ravyn Lenae - 2022 - HYPNOS
 Ray Charles - 1962 - Modern Sounds in Country and Western Music
 Ray Charles - 1991 - The Birth of Soul
@@ -861,12 +865,14 @@ Roland Kayn - 2021 - Matego I-II
 Rosalía - 2017 - Los Ángeles
 Rosalía - 2018 - El mal querer - Pienso en tu mirá (Cap.III: Celos)
 Rosalía - 2022 - MOTOMAMI+ - Saoko
+Roxy Music - 1982 - Avalon
 Rufus - 1977 - Ask Rufus
 Run The Jewels - 2013 - Run the Jewels
 Run the Jewels - 2014 - Run the Jewels 2
 Run the Jewels - 2016 - Run the Jewels 3
 Run the Jewels - 2020 - RTJ4
 Saba - 2022 - Few Good Things - 2012
+Sam Prekop & John McEntire - 2022 - Sons Of
 Samurai Champloo - 2004 - Samurai Champloo Music Record: Departure
 Samurai Champloo - 2004 - Samurai Champloo Music Record: Impression - Tsurugi no Mai
 Samurai Champloo - 2004 - Samurai Champloo Music Record: Masta - Vagrancy
@@ -1078,6 +1084,7 @@ The Velvet Underground - 1967 - The Velvet Underground & Nico
 The Velvet Underground - 1968 - White Light/White Heat
 The Voidz - 2018 - Virtue
 The Weeknd - 2012 - Echoes of Silence - D.D.
+The Weeknd - 2015 - Beauty Behind the Madness - The Hills
 The Weeknd - 2022 - Dawn FM
 The White Stripes - 2005 - Get Behind Me Satan - Denial Twist
 The Who - 1969 - Tommy - Pinball Wizard
