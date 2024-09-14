@@ -5,6 +5,7 @@ A$AP Rocky - 2011 - LIVE.LOVE.A$AP
 Ab-Soul - 2012 - Control System
 Absu - 2011 - Abzu
 Action Bronson and the Alchemist - 2012 - Rare Chandeliers
+Actress - 2022 - Ghettoville
 Adam Green - 2010 - Minor Love
 Adele - 2021 - 30
 Adia Victoria - 2021 - A Southern Gothic
@@ -266,7 +267,7 @@ D'Angelo and The Vanguard - 2014 - Black Messiah
 Da Mafia 6ix - 2013 - 6ix Commandments
 Daddy Yankee - 2004 - Barrio Fino
 Daft Punk - 2001 - Discovery - One More Time
-Daft Punk - 2005 - Human After All
+Daft Punk - 2005 - Human After All - Robot Rock
 Dan Deacon - 2020 - Mystic Familiar - Weeping Birch
 Daniel Rossen - 2012 - Silent Hour / Golden Mile
 Danny Brown - 2011 - XXX (Deluxe Version)
@@ -343,6 +344,7 @@ Ed Harrison - 2023 - Lucky
 Eiafuawn - 2006 - Birds in the Ground
 Elliott Smith - 1997 - Either/Or
 Elton John - 1972 - Honky Château - Rocket Man
+Elton John - 1973 - Goodbye Yellow Brick Road - Sweet Painted Lady
 Elton John - 1975 - Captain Fantastic and the Brown Dirt Cowboy - Lucy in the Sky with Diamonds
 Elvis Costello - 1978 - This Year's Model
 Elvis Presley - 1956 - Elvis Presley - Blue Suede Shoes
@@ -615,6 +617,7 @@ Leikeli47 - 2022 - Shape Up
 Lemon Demon - 2016 - Spirit Phone
 Lena Raine - 2018 - Celeste OST
 Lethal League - 2014 - Lethal League OST - Scream
+Leyla McCalla - 2024 - Sun Without the Heat - Sun Without the Heat
 Lianne La Havas - 2012 - Is Your love Big Enough? - No Room for Doubt
 Lianne La Havas - 2015 - Blood - What You Don't Do
 Lianne La Havas - 2020 - Lianne La Havas
@@ -737,6 +740,7 @@ My Bloody Valentine - 1988 - Isn't Anything
 My Bloody Valentine - 1988 - You Made Me Realise - Cigarette in Your Bed
 My Bloody Valentine - 1991 - Loveless - To Here Knows When
 My Bloody Valentine - 2013 - m b v
+My Chemical Romance - 2006 - The Black Parade
 N.W.A - 1988 - Straight Outta Compton - Straight Outta Compton
 Nancy Mounir - 2022 - Nozhet El Nofous
 Nas - 1994 - Illmatic - The Worlds is Yours
@@ -946,6 +950,7 @@ Stella Donnely - 2017 - Thrush Metal
 Stella Donnely - 2019 - Beware of the Dogs - Mosquito
 Stella Donnely - 2022 - Flood
 Step Brothers - 2014 - Lord Steppington
+Steve Lacy - 2022 - Gemini Rights
 Steve Reich - 1976 - Music for 18 Musicians
 Sturgill Simpson - 2016 - A Sailor's Guide to Earth
 Sudan Archives - 2022 - Natural Brown Prom Queen
@@ -1039,6 +1044,7 @@ The Fray - 2014 - Helios
 The Game - 2015 - The Documentary 2.5
 The Haxan Cloak - 2013 - Excavation
 The Highwomen - 2019 - The Highwomen
+The Jimi Hendrix Experience - 1967 - Are You Experienced - Purple Haze
 The Jimi Hendrix Experience - 1967 - Axis: Bold as Love
 The Jimi Hendrix Experience - 1968 - Electric Ladyland - All Along The Watchtower
 The Killers - 2004 - Hot Fuss - Glamorous Indie Rock and Roll
@@ -1072,6 +1078,7 @@ The Replacements - 1984 - Let It Be
 The Rolling Stones - 1966 - Aftermath - Paint It, Black
 The Rolling Stones - 1969 - Let It Bleed
 The Rolling Stones - 1971 - Sticky Fingers
+The Rolling Stones - 1978 - Some Girls
 The Ronettes - 1964 - Presenting the Fabulous Ronettes Featuring Veronica - Be My Baby
 The Roots - 1999 - Things Fall Apart
 The Roots - 2010 - How I Got Over
