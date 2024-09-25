@@ -162,6 +162,7 @@ Bob Dylan and the Band - 1975 - The Basement Tapes
 Bodi Bill - 2022 - I Love U I Do
 Boldy James & Sterling Toles - 2020 - Manger on McNichols
 Bon Iver - 2011 - Bon Iver, Bon Iver - Holocene
+Bon Iver - 2019 - i,i - Naeem
 Bonnie Raitt - 1989 - Nick of Time
 Bonobo - 2000 - Animal Magic - Terrapin
 Bonobo - 2003 - Dial "M" for Monkey
@@ -186,8 +187,10 @@ boygenius - 2023 - the record - Not Strong Enough
 Boyz II Men - 1991 - II
 Braid - 2008 - Braid OST - Maenam
 Brian Eno - 2010 - Small Craft On A Milk Sea
+Brian Wilson - 2004 - Brian Wilson Presents Smile
 Bring Me the Horizon - 2020 - Post Human: Survival Horror
 British Sea Power - 2011 - Valhalla Dancehall
+Britney Spears - 2007 - Blackout
 Brittany Howard - 2019 - Jaime
 BROCKHAMPTON - 2017 - Saturation
 BROCKHAMPTON - 2017 - Saturation II
@@ -256,6 +259,7 @@ Connor Sherlock - 2013 - TRIHAYWBFRFYH
 Connor Sherlock - 2015 - Voice of Vamana
 Conor Oberst - 2016 - Ruminations
 Converge - 2017 - The Dusk in Us
+Conway the Machine - 2020 - From King to a GOD
 Conway the Machine - 2022 - God Don't Make Mistakes
 Cormorant - 2011 - Dwellings
 Craft Spells - 2011 - Idle Labor
@@ -277,6 +281,7 @@ Dan Deacon - 2020 - Mystic Familiar - Weeping Birch
 Daniel Rossen - 2012 - Silent Hour / Golden Mile
 Daniel Rossen - 2022 - You Belong There
 Danny Brown - 2011 - XXX (Deluxe Version)
+Daphni - 2022 - Cherry
 Darkside - 2013 - Psychic
 Das Racist - 2010 - Sit Down, Man - Amazing
 Daughters - 2010 - Daughters
@@ -471,6 +476,7 @@ Hobo Johnson - 2021 - The Revenge of Hobo Johnson - I Want to See the World
 Holy Ghost! - 2011 - Holy Ghost!
 HOME - 2014 - Odyssey - Intro
 Hookworms - 2018 - Microshift - Negative Space
+Hop Along - 2018 - Bark Your Head Off, Dog
 Horrendous - 2018 - Idol
 Horse Lords - 2020 - The Common Task
 Hotline Miami - 2012 - Hotline Miami OST - Hydrogen
@@ -520,11 +526,14 @@ Jeezy & DJ Drama - 2022 - SNOFALL
 Jeff Parker - 2022 - Forfolks
 Jeff Rosenstock - 2016 - Worry
 Jeff Rosenstock - 2020 - NO DREAM
+Jeff Rosenstock - 2021 - SKA DREAM
+Jeff Rosenstock - 2023 - HELLMODE
 Jenny Hval - 2022 - Classic Objects
 JER - 2022 - Bothered / Unbothered
 Jess Williamson - 2023 - 2023 Time Ain't Accidental
 Jessie Ware - 2020 - What's Your Pleasure?
 Jim Gutherie - 2011 - Sword & Sworcery LP - The Cloud
+Jim O'Rourke - 2020 - Shutting Down Here
 Joanna Newsom - 2004 - The Milk-Eyed Mender - Inflammatory Writ
 Joanna Newsom - 2006 - Ys - Sawdust and Diamonds
 Joanna Newsom - 2010 - Have One on Me
@@ -536,7 +545,9 @@ Johanna Warren - 2022 - Lessons for Mutants
 John Battle - 2023 - music for a dead mmo
 John Battle - 2023 - music for a dead mmo II
 John Battle - 2024 - dreams. - a series of rooms
+John Coltrane - 1960 - Giant Steps
 John Coltrane - 1965 - A Love Supreme - Part 1: "Acknowledgement"
+John Lennon - 1970 - John Lennon/Plastic Ono Band - Working Class Hero
 John Lennon - 1971 - Imagine - Imagine
 John Mayer - 2006 - Continuum
 John Talabot - 2012 - fin
@@ -596,7 +607,9 @@ Kenny Beats - 2022 - LOUIE - Hold My Head
 Kenny Garrett - 2021 - Sounds from the Ancestors
 Kero Kero Bonito - 2016 - Bonito Generation
 Kero Kero Bonito - 2018 - Time ‘n' Place
+Key Glock - 2023 - Glockoma 2
 Kids and Explosions - 2010 - Shit Computer
+Killer Mike - 2012 - R.A.P. Music
 Kilo Kish - 2022 - American Gurl
 King Crimson - 1981 - Discipline
 King Crismon - 1969 - In the Court of the Crimson King - 21st Century Schizoid Man
@@ -605,6 +618,7 @@ King Gizzard & The Lizard Wizard - 2016 - Nonagon Infinity
 King Gizzard & the Lizard Wizard - 2017 - Flying Microtonal Banana
 King Gizzard & The Lizard Wizard - 2019 - Infest the Rats' Nest
 King Gizzard & The Lizard Wizard - 2022 - Laminated Denim
+King Krule - 2023 - Space Heavy
 Kirin J Callinan - 2017 - Bravado
 Kirin J. Callinan - 2019 - Return to Center
 KNIFEY - 2017 - beached
@@ -649,6 +663,7 @@ Liturgy - 2020 - Origin of the Alimonies
 Lizzo - 2019 - Cuz I Love You
 Loma Prieta - 2012 - I.V.
 Lone - 2012 - Galaxy Garden
+Lord Of The Isles - 2023 - My Noise is Nothing - A Discovery (feat. Ellen Renton)
 Lorde - 2017 - Melodrama
 Louis Cole - 2018 - Time
 Low - 2021 - HEY WHAT
@@ -688,6 +703,7 @@ Marina Herlop - 2022 - Pripyat
 Marquis Hill - 2018 - Modern Flows, Vol. 2 (2018)
 Martin O'Donnell - 2004 - Halo 2 OST - Peril
 Martin O'Donnell - 2007 - Halo 3 OST - Luck
+Marvin Gaye - 1971 - What's Going On
 Marvin Gaye - 1973 - Let's Get It On
 Marvin Gaye - 1978 - Here, My Dear
 Mary Lattimore - 2023 - Silver Ladders
@@ -1143,6 +1159,7 @@ Timber Timbre - 2011 - Creep On Creepin' On
 Timber Timbre - 2014 - Hot Dreams
 Tkay Maidza - 2020 - Last Year Was Weird Vol. 2
 TNGHT - 2012 - TNGHT
+Tobacco - 2014 - Ultima II Massage
 TOKYOPILL - 2021 - Abandon The Flesh! - E t h e r e a l
 TOKYOPILL - 2021 - Virtual Death 9 5 - WISH
 TOKYOPILL - 2022 - Dopamine Online - ONLINE INDUCED HIGH
@@ -1203,6 +1220,7 @@ White Suns - 2012 - Sinews
 Whitney Houston - 1985 - Whitney Houston
 Wiki & Tony Seltzer - 2023 - 14K Figaro
 Wiki - 2021 - Half God
+Wild Nothing - 2012 - Nocturne
 Wildbirds & Peacedrums - 2014 - Rhythm
 WILLOW - 2021 - lately I feel EVERYTHING
 Wire - 1977 - Pink Flag

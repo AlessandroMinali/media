@@ -1,11 +1,9 @@
 TO READ
-Linear Algebra Done Right
-Fundamentals of Computer Graphics 4e (pdf)
 The Elements of Computing Systems: Building a Modern Computer from First Principles (pdf)
+The Ray Tracer Challenge
 
 The C Programming Language 2e
 Computer Organization and Design RISC-V Edition: The Hardware Software Interface (pdf)
-The Ray Tracer Challenge
 Real-Time Rendering 4e
 The Lord of the Rings The Fellowship of the Ring
 The Lord of the Rings: Two Towers

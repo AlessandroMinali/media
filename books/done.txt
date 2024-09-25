@@ -16,6 +16,7 @@ DEATH IN SPACE
 + Entangled Life
 - Finnegans Wake
 FIST
+Fundamentals of Computer Graphics 4e (pdf)
 Goedel, Escher, Bach
 + Gyo
 Hagakure
@@ -30,6 +31,7 @@ I Am a Strange Loop
 + LANCER Core Book
 Lessons in the Fundamentals of Go (pdf)
 Liminal Horror
+Linear Algebra Done Right
 + Lonely Planet Fast Talk French 5e
 + Look Back
 + Love Far From Home (pdf)
