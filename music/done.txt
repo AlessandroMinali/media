@@ -99,6 +99,7 @@ Baths - 2010 - Cerulean - Maximalist
 Battles - 2011 - Gloss Drop
 Beach House - 2010 - Teen Dreams
 Beach House - 2012 - Bloom
+Beach House - 2022 - Once Twice Melody
 Beastie Boys - 1992 - Check Your Head
 Beastie Boys - 2011 - Hot Sauce Committee Part Two
 Beck - 1996 - Odelay
@@ -199,6 +200,7 @@ BROCKHAMPTON - 2019 - GINGER
 BROCKHAMPTON - 2021 - Roadrunner: New Light, New Machine
 Bruce Springsteen - 1973 - The Wild, the Innocent & the E Street Shuffle
 Bruce Springsteen - 1975 - Born to Run
+Bruce Springsteen - 1984 - Born in the U.S.A.
 Buke and Gase - 2013 - General Dome - Houdini Crush
 Burial - 2012 - Kindred
 Busdriver - 2014 - Perfect Hair
@@ -1194,6 +1196,7 @@ Vampire Weekend - 2019 - Father of the Bride
 Various Artists - 1985 - The Indestructible Beat of Soweto
 Various artists - 1991 - Back to Mono (1958-1969) - I Love How You Love Me
 Various Artists - 2009 - Pomegranates
+Veeze - 2023 - Ganger
 Vektor - 2009 - Black Future
 Vektor - 2011 - Outer Isolation
 Veronica Falls - 2011 - Veronica Falls
@@ -1242,6 +1245,10 @@ YG - 2016 - Still Brazy
 Yoko Kanno - 1998 - Cowboy Bebop OST - Tank
 Young Fathers - 2012 - TAPE ONE
 Young Fathers - 2013 - TAPE TWO
+Young Fathers - 2014 - DEAD
+Young Fathers - 2015 - White Men Are Black Men Too - Shame
+Young Fathers - 2018 - Cocoa Sugar - Fee Fi
+Young Fathers - 2023 - Heavy Heavy
 Young Thug & Carnage - 2017 - Young Martha EP
 Your Old Droog - 2015 - Kinison EP
 Yvette Young - 2014 - Acoustics EP - a map a string a light
