@@ -38,6 +38,7 @@ Aesop's Fables
 Akira
 All the Pretty Horses
 American Psycho
+Amusing Ourselves to Death: Public Discourse in the Age of Show Business
 Anathem
 Animal Liberation: A New Ethics for Our Treatment of Animals
 Anna Karenina
@@ -59,7 +60,6 @@ Children of Dune
 Cloud Atlas
 Code of Hammurabi
 Computer Architecture: A Quantitative Approach
-
 Cinema Speculation
 Consciousness Explained
 Consider Phlebas
@@ -215,6 +215,7 @@ Supplying War
 Surreal Numbers
 Systemantics
 t zero
+Technopoly: The Surrender of Culture to Technology
 Tender is the Flesh
 Termination Shock
 Termush
