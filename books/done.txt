@@ -5,6 +5,7 @@
 + Blindsight
 + Brave New World
 + Catcher in the Rye
+CAIN (pdf)
 CY_BORG
 + Data-Oriented Design (pdf)
 DEATH IN SPACE
@@ -35,6 +36,7 @@ Linear Algebra Done Right
 + Lonely Planet Fast Talk French 5e
 + Look Back
 + Love Far From Home (pdf)
++ MAGNAGOTHICA: MALEGHAST (pdf)
 Masters Of Doom
 + My Name is Red
 + Mörk Borg
