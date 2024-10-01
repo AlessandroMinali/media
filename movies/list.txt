@@ -10,14 +10,13 @@ Barton Fink # 1991
 Before We Vanish # 2017
 Bigger Than Life # 1956
 Black Box Diaries # 2024
-Bright Future # 2003
 Caught by the Tides # 2024
 Caught in the Net # 2020
 Charade # 1963
 Chocobar # upcoming
 Cloud # 2024
 Collapse # 2009
-Deadpool & Wolverine # 2024
+Deadpool And Wolverine # 2024
 Digital Video Editing with Adobe Premiere Pro: The Real-World Guide to Set Up and Workflow # 2020
 Dinner in America # 2020
 Eddington # upcoming
@@ -32,7 +31,6 @@ Kagemusha # 1980
 Kim's Video # 2023
 Kinds of Kindness # 2024
 Klara and the Sun # upcoming
-La ciénaga # 2001
 Last Things # 2023
 Lenny Cooke # 2013
 Logistics # 2021
@@ -59,7 +57,7 @@ Summer Wars # 2009
 Targets # 1968
 The Ambassador # 1984
 The Axe # 2024
- # upcoming
+The Battle of Baktan Cross # upcoming
 The Bear 
 The Boy and the Beast # 2015
 The Devil's Backbone # 2001
@@ -74,7 +72,6 @@ The Phoenician Scheme # 2025
 The Prisoner # 1967
 The Smashing Machine # 2025
 The Sympathizer # 2024
-The Thin Red Line # 1998
 The Union: The Business Behind Getting High # 2007
 The Unredacted # 2022
 The Way of the Wind # 2025
@@ -83,4 +80,3 @@ Twin Peaks # 1990
 Violent # 2014
 Walker # 1987
 We're All Going to the World's Fair # 2021
-Zama # 2017
