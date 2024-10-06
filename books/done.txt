@@ -21,7 +21,7 @@ Fundamentals of Computer Graphics 4e (pdf)
 Goedel, Escher, Bach
 + Gyo
 Hagakure
-Heart of Darkness
++ Heart of Darkness
 - How to Win Friends and Influence People
 I Am a Strange Loop
 + I Have No Mouth, and I Must Scream (pdf)
@@ -68,6 +68,7 @@ The Metamorphosis
 The Myth of Sisyphus
 + The Nine Billion Names of God (pdf)
 + The Power of Habit
++ The Rings of Saturn
 The Shadow Out of Time (pdf)
 + The Shockwave Rider
 The Shunned House (pdf)

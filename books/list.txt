@@ -13,7 +13,6 @@ The Hobbit
 Star Maker
 Lonely Planet Fast Talk Japanese 1e
 
-The Rings of Saturn
 Moby Dick
 Atlas Shrugged
 Cat's Cradle
@@ -44,6 +43,7 @@ Animal Liberation: A New Ethics for Our Treatment of Animals
 Anna Karenina
 Another Day of Life
 Autobiography of a Corpse
+Austerlitz - W. G. Sebald
 Axiomatic
 Babel-17
 Beowulf
@@ -265,6 +265,7 @@ The Drawing of the Three
 The Electric Kool-Aid Acid Test
 The Elements of Style
 The Elephant Vanishes
+The Emigrants - W. G. Sebald
 The End of Education: Redefining the Value of School
 The Epic of Gilgamesh - Andrew George
 The Feynman Lectures on Physics
@@ -272,6 +273,7 @@ The First 49 Stories
 The Fountainhead
 The Gallows Pole
 The Garden of Cyrus
+The Garden of Forking Paths
 The Giver
 The Glass Bead Game
 The Golden Apples of the Sun
@@ -280,6 +282,7 @@ The Gunslinger
 The Hero with a Thousand Faces
 The House Jack Built
 The Hunger Artist
+The Hunter Gracchus
 The Incredible Tide
 The Jounral of Henry David Thoreau, 1837-1861
 The Judgment
@@ -340,6 +343,7 @@ Underground: The Tokyo Gas Attack and the Japanese Psyche
 Understanding Software Dynamics
 Uzumaki
 VALIS
+Vertigo - W. G. Sebald
 Walden & Civil Disobedience
 War and Peace
 War Songs
