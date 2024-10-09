@@ -3,6 +3,7 @@
 A Normal Family # 2023
 A Woman's Tale # 1991
 Almanac of Fall # 1984
+Anora # 2024
 Arabian Nights # 2015
 Before We Vanish # 2017
 Black Box Diaries # 2024
@@ -16,12 +17,11 @@ Digital Video Editing with Adobe Premiere Pro: The Real-World Guide to Set Up an
 Eddington # upcoming
 Ex Drummer # 2007
 Grand Tour # 2024
-Heaven Can Wait # 1943
 I've Loved You So Long # 2008
-Journey to the Shore # 2015
 Kim's Video # 2023
 Klara and the Sun # upcoming
 Last Things # 2023
+Like Someone in Love # 2012
 Logistics # 2021
 Look Back # 2024
 Lumina # 2024
@@ -58,3 +58,4 @@ Tim's Vermeer # 2013
 Twin Peaks # 1990
 Violent # 2014
 We're All Going to the World's Fair # 2021
+Where Is the Friend's House? # 1987
