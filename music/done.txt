@@ -362,6 +362,7 @@ Dusty Springfield - 1969 - Dusty in Memphis
 Eagles - 1972 - Eagles
 Earl Sweatshirt - 2018 - Some Rap Songs
 Earl Sweatshirt - 2022 - Sick! - Tabula Rasa feat. Armand Hammer
+Earth, Wind & Fire - 1975 - That's the Way of the World
 Easter - 2011 - DEMONSTRATION
 Ed Harrison - 2009 - Neotokyo OST - Annul
 Ed Harrison - 2018 - 0edit
@@ -536,6 +537,7 @@ Injury Reserve - 2021 - By the Time I Get to Phoenix
 Ivan Cornejo - 2021 - Alma Vacía - Está Dañada
 Ivan Cornejo - 2022 - Dañado - J.
 Ivan Cornejo - 2024 - MIRADA - Mirada
+J Dilla - 2006 - Donuts
 J.I.D - 2018 - DiCaprio 2
 J.I.D - 2022 - The Forever Story - Can't Punk Me
 Jack White - 2018 - Boarding House Reach
@@ -651,6 +653,7 @@ King Gizzard & the Lizard Wizard - 2017 - Flying Microtonal Banana
 King Gizzard & The Lizard Wizard - 2019 - Infest the Rats' Nest
 King Gizzard & The Lizard Wizard - 2022 - Laminated Denim
 King Krule - 2023 - Space Heavy
+King Sunny Adé - 2003 - The Best of the Classic Years
 Kirin J Callinan - 2017 - Bravado
 Kirin J. Callinan - 2019 - Return to Center
 KNIFEY - 2017 - beached
@@ -786,6 +789,7 @@ milo - 2015 - so the flies don't come
 Mingus - 1963 - The Black Saint and the Sinner Lady
 Minutemen - 1984 - Double Nickels on the Dime
 Miranda Lambert - 2016 - The Weight of These Wings
+Missy Elliott - 1997 - Supa Dupa Fly
 Mitski - 2012 - Lush
 Mitski - 2013 - Retired from Sad, New Career in Business - Strawberry Blond
 Mitski - 2014 - Bury Me At Makeout Creek
@@ -1180,6 +1184,7 @@ The Souljazz Orchestra - 2010 - Rising Sun - Agbara
 The Stone Roses - 1989 - The Stone Roses
 The Stooges - 1969 - The Stooges
 The Strokes - 2020 - The New Abnormal
+The Supremes - 1974 - Anthology
 The Tallest Man On Earth - 2010 - Shallow Grave - The Gardener
 The Tallest Man On Earth - 2010 - Sometimes the Blues is Just a Passing Bird
 The Tallest Man On Earth - 2010 - The Tallest Man On Earth - Walk the Line
