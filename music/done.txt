@@ -27,6 +27,7 @@ Algiers - 2015 - Algiers
 Alicia Keys - 2003 - The Diary of Alicia Keys
 Allison Russell - 2021 - Outside Child
 Alt-J - 2012 - An Awesome Wave - Taro
+Altar of Plagues - 2013 - Teethed Glory and Injury
 Alvvays - 2014 - Alvvays - Archie, Marry Me
 Alvvays - 2017 - Antisocialites
 Alvvays - 2022 - Blue Rev
@@ -65,6 +66,7 @@ Animal Collective - 2020 - Bridge to Quiet
 Animal Collective - 2021 - Crestone
 Anna B Savage - 2023 - in|FLUX - The Ghost
 Anna von Hausswolff - 2018 - Dead Magic
+ANOHNI and the Johnsons - 2023 - My Back Was a Bridge for You to Cross
 Aphex Twin - 1995 - ..I Care Because You Do - Alberto Balsalm
 Aphex Twin - 2014 - Syro
 Arca - 2021 - KicK iii
@@ -87,6 +89,7 @@ Armand Hammer - 2023 - We Buy Diabetic Test Strips - Doves
 Arooj Aftab - 2021 - Vulture Prince - Inayaat
 Artifacts - 2021 - ...and then there's this
 Artificial Brain - 2014 - Labyrinth Constellation
+Ash Koosha - 2015 - Guud
 Ashley McBryde - 2022 - Presents: Lindeville
 Autechre - 2013 - Exai
 Avalon Emerson - 2023 - & the Charm
@@ -386,6 +389,7 @@ Eminem - 1999 - The Slim Shady LP - My Name Is
 Eric B. & Rakim - 1987 - Paid in Full
 Eric Church - 2011 - Chief
 Eris Drew - 2021 - Quivering In Time
+Erykah Badu - 2000 - Mama's Gun
 Ethel Cain - 2021 - Inbred
 Ethel Cain - 2022 - Preacher's Daughter - Televangelism
 Etta James - 1960 - At Last! - At Last
@@ -430,6 +434,7 @@ Frank Sinatra - 1955 - In the Wee Small Hours of the Morning
 Freddie Gibbs & Madlib - 2019 - Bandana
 Freddie Gibbs & The Alchemist - 2020 - Alfredo
 Freddie Gibbs - 2022 - $oul $old $eparately - Couldn't Be Done (ft. Kelly Price)
+Freddie Gibbs and Madlib - 2014 - Piñata
 Fugees - 1996 - The Score
 FURI - 2016 - FURI OST - Make this Right
 Future of the Left - 2013 - How To Stop Your Brain In An Accident
@@ -439,6 +444,7 @@ George Harrison - 1970 - All Things Must Pass
 Ghost - 2011 - Opus Eponymous
 Ghost - 2015 - Meliora
 Ghost - 2018 - Prequelle
+Ghostface Killah - 2000 - Supreme Clientele - Wu Banga 101 (feat. GZA, Cappadonna, Masta Killa & Raekwon)
 Ghostface Killah - 2010 - Apollo Kids
 Ghostface Killah and Adrian Younge - 2013 - Twelve Reasons To Die
 Ghoul - 2011 - Transmission Zero
@@ -599,6 +605,7 @@ José González - 2021 - Local Valley - El Invento
 Joy Division - 1979 - Unknown Pleasures
 Joy Division - 1980 - Closer
 JPEGMAFIA - 2019 - All My Heroes Are Cornballs
+JPEGMAFIA - 2021 - LP! - BALD! REMIX
 Julia Holter - 2013 - Loud City Song
 Julia Holter - 2015 - Have You in My Wilderness
 Julia Holter - 2018 - Aviary
@@ -812,6 +819,7 @@ Moor Mother & billy woods - 2020 - BRASS
 Moor Mother - 2021 - Black Encyclopedia of the Air
 Mount Eerie - 2017 - A Crow Looked at Me
 Muddy Waters - 2001 - The Anthology: 1947-1972
+MUNA - 2022 - MUNA
 My Bloody Valentine - 1988 - Isn't Anything
 My Bloody Valentine - 1988 - You Made Me Realise - Cigarette in Your Bed
 My Bloody Valentine - 1991 - Loveless - To Here Knows When
@@ -825,6 +833,7 @@ Nas - 2022 - King's Disease III
 Natalia Lafourcade - 2020 - Un canto por México vol. 1
 Natalia Lafourcade - 2022 - De Todas las Flores
 Natural Child - 2009 - Natural Child
+Navy Blue - 2023 - Ways of Knowing
 Neil Cicierega - 2017 - Mouth Moods
 Neon Indian - 2009 - Psychic Chasms
 Neurosis - 2016 - Fires Within Fires
@@ -878,6 +887,7 @@ Pavement - 1992 - Slanted and Enchanted
 Pavement - 1994 - Crooked Rain, Crooked Rain
 Pavement - 1995 - Wowee Zowee
 Paysage d'Hiver - 2020 - Im Wald
+Pearl Jam - 1991 - Ten
 Penguin Cafe - 2014 - The Red Book
 Penguin Cafe - 2015 - Umbrella
 Penguin Cafe - 2017 - The Imperfect Sea
@@ -975,6 +985,7 @@ Run the Jewels - 2020 - RTJ4
 Run-DMC - 1984 - Run-D.M.C.
 Rush - 1981 - Moving Pictures - Tom Sawyer
 Saba - 2022 - Few Good Things - 2012
+Sade - 1992 - Love Deluxe
 Sam Prekop & John McEntire - 2022 - Sons Of
 Sampha - 2017 - Process
 Samurai Champloo - 2004 - Samurai Champloo Music Record: Departure
@@ -1182,6 +1193,7 @@ The Rolling Stones - 1978 - Some Girls
 The Ronettes - 1964 - Presenting the Fabulous Ronettes Featuring Veronica - Be My Baby
 The Roots - 1999 - Things Fall Apart
 The Roots - 2010 - How I Got Over
+The Slits - 1979 - Cut
 The Smile - 2022 - A Light for Attracting Attention
 The Smiths - 1986 - The Queen is Dead
 The Souljazz Orchestra - 2010 - Rising Sun - Agbara
