@@ -20,6 +20,7 @@ Al Green - 1973 - Call Me
 Al Green - 1975 - Al Green's Greatest Hits
 Alabama Shakes - 2012 - Boys & Girls
 Alabama Shakes - 2015 - Sound & Color - Over My Head
+Alanis Morissette - 1995 - Jagged Little Pill - Hand in My Pocket
 Alex Cameron - 2019 - Miami Memory
 Alex G - 2022 - God Save the Animals
 Alex Isley & Jack Dine - 2022 - Marigold
@@ -139,6 +140,7 @@ billy woods - 2012 - History Will Absolve Me
 billy woods - 2022 - Aethiopes
 Björk - 1997 - Homogenic
 Björk - 2015 - Vulnicura
+Björk - 2022 - Fossora
 Black Country, New Road - 2021 - For the first time - Instrumental
 Black Country, New Road - 2022 - Ants From Up There - Intro
 Black Country, New Road - 2022 - Snow Globes - Snow Globes
@@ -196,6 +198,7 @@ boygenius - 2018 - Boygenius EP - Ketchum, ID
 boygenius - 2023 - the record - Not Strong Enough
 Boyz II Men - 1991 - II
 Braid - 2008 - Braid OST - Maenam
+Brian Eno - 1974 - Here Come the Warm Jets - Here Come the Warm Jets
 Brian Eno - 2010 - Small Craft On A Milk Sea
 Brian Wilson - 2004 - Brian Wilson Presents Smile
 Bring Me the Horizon - 2020 - Post Human: Survival Horror
@@ -357,6 +360,7 @@ Donna Summer - 1979 - Bad Girls
 Dope Body - 2012 - Natural History
 Dope Body - 2020 - Home Body
 Dorian Electra - 2020 - My Agenda
+Dr. John - 1968 - Gris-Gris
 Drake - 2010 - Thank Me Later
 Drake - 2015 - If You're Reading This It's Too Late
 Drake - 2022 - Honestly. Nevermind - Falling Back
@@ -383,6 +387,7 @@ Elton John - 1973 - Goodbye Yellow Brick Road - Sweet Painted Lady
 Elton John - 1975 - Captain Fantastic and the Brown Dirt Cowboy - Lucy in the Sky with Diamonds
 Elvis Costello - 1978 - This Year's Model
 Elvis Presley - 1956 - Elvis Presley - Blue Suede Shoes
+Elvis Presley - 1976 - The Sun Sessions - That's All Right
 Elzhi - 2011 - Elmatic
 Emile Mosseri - 2021 - Minari OST - Minari Suite
 Eminem - 1999 - The Slim Shady LP - My Name Is
@@ -667,6 +672,7 @@ KNIFEY - 2017 - beached
 Kraftwerk - 1977 - Trans-Europe Express
 Kurt Vile - 2013 - Wakin On A Pretty Daze
 Kvelertak - 2011 - Kvelertak
+Kyary Pamyu Pamyu - 2013 - Nandacollection
 L'Rain - 2021 - Fatigue
 L'Rain - 2023 - I Killed Your Dog - 5 to 8 Hours a Day (WWwaG)
 La Dispute - 2011 - Wildlife
@@ -712,6 +718,7 @@ Lord Of The Isles - 2023 - My Noise is Nothing - A Discovery (feat. Ellen Renton
 Lorde - 2017 - Melodrama
 Loretta Lynn - 1971 - Coal Miner's Daughter
 Louis Cole - 2018 - Time
+Love - 1967 - Forever Changes
 Low - 2021 - HEY WHAT
 Lucas Pope - 2018 - Return of the Obra Dinn OST
 Lucinda Williams - 1998 - Car Wheels on a Gravel Road
@@ -784,6 +791,7 @@ MGMT - 2010 - Congratulations
 MGMT - 2013 - MGMT
 MGMT - 2018 - Little Dark Age
 Michael Jackson - 1979 - Off the Wall - Don’t Stop 'Til You Get Enough
+Michael Jackson - 1982 - Thriller - Billie Jean
 Michael Jackson - 1987 - Bad - Dirty Diana
 Mick Jenkins - 2014 - The Water[s] - Jazz
 Mickey Guyton - 2021 - Remember Her Name
@@ -817,6 +825,7 @@ Mom Jeans - 2022 - Sweet Tooth
 MONO - 2009 - Hymn to the Immortal Wind
 Moor Mother & billy woods - 2020 - BRASS
 Moor Mother - 2021 - Black Encyclopedia of the Air
+Motörhead - 1980 - Ace of Spades
 Mount Eerie - 2017 - A Crow Looked at Me
 Muddy Waters - 2001 - The Anthology: 1947-1972
 MUNA - 2022 - MUNA
@@ -945,6 +954,7 @@ PUP - 2020 - This Place Sucks Ass
 Purple Mountains - 2019 - Purple Mountains
 Pusha T - 2018 - DAYTONA - The Games We Play
 Pusha T - 2022 - It's Almost Dry
+Queen - 1975 - A Night at the Opera - Bohemian Rhapsody
 Queens of the Stone Age - 2013 - ...Like Clockwork
 Quelle Chris & Chris Keys - 2020 - Innocent Country 2
 R.A.P. Ferreira - 2020 - Purple Moonlight Pages
@@ -954,6 +964,7 @@ Radiohead - 1997 - OK Computer
 Radiohead - 2000 - Kid A
 Radiohead - 2007 - In Rainbows
 Radiohead - 2016 - A Moon Shaped Pool
+Ramones - 1977 - Rocket to Russia - Surfin' Bird
 Rapsody - 2017 - Laila's Wisdom
 Ratatat - 2010 - LP4 - Bilar
 Ratking - 2014 - So It Goes
@@ -976,6 +987,7 @@ Roland Kayn - 2021 - Matego I-II
 Rosalía - 2017 - Los Ángeles
 Rosalía - 2018 - El mal querer - Pienso en tu mirá (Cap.III: Celos)
 Rosalía - 2022 - MOTOMAMI+ - Saoko
+Roxy Music - 1973 - For Your Pleasure
 Roxy Music - 1982 - Avalon
 Rufus - 1977 - Ask Rufus
 Run The Jewels - 2013 - Run the Jewels
@@ -1111,6 +1123,7 @@ The Backseat Lovers - 2022 - Waiting to Spill - Close Your Eyes
 The Bad Plus - 2012 - Made Possible
 The Band - 1969 - The Band
 The Beach Boys - 1966 - Pet Sounds - Wouldn't it Be Nice
+The Beatles - 1964 - A Hard Day's Night
 The Beatles - 1965 - Help! - Yesterday
 The Beatles - 1966 - Revolver - Eleanor Rigby
 The Beatles - 1967 - Sgt. Pepper's Lonely Hearts Club Band - Sgt. Pepper's Lonely Hearts Club Band
