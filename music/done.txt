@@ -107,6 +107,7 @@ Battles - 2011 - Gloss Drop
 Beach House - 2010 - Teen Dreams
 Beach House - 2012 - Bloom
 Beach House - 2022 - Once Twice Melody
+Beastie Boys - 1986 - Licensed to Ill - Girls
 Beastie Boys - 1992 - Check Your Head
 Beastie Boys - 2011 - Hot Sauce Committee Part Two
 Beck - 1996 - Odelay
@@ -323,6 +324,7 @@ Death Grips - 2018 - Year of the Snitch
 death's dynamic shroud - 2022 - Darklife
 Deathspell Omega - 2012 - Drought
 Deerhoof - 2011 - Deerhoof vs Evil - Super Duper Rescue Heads !
+Deerhoof - 2012 - Breakup Song
 Deerhoof - 2020 - Future Teenage Cave Artists
 Deerhoof - 2021 - Actually, You Can
 Deerhunter - 2010 - Halcyon Digest
@@ -366,6 +368,7 @@ Dr. John - 1968 - Gris-Gris
 Drake - 2010 - Thank Me Later
 Drake - 2015 - If You're Reading This It's Too Late
 Drake - 2022 - Honestly. Nevermind - Falling Back
+Dua Lipa - 2020 - Future Nostalgia - Don't Start Now
 Dumbo Gets Mad - 2011 - Elephants at the Door
 Dusty Springfield - 1969 - Dusty in Memphis
 Eagles - 1972 - Eagles
@@ -514,6 +517,7 @@ Hobo Johnson - 2016 - The Rise of Hobo Johnson
 Hobo Johnson - 2019 - The Fall of Hobo Johnson - Mover Awayer
 Hobo Johnson - 2021 - Hobo Johnson Alienates His Fanbase
 Hobo Johnson - 2021 - The Revenge of Hobo Johnson - I Want to See the World
+Holograms - 2012 - Holograms
 Holy Ghost! - 2011 - Holy Ghost!
 HOME - 2014 - Odyssey - Intro
 Hookworms - 2018 - Microshift - Negative Space
@@ -706,6 +710,7 @@ Lifeformed - 2012 - Dustforce OST - Cider Time
 Lightning Bolt - 2009 - Earthly Delights
 Lil Nas X - 2021 - Montero
 Lil Ugly Mane - 2021 - Third Side of Tape
+Lil Wayne - 2005 - Tha Carter II
 Linda Ronstadt - 1975 - Heart Like a Wheel
 Lingua Ignota - 2019 - Caligula
 Lingua Ignota - 2021 - Sinner Get Ready
@@ -748,6 +753,7 @@ Machine Girl - 2018 - The Ugly Art
 Machine Girl - 2020 - U-Void Synthesizer
 Machine Girl - 2022 - Neon White Full Soundtrack
 Madonna - 1989 - Like a Prayer - Like a Prayer
+Madonna - 1990 - The Immaculate Collection - Material Girl
 Madvillain - 2004 - Madvillainy - Accordion
 Maggie Rogers - 2017 - Now That the Light is Fading
 Maggie Rogers - 2019 - Heard it in a Past Life - Alaska
@@ -1144,6 +1150,7 @@ The Books - 2011 - Lost and Safe (Remastered) - Smells Like Content
 The Books - 2011 - The Lemon of Pink (Remastered)
 The Books - 2011 - Thought For Food (Remastered)
 The Books - 2013 - Music for a French Elevator and Other ƒdities - Hericlitus
+The Breeders - 1993 - Last Splash
 The Budos Band - 2009 - The Budos Band EP
 The Byrds - 1965 - Mr. Tambourine Man
 The Byrds - 1968 - Sweetheart of the Rodeo
