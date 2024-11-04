@@ -81,6 +81,7 @@ Arcade Fire - 2015 - Reflektor - Afterlife
 Arcade Fire - 2017 - Everything Now - Everything Now
 Arcade Fire - 2021 - Her (Original Score) - Photograph
 Arctic Monkeys - 2013 - AM
+Aretha Franklin - 1972 - Amazing Grace
 Ari Lennox - 2022 - age/sex/location
 Ariana Grande - 2019 - thank u, next
 Ariel Pink - 2014 - Pom Pom
@@ -220,6 +221,7 @@ BROCKHAMPTON - 2021 - Roadrunner: New Light, New Machine
 Bruce Springsteen - 1973 - The Wild, the Innocent & the E Street Shuffle
 Bruce Springsteen - 1975 - Born to Run
 Bruce Springsteen - 1978 - Darkness on the Edge of Town
+Bruce Springsteen - 1982 - Nebraska
 Bruce Springsteen - 1984 - Born in the U.S.A.
 Buke and Gase - 2013 - General Dome - Houdini Crush
 Burial - 2012 - Kindred
@@ -278,6 +280,7 @@ Coldplay - 2005 - X&Y - Fix You
 Coldplay - 2011 - Mylo Xyloto - Every Tear Is a Waterfall
 Colin Stetson - 2011 - New History Warfare Vol. 2: Judges
 Colin Stetson - 2023 - When we were that what wept for the sea - When we were that what wept for the sea
+Colin Stetson and Sarah Neufeld - 2015 - Never Were the Way She Was
 Comadre - 2013 - Comadre - Untitled
 Connor Sherlock - 2013 - TRIHAYWBFRFYH
 Connor Sherlock - 2015 - Voice of Vamana
@@ -295,6 +298,7 @@ Crying - 2016 - Beyond the Fleeting Gales
 Crystal Stilts - 2011 - In Love with Oblivion
 CunninLynguists - 2011 - Oneirology - Enemies with Benefits
 Current 93 - 2018 - The Light Is Leaving Us All
+Curtis Mayfield - 1970 - Curtis - Move On Up
 Cyndi Lauper - 1983 - She's So Unusual
 Cécile McLorin Salvant - 2022 - Ghost Song
 D'Angelo - 2000 - Voodoo
@@ -554,6 +558,7 @@ IDLES - 2021 - CRAWLER
 IDYLLS - 2014 - PRAYER FOR TERRENE
 Iglooghost - 2015 - Chinese Nü Yr EP
 Iglooghost - 2017 - Neō Wax Bloom
+Ike & Tina Turner - 1991 - Proud Mary: The Best of Ike & Tina Turner
 illuminati hotties - 2021 - Let Me Do One More - Pool Hopping
 Immanuel Wilkins - 2020 - The 7th Hand
 Indian - 2014 - From All Purity
@@ -687,6 +692,7 @@ King Krule - 2023 - Space Heavy
 King Sunny Adé - 2003 - The Best of the Classic Years
 Kirin J Callinan - 2017 - Bravado
 Kirin J. Callinan - 2019 - Return to Center
+Kiss - 1975 - Alive!
 KNIFEY - 2017 - beached
 Kraftwerk - 1977 - Trans-Europe Express
 Kurt Vile - 2013 - Wakin On A Pretty Daze
@@ -804,6 +810,7 @@ Max Cooper - 2020 - Glassforms
 Max Cooper - 2020 - Out of Body
 Max Cooper - 2022 - Unspoken Words - Everything
 Max Richter - 2004 - The Blue Notebooks - On the Nature of Daylight
+Maxwell - 2009 - BLACKsummers'night
 McKinley Dixon - 2023 - Beloved! Paradise! Jazz!?
 Melt-Banana - 2013 - Fetch
 Meridian Brothers - 2022 - Meridian Brothers & El Grupo Renacimiento
@@ -972,6 +979,7 @@ Prince and the Revolution - 1984 - Purple Rain - Let's Go Crazy
 Pro Era - 2022 - PEEP: The aProcalypse
 Protomartyr - 2017 - Relatives in Descent
 Psycada - 2022 - Hiking Lung
+Public Enemy - 1988 - It Takes a Nation of Millions to Hold Us Back
 PUP - 2013 - PUP - Mabu
 PUP - 2016 - The Dream is Over - DVP
 PUP - 2019 - Morbid Stuff - Kids
@@ -1003,6 +1011,7 @@ Renaissance Sound - 2012 - Renaissance Sound
 Reverend Kristin Michael Hayter - 2023 - SAVED!
 Richard and Linda Thompson - 1974 - I Want to See the Bright Lights Tonight
 Richard Dawson & Circle - 2021 - Henki
+Richard Dawson - 2019 - 2020
 Richard Dawson - 2022 - The Ruby Cord
 Rina Sawayama - 2017 - RINA
 Rina Sawayama - 2020 - Sawayama - XS
@@ -1022,6 +1031,7 @@ Run the Jewels - 2016 - Run the Jewels 3
 Run the Jewels - 2020 - RTJ4
 Run-DMC - 1984 - Run-D.M.C.
 Rush - 1981 - Moving Pictures - Tom Sawyer
+Ryuichi Sakamoto - 2023 - 12
 Saba - 2022 - Few Good Things - 2012
 Sade - 1992 - Love Deluxe
 Sam Prekop & John McEntire - 2022 - Sons Of
@@ -1096,6 +1106,7 @@ Stella Donnely - 2022 - Flood
 Step Brothers - 2014 - Lord Steppington
 Steve Lacy - 2022 - Gemini Rights
 Steve Reich - 1976 - Music for 18 Musicians
+Stevie Wonder - 1972 - Music of My Mind
 Sturgill Simpson - 2016 - A Sailor's Guide to Earth
 Sudan Archives - 2022 - Natural Brown Prom Queen
 Sufjan Stevens & Angelo De Augustine - 2021 - A Beginner's Mind
@@ -1148,6 +1159,7 @@ The Backseat Lovers - 2018 - Elevator Days - Out of Tune
 The Backseat Lovers - 2019 - When We Were Friends - Kilby Girl
 The Backseat Lovers - 2022 - Waiting to Spill - Close Your Eyes
 The Bad Plus - 2012 - Made Possible
+The Band - 1968 - Music from Big Pink
 The Band - 1969 - The Band
 The Beach Boys - 1966 - Pet Sounds - Wouldn't it Be Nice
 The Beatles - 1964 - A Hard Day's Night
@@ -1284,6 +1296,7 @@ Tkay Maidza - 2020 - Last Year Was Weird Vol. 2
 TLC - 1994 - CrazySexyCool
 TNGHT - 2012 - TNGHT
 Tobacco - 2014 - Ultima II Massage
+Todd Rundgren - 1972 - Something/Anything?
 TOKYOPILL - 2021 - Abandon The Flesh! - E t h e r e a l
 TOKYOPILL - 2021 - Virtual Death 9 5 - WISH
 TOKYOPILL - 2022 - Dopamine Online - ONLINE INDUCED HIGH
