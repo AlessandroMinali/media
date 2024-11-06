@@ -29,7 +29,7 @@ MORK BORG
 - [x] Mycosis
 - [x] A Good Old-Fashioned Murder Dungeon
 - [x] Flails Akimbo
-- [x] The Cleaving in Bukstatt
+- [x] The Cleaving in Bukstatt
 - [x] Rotblack Sludge
 - [x] Graves Left Wanting
 - [x] Goblin Grinder
