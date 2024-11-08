@@ -27,6 +27,7 @@ Alex Cameron - 2019 - Miami Memory
 Alex G - 2022 - God Save the Animals
 Alex Isley & Jack Dine - 2022 - Marigold
 Algiers - 2015 - Algiers
+Alice Coltrane - 1971 - Journey in Satchidananda
 Alicia Keys - 2003 - The Diary of Alicia Keys
 Allison Russell - 2021 - Outside Child
 Alt-J - 2012 - An Awesome Wave - Taro
@@ -880,6 +881,7 @@ Natalia Lafourcade - 2022 - De Todas las Flores
 Natural Child - 2009 - Natural Child
 Navy Blue - 2023 - Ways of Knowing
 Neil Cicierega - 2017 - Mouth Moods
+Neil Young and Crazy Horse - 1979 - Rust Never Sleeps
 Neon Indian - 2009 - Psychic Chasms
 Neurosis - 2016 - Fires Within Fires
 Neutral Milk Hotel - 1998 - In the Aeroplane Over the Sea - Oh Comely
@@ -889,6 +891,13 @@ Nick Drake - 1972 - Pink Moon - Road
 Nicolas Jaar - 2011 - Don't Break My Love EP
 Nicolas Jaar - 2011 - Space Is Only Noise
 Nicolas Jaar - 2015 - Pomegranates
+Nilüfer Yanya - 2016 - Small Crimes EP
+Nilüfer Yanya - 2019 - Miss Universe - The Unordained
+Nilüfer Yanya - 2021 - Inside Out
+Nilüfer Yanya - 2022 - PAINLESS - Shameless
+Nilüfer Yanya - 2024 - Call It Love
+Nilüfer Yanya - 2024 - Mutations
+Nilüfer Yanya - 2024 - My Method Actor
 Nina Simone - 1966 - Wild Is the Wind
 Nine Inch Nails - 1994 - The Downward Spiral - Hurt
 Nine Inch Nails - 2016 - Not the Actual Events
@@ -1179,6 +1188,7 @@ The Beatles - 1966 - Revolver - Eleanor Rigby
 The Beatles - 1967 - Sgt. Pepper's Lonely Hearts Club Band - Sgt. Pepper's Lonely Hearts Club Band
 The Beatles - 1968 - The White Album - Blackbird
 The Beatles - 1969 - Abbey Road - Here Comes the Sun
+The Beatles - 1970 - Let It Be - Across The Universe
 The Beths - 2022 - Expert in a Dying Field - Silence is Golden
 The Blaze - 2017 - Territory - Virile
 The Blaze - 2018 - DANCEHALL

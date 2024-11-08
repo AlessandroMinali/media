@@ -88,6 +88,7 @@ LANCER
 - [ ] Operation Winter Scar
 - [ ] Dustgave
 - [ ] Siren's Song: A Mountain's Remorse
+- [x] The Tombs of Delios
 
 OSE
 - [ ] The Hole in the Oak
