@@ -72,7 +72,7 @@ Anita Baker - 1986 - Rapture
 Anna B Savage - 2023 - in|FLUX - The Ghost
 Anna von Hausswolff - 2018 - Dead Magic
 ANOHNI and the Johnsons - 2023 - My Back Was a Bridge for You to Cross
-Apathy - 2014 - Connecticut Casual
+Apathy - 2014 - Connecticut Casual - Connecticut Casual (Instrumental)
 Aphex Twin - 1995 - ..I Care Because You Do - Alberto Balsalm
 Aphex Twin - 2014 - Syro
 Arca - 2021 - KicK iii
@@ -84,6 +84,7 @@ Arcade Fire - 2015 - Reflektor - Afterlife
 Arcade Fire - 2017 - Everything Now - Everything Now
 Arcade Fire - 2021 - Her (Original Score) - Photograph
 Arctic Monkeys - 2013 - AM
+Aretha Franklin - 1967 - I Never Loved a Man the Way I Love You - Respect
 Aretha Franklin - 1972 - Amazing Grace
 Ari Lennox - 2022 - age/sex/location
 Ariana Grande - 2019 - thank u, next
@@ -125,9 +126,11 @@ Benjamin Earl Turner - 2019 - Bad Nature
 Benjamin Earl Turner - 2019 - FUCK
 Benjamin Earl Turner - 2021 - CURSE OF THE REAL
 Benjamin Earl Turner - 2021 - SELLING AIR - HURT ME
+Beyoncé - 2013 - Beyoncé
 Beyoncé - 2016 - Lemonade - Hold Up
 Beyoncé - 2019 - HOMECOMING: The Live Album - Mi Gente
 Beyoncé - 2022 - RENAISSANCE - I'M THAT GIRL
+Big Brother and the Holding Company - 1968 - Cheap Thrills - Piece of My Heart
 Big K.R.I.T. - 2011 - R4 Theme Song - Return of 4Eva
 Big K.R.I.T. - 2012 - 4eva N a Day
 Big K.R.I.T. - 2017 - 4eva Is a Mighty Long Time
@@ -469,6 +472,7 @@ Future of the Left - 2013 - How To Stop Your Brain In An Accident
 Gang of Four - 1979 - Entertainment!
 Genesis Owusu - 2021 - Smiling with No Teeth - Waitin' on Ya
 Genesis Owusu - 2023 - Struggler
+George Clanton - 2023 - Ooh Rap I Ya - Vapor King/SubReal
 George Harrison - 1970 - All Things Must Pass
 George Michael - 1987 - Faith - Faith
 Ghost - 2011 - Opus Eponymous
@@ -585,6 +589,7 @@ jaimie branch - 2023 - Fly or Die Fly or Die Fly or Die ((world war))
 James Blake - 2021 - Friends That Break Your Heart
 James Brandon Lewis - 2021 - Jesup Wagon
 James Brown - 1970 - Sex Machine
+James Brown - 1991 - Star Time - I Got You (I Feel Good)
 James Ferraro - 2021 - They Dont Know Its Christmas
 James Taylor - 1970 - Sweet Baby James
 Janelle Monae - 2010 - Archandroid
@@ -721,6 +726,7 @@ Led Zeppelin - 1969 - Led Zeppelin - Babe I'm Gonna Leave You
 Led Zeppelin - 1969 - Led Zeppelin II - Ramble On
 Led Zeppelin - 1971 - Led Zeppelin IV - Black Dog
 Led Zeppelin - 1973 - Houses of the Holy - Over the Hills and Far Away
+Led Zeppelin - 1975 - Physical Graffiti
 Leenalchi - 2020 - Sugungga - Catch a Rabbit
 Leikeli47 - 2022 - Shape Up
 Lemon Demon - 2016 - Spirit Phone
@@ -792,6 +798,7 @@ Mandy, Indiana - 2023 - i've seen a way - Love Theme
 Manu Chao - 1998 - Clandestino
 Mariah Carey - 2005 - The Emancipation of Mimi
 Marina Herlop - 2022 - Pripyat
+Marissa Nadler - 2016 - Strangers
 Marquis Hill - 2018 - Modern Flows, Vol. 2 (2018)
 Martin O'Donnell - 2004 - Halo 2 OST - Peril
 Martin O'Donnell - 2007 - Halo 3 OST - Luck
@@ -1292,6 +1299,7 @@ The Underachievers - 2015 - Evermore: The Art of Duality
 The UV Race - 2011 - Homo
 The Velvet Underground - 1967 - The Velvet Underground & Nico
 The Velvet Underground - 1968 - White Light/White Heat
+The Velvet Underground - 1969 - The Velvet Underground
 The Velvet Underground - 1970 - Loaded - Rock and Roll
 The Voidz - 2018 - Virtue
 The Weeknd - 2012 - Echoes of Silence - D.D.

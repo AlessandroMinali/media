@@ -15,7 +15,6 @@ Lonely Planet Fast Talk Japanese 1e
 
 Moby Dick
 Atlas Shrugged
-From Bacteria to Bach and Back
 
 TO BUY
 100 Decisive Battles: From Ancient Times to the Present
@@ -50,6 +49,7 @@ Beyond Good & Evil
 Bhagavad Gita
 Blood Meridian
 Book of Imaginary Beings
+Brainstorms: Philosophical Essays on Mind and Psychology
 Brief Interviews with Hideous Men
 Bullshit Jobs: A Theory
 Butcher’s Crossing
@@ -130,6 +130,7 @@ In Praise of Shadows
 Incognito: The Secret Lives of the Brain
 Infinite Jest
 Into the Wild
+Intuition Pumps and Other Tools for Thinking
 Invisible Cities
 Isaac Asimov: The Complete Story Vi
 It Can't Happen Here
