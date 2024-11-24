@@ -1,28 +1,3 @@
-Van Morrison - 1968 - Astral Weeks
-Magdalena Bay - 2021 - Mercurial World
-Green Day - 2004 - American Idiot
-Jessie Ware - 2023 -That! Feels Good!
-The Modern Lovers - 1976 - The Modern Lovers
-Chat Pile - 2022 - God's Country
-Dixie Chicks - 1999 - Fly
-Nails - 2016 - You Will Never Be One of Us
-Haru Nemuri - 2018 - Haru to Shura
-Parliament - 1975 - Mothership Connection
-Big Star - 1974 - Radio City
-Zach Bryan - 2023 Zach Bryan
-Drake - 2011 - Take Care
-Blondie - 1978 - Parallel Lines
-The B-52's - 1979 - The B-52's
-Sleaford Mods - 2015 - Key Markets
-Slauson Malone - 2019 - A Quiet Farwell, 2016-2018
-Yo La Tengo - 2023 - This Stupid World
-underscores - 2023 - Wallsocket
-Bob Marley and the Wailers - 1984 - Legend
-Paramore - 2023 - This Is Why
-Charles Mingus - 1959 - Mingus Ah Um
-2Pac - 1996 - All Eyez on Me
-NONAME - 2023 - Sundial
-Destroyer - 2015 - Poison Season
 Nirvana - 1993 - In Utero
 Red Hot Chili Peppers - 1991 - Blood Sugar Sex Magik
 De La Soul - 1989 - 3 Feet High and Rising
@@ -198,7 +173,7 @@ The Stooges - 1970 - Fun House
 Dope Body - 2014 - Lifer
 The Police - 1983 - Synchronicity
 Erykah Badu - 1997 - Baduizm
-Tinashe - 2023 BB/ANG3L
+Tinashe - 2023 - BB/ANG3L
 King Krule - 2020 - Man Alive!
 Jeff Buckley - 1994 - Grace
 The Gaslamp Killer - 2012 - Breakthrough
