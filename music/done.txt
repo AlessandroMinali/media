@@ -28,6 +28,7 @@ Alex Cameron - 2019 - Miami Memory
 Alex G - 2022 - God Save the Animals
 Alex Isley & Jack Dine - 2022 - Marigold
 Algiers - 2015 - Algiers
+Algiers - 2017 - The Underside of Power
 Alice Coltrane - 1971 - Journey in Satchidananda
 Alicia Keys - 2003 - The Diary of Alicia Keys
 Allison Russell - 2021 - Outside Child
@@ -337,6 +338,7 @@ David Bowie - 1977 - Low
 David Bowie - 1980 - Scary Monsters (and Super Creeps)
 David Bowie - 2013 - The Next Day
 David Bowie - 2016 - Blackstar
+De La Soul - 1989 - 3 Feet High and Rising
 De La Soul - 1991 - De La Soul Is Dead - Please Porridge
 Dean Blunt - 2014 - Black Metal
 Dean Blunt - 2020 - Roaches 2012-2019
@@ -696,6 +698,7 @@ Kendrick Lamar - 2015 - To Pimp A Butterfly - Momma
 Kendrick Lamar - 2016 - untitled unmastered.
 Kendrick Lamar - 2017 - DAMN - LOVE.
 Kendrick Lamar - 2022 - Mr. Morale & The Big Steppers
+Kendrick Lamar - 2024 - GNZ - gloria
 Kenny Beats - 2022 - LOUIE - Hold My Head
 Kenny Garrett - 2021 - Sounds from the Ancestors
 Kero Kero Bonito - 2016 - Bonito Generation
@@ -1329,6 +1332,7 @@ The Weeknd - 2015 - Beauty Behind the Madness - The Hills
 The Weeknd - 2022 - Dawn FM
 The White Stripes - 2003 - Elephant
 The White Stripes - 2005 - Get Behind Me Satan - Denial Twist
+The Who - 1967 - The Who Sell Out
 The Who - 1969 - Tommy - Pinball Wizard
 The Who - 1970 - Live at Leeds - My Generation
 The Wytches - 2014 - Annabel Dream Reader
