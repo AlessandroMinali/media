@@ -5,9 +5,23 @@
 
 #define BUFFER_SIZE 1024
 
-int main() {
+void browse(const char* filename, const char* url) {
   char buf[BUFFER_SIZE];
   char search[BUFFER_SIZE];
+
+  FILE *f = fopen(filename, "rb");
+  while(fgets(buf, BUFFER_SIZE, f)) {
+    if (buf[0] == '\n') { continue; }
+    buf[strcspn(buf, "\n")] = 0;
+
+    snprintf(search, BUFFER_SIZE, "open \"%s%s\"", url, buf);
+    system(search);
+    usleep(1000000);
+  }
+  fclose(f);
+}
+
+int main() {
   char c;
   char *sites[] = {
     "https://www.criterionchannel.com/search?q=",
@@ -22,18 +36,13 @@ int main() {
     scanf(" %c", &c);
     if (c == 'n') { continue; }
 
-    FILE *f = fopen("./list.txt", "rb");
-
-    while(fgets(buf, BUFFER_SIZE, f)) {
-      if (buf[0] == '\n') { continue; }
-      buf[strcspn(buf, "\n")] = 0;
-
-      snprintf(search, BUFFER_SIZE, "open \"%s%s\"", sites[i], buf);
-      system(search);
-      usleep(1000000);
-    }
-    fclose(f);
+    browse("./list.txt", sites[i]);
   }
+
+  printf("\nCheck netflix? [y/n] ");
+  scanf(" %c", &c);
+  if (c == 'n') { exit(0); }
+  browse("./netflix.txt", sites[1]);
 
   return 0;
 }
