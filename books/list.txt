@@ -60,6 +60,7 @@ Celestial Emporium of Benevolent Knowledge
 Children of Dune
 Cloud Atlas
 Code of Hammurabi
+Combining
 Computer Architecture: A Quantitative Approach
 Cinema Speculation
 Consciousness Explained
@@ -302,6 +303,7 @@ The Medusa and the Snail
 The Monkey Wrench Gang
 The Morning of the Magicians: Introduction to Fantastic Realism
 The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins
+The Mysterious Stranger
 The Mythical Man Month
 The Nose (https://www.gutenberg.org/files/36238/36238-h/36238-h.htm)
 The One-Straw Revolution: An Introduction to Natural Farming
