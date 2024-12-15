@@ -1,4 +1,4 @@
-2Pac - 1996 - All Eyez on Me
+^2Pac - 1996 - All Eyez on Me
 50 Cent - 2003 - Get Rich or Die Tryin'
 700 Bliss - 2022 - Nothing to Declare
 A Far Cry / Shara Nova - 2022 - The Blue Hour
@@ -818,6 +818,8 @@ Machine Girl - 2017 - ...BECAUSE I'M YOUNG ARROGANT AND HATE EVERYTHING YOU STAN
 Machine Girl - 2018 - The Ugly Art
 Machine Girl - 2020 - U-Void Synthesizer
 Machine Girl - 2022 - Neon White Full Soundtrack
+Madalitso Band - 2019 - Wasalala
+Madalitso Band - 2022 - Musakayike
 Madonna - 1989 - Like a Prayer - Like a Prayer
 Madonna - 1990 - The Immaculate Collection - Material Girl
 Madvillain - 2004 - Madvillainy - Accordion
@@ -1181,6 +1183,7 @@ Step Brothers - 2014 - Lord Steppington
 Steve Lacy - 2022 - Gemini Rights
 Steve Reich - 1976 - Music for 18 Musicians
 Stevie Wonder - 1972 - Music of My Mind
+Stevie Wonder - 1973 - Innervisions
 Sturgill Simpson - 2016 - A Sailor's Guide to Earth
 Sudan Archives - 2022 - Natural Brown Prom Queen
 Sufjan Stevens & Angelo De Augustine - 2021 - A Beginner's Mind
