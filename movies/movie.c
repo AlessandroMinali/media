@@ -21,7 +21,7 @@ void browse(const char* filename, const char* url) {
   fclose(f);
 }
 
-int main() {
+int main(void) {
   char c;
   char *sites[] = {
     "https://www.criterionchannel.com/search?q=",

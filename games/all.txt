@@ -13,6 +13,7 @@ ARMORED CORE VI FIRES OF RUBICON
 Arranger: A Role-Puzzling Adventure
 Astro Bot
 Balatro
+Baldur's Gate 3
 Ballad of Antara
 Black Powder Read Earth
 Bleak Sword DX
@@ -42,6 +43,7 @@ Diablo IV
 Disco Elysium - The Final Cut
 Dread Delusion
 Dungeons of Hinterberg
+Dwarf Fortress
 Earthblade
 Eastward
 El Shaddai ASCENSION OF THE METATRON
@@ -79,6 +81,7 @@ Isles of Sea and Sky
 JETT: The Far Shore
 Judas
 Jusant
+Keep Talking and Nobody Explodes
 Kena: Bridge of Spirits
 Kenshi
 Kunitsu-Gami: Path of the Goddess
@@ -110,8 +113,10 @@ Northern Journey
 Ode to a Moon
 Ooblets
 Open Roads
+Outer Wilds
 Pathologic
 Patrick's Parabox
+Peglin
 Pepper Grinder
 Persona 3 Reload
 Phantom Abyss
@@ -132,6 +137,7 @@ Resident Evil 4
 Resident Evil 7 Biohazard
 Resident Evil Village
 Returnal
+Riven
 RoboCop: Rogue City
 Rogue Legacy 2
 ROUTINE
@@ -171,8 +177,10 @@ The Last Night
 The Signal From Tölva
 The Silver Case
 The Talos Principle 2
+Tiny Glade
 Total War: NAPOLEON
 Total War: SHOGUN 2
+Trepang
 TUNIC
 UFO 50
 Ultimate General: Civil War
