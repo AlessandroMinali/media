@@ -3,6 +3,7 @@
 24 Killers
 7 Billion Humans
 A Monster's Expedition
+About an Elf
 Accounting (Legacy)
 Accounting+
 Agent 64: Spies Never Die
@@ -41,6 +42,8 @@ DCS
 Death's Door
 DEATHLOOP
 Diablo IV
+Dragon's Dogma
+Dragon's Dogma II
 Dread Delusion
 Dungeons of Hinterberg
 Dwarf Fortress
@@ -50,7 +53,6 @@ El Shaddai ASCENSION OF THE METATRON
 En Garde!
 Factorio
 FAITH: The Unholy Trinity
-FIGHT KNIGHT
 Flotilla
 Flotilla 2
 From dust
