@@ -10,6 +10,7 @@ Agent 64: Spies Never Die
 Airframe Ultra
 Alien: Isolation
 ANIMAL WELL
+ANTONBLAST
 ARMORED CORE VI FIRES OF RUBICON
 Arranger: A Role-Puzzling Adventure
 Astro Bot
@@ -49,6 +50,7 @@ Dungeons of Hinterberg
 Dwarf Fortress
 Earthblade
 Eastward
+Echo Point Nova
 El Shaddai ASCENSION OF THE METATRON
 En Garde!
 Factorio
@@ -74,9 +76,11 @@ Hollow Knight
 Human Resource Machine
 HYPER DEMON
 Hyper Light Breaker
+I Am Your Beast
 IMMORTALITY
 In The Valley of Gods
 Indiana Jones and the Great Circle
+INDIKA
 Inkulinati
 Iron Lung
 Isles of Sea and Sky
@@ -90,6 +94,7 @@ Laika: Aged Through Blood
 Lies of P
 Little Inferno
 Lords of the Fallen
+Lorelei and the Laser Eyes
 Lorn's Lure
 Metal Gear Solid Delta: Snake Eater
 Metaphor: ReFantazio

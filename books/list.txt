@@ -4,9 +4,11 @@
 99 Bottles of OOP
 A Brief History of Time
 A Canticle for Leibowitz
+A Deepness in the Sky
 A Gentlement in Moscow
 A Humument: A treated Victorian novel
 A Kayak Full of Ghosts
+A Mathematician's Lament
 A Perfect Vacuum
 A Philosophy of Software Design
 A Scanner Darkly
@@ -39,6 +41,7 @@ Candide
 Catch-22
 Celestial Emporium of Benevolent Knowledge
 Children of Dune
+Close to the Machine: Technophilia and Its Discontents
 Cloud Atlas
 Code of Hammurabi
 Combining
@@ -66,7 +69,9 @@ Einstein's Dreams
 Empire of Pain
 Endurance: Shackleton's Incredible Voyage
 Elbow Room
+Erewhon
 Exhalation: Stories
+Everyday Utopia: What 2,000 Years of Wild Experiments Can Teach Us About the Good Life
 Fahrenheit 451
 Ficciones
 Finite and Infinite Games
@@ -96,17 +101,21 @@ Hard-Boiled Wonderland and the End of the World
 Hillbilly Elegy: A Memoir of a Family and Culture in Crisis
 Hothouse
 House of Leaves
+How Not to Age: The Scientific Approach to Healthier Aging
 How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease
 How the Food Industry Influences Nutrition and Health
 How to Be a Woman
 How to Blow Up a Pipeline
 How to Lie with Statistics
+How We’d Talk if the English had Won in 1066
 HyperComplex Numbers: An Elementary Introduction to Algebras
 Hydriotaphia, Urn Burial, or, a Discourse of the Sepulchral Urns lately found in Norfolk
 I Hope I Shall Arrive Soon
+I Will Fight No More Forever
 If on a Winter's Night a Traveler
 Iliad
 In a Lonely Place
+In Cold Blood
 In the Penal Colony
 In Praise of Shadows
 Incognito: The Secret Lives of the Brain
@@ -140,6 +149,7 @@ Meditations
 Meditations on First Philosophy
 Modern Processor Design: Fundamentals of Superscalar Processors
 Mr. Palomar
+Mrs Dalloway
 Narnia
 Nausicaä of the Valley of the Wind
 Neuromancer
@@ -166,6 +176,7 @@ Philosophus Autodidactus
 Physically Based Rendering, Third Edition
 Pictures from the Water Trade: An Englishman in Japan
 Probability and Computing: Randomized Algorithms and Probabilistic Analysis
+Project Hail Mary
 Proust
 Quantum Mechanics: The Theoretical Minimum
 Quarantine
@@ -211,6 +222,7 @@ Termination Shock
 Termush
 Terra Nostra
 The 4-Hour Workweek
+The Adventures of Sherlock Holmes
 The Alchemist
 The Aleph and Other Stories
 The Algorithm Design Manual
@@ -241,6 +253,7 @@ The Cormorant
 The Count of Monte Cristo
 The Cyberiad
 The Definitive H.P. Lovecraft- 67 Tales of Horror in One Volume
+The Democracy Of Species
 The Demon-Haunted World
 The Design of Everyday Things
 The Dispossessed
@@ -265,6 +278,7 @@ The Glass Bead Game
 The Golden Apples of the Sun
 The Ground Beneath Her Feet
 The Gunslinger
+The Haunting of Hill House
 The Hero with a Thousand Faces
 The House Jack Built
 The Hunger Artist
@@ -272,6 +286,7 @@ The Hunter Gracchus
 The Incredible Tide
 The Jounral of Henry David Thoreau, 1837-1861
 The Judgment
+The Last Great Sea: A Voyage Through the Human and Natural History of the North Pacific Ocean
 The Library of Babel
 The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing
 The Little Prince
@@ -280,6 +295,7 @@ The Machinery of Life
 The Making of Prince of Persia: Journals 1985-1993
 The Man Who Mistook His Wife for a Hat
 The Man in the High Castle
+The Martian
 The Medusa and the Snail
 The Monkey Wrench Gang
 The Morning of the Magicians: Introduction to Fantastic Realism
@@ -306,6 +322,7 @@ The Sleepwalkers: A History of Man's Changing Vision of the Universe
 The Society of the Spectacle
 The Summer Book
 The Sympathizer
+The Tartar Steppe
 The Temple of the Golden Pavilion
 The Theoretical Minimum: What You Need to Know to Start Doing Physics
 The Three Body Problem
@@ -335,6 +352,7 @@ Walden & Civil Disobedience
 War and Peace
 War Songs
 Watership Down
+West with the Night
 Where the Crawdads Sing
 Without Conscience: The Disturbing World of the Psychopaths Among Us
 Working Effectively with Legacy Code
