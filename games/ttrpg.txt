@@ -84,11 +84,12 @@ Electric Bastionland
 
 LANCER
 - [ ] No Room for a Wallflower: Act 1
-- [ ] Operation Solstice Rain
 - [ ] Operation Winter Scar
 - [ ] Dustgave
 - [ ] Siren's Song: A Mountain's Remorse
+- [x] Operation Solstice Rain
 - [x] The Tombs of Delios
+- [x] Cathedral of the Deadstar
 
 OSE
 - [ ] The Hole in the Oak
