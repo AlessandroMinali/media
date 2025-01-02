@@ -16,7 +16,7 @@ void browse(const char* filename, const char* url) {
 
     snprintf(search, BUFFER_SIZE, "open \"%s%s\"", url, buf);
     system(search);
-    usleep(1000000);
+    usleep(500000);
   }
   fclose(f);
 }
@@ -38,11 +38,6 @@ int main(void) {
 
     browse("./list.txt", sites[i]);
   }
-
-  printf("\nCheck netflix? [y/n] ");
-  scanf(" %c", &c);
-  if (c == 'n') { exit(0); }
-  browse("./netflix.txt", sites[1]);
 
   return 0;
 }
