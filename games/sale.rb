@@ -1,6 +1,5 @@
 require 'cgi'
 
-
 def check_sales(title)
   search = CGI.escape title
 
