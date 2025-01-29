@@ -1,8 +1,13 @@
 OWNED
 Catan - 4 - 4
 Pandemic - 4 - 4
+Coup - 6 - 5
 
-PLAYED
+OWNED - NEED TO PLAY
+Splendor
+Sky Team - 2 - 2
+
+WANT - PLAYED
 7 Wonders Duel - 2 - 2
 Hive - 2 - 2
 Horse and Musket - 2 - 2

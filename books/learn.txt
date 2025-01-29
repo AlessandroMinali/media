@@ -1,45 +1,42 @@
-99 Bottles of OOP
-A Philosophy of Software Design
-C: Interfaces and Implementations
-Calculus, Vol. 1: One-Variable Calculus, with an Introduction to Linear Algebra
-Computer Architecture: A Quantitative Approach
-Cracking the Coding Interview
-Creativity: A Short and Cheerful Guide
-Game Engine Architecture, Third Edition
-Game Engine Black Book: DOOM
-Game Engine Black Book: Wolfenstein 3D
-Graphics Gems
-Graphics Programming Black Book
-HyperComplex Numbers: An Elementary Introduction to Algebras
-Intuition Pumps and Other Tools for Thinking
-Literate Programming
-Mastering Algorithms with C
-Modern Processor Design: Fundamentals of Superscalar Processors
-Overcoming Gravity: A Systematic Approach to Gymnastics and Bodyweight Strength
-Performance Analysis and Tuning on Modern CPUs
-Physically Based Rendering, Third Edition
-Probability and Computing: Randomized Algorithms and Probabilistic Analysis
-Real Time Collision Detection
-Structure and Interpretation of Computer Programs
-Special Relativity and Classical Field Theory: The Theoretical Minimum
-Teaching as a Subversive Activity
-Technopoly: The Surrender of Culture to Technology
-The 4-Hour Workweek
-The Algorithm Design Manual
-The Art of Computer Programming
-The Art of Doing Science and Engineering
-The Art of Not Being Governed
-The Art of Unix Programming
-The Book of CP-System
 The China Study: The Most Comprehensive Study of Nutrition Ever Conducted And the Startling Implications for Diet, Weight Loss, And Long-term Health
-The Design of Everyday Things
-The End of Education: Redefining the Value of School
-The Feynman Lectures on Physics
-The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing
+The Art of Computer Programming
+Game Engine Architecture, Third Edition
+C: Interfaces and Implementations
+Modern Processor Design: Fundamentals of Superscalar Processors
+Graphics Programming Black Book
+Technopoly: The Surrender of Culture to Technology
+The Art of Doing Science and Engineering
+Special Relativity and Classical Field Theory: The Theoretical Minimum
+Working Effectively with Legacy Code
+The Theoretical Minimum: What You Need to Know to Start Doing Physics
+Performance Analysis and Tuning on Modern CPUs
+Probability and Computing: Randomized Algorithms and Probabilistic Analysis
+The Art of Unix Programming
+The Pragmatic Programmer
+Game Engine Black Book: DOOM
+Why Don't Students Like School?
+The Algorithm Design Manual
+99 Bottles of OOP
+Calculus, Vol. 1: One-Variable Calculus, with an Introduction to Linear Algebra
+Cracking the Coding Interview
+Computer Architecture: A Quantitative Approach
+Real Time Collision Detection
+Graphics Gems
+The Art of Not Being Governed
 The Making of Prince of Persia: Journals 1985-1993
 The One-Straw Revolution: An Introduction to Natural Farming
-The Pragmatic Programmer
-The Theoretical Minimum: What You Need to Know to Start Doing Physics
+The 4-Hour Workweek
+The Feynman Lectures on Physics
+Teaching as a Subversive Activity
+Literate Programming
 Understanding Software Dynamics
-Working Effectively with Legacy Code
-Why Don't Students Like School?
+A Philosophy of Software Design
+The Design of Everyday Things
+The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing
+Creativity: A Short and Cheerful Guide
+Overcoming Gravity: A Systematic Approach to Gymnastics and Bodyweight Strength
+HyperComplex Numbers: An Elementary Introduction to Algebras
+The End of Education: Redefining the Value of School
+Game Engine Black Book: Wolfenstein 3D
+Structure and Interpretation of Computer Programs
+Intuition Pumps and Other Tools for Thinking

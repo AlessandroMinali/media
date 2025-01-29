@@ -19,3 +19,7 @@ Atlas Shrugged
 
 The Prince
 Cinema Speculation
+
+The Book of CP-System
+Mastering Algorithms with C
+Physically Based Rendering, Fourth Edition
