@@ -1,11 +1,11 @@
 CY_BORG
-- [ ] The CVLT of the Hadron Lamb
 - [ ] Sealegs
 - [ ] Last of the Good Ones Ashcan
 - [ ] BugGrub Burger
 - [ ] Retribution (hex crawl)
 - [ ] Location Pad 0/34
 - [ ] KILL ENGN + Cast Oubliette
+- [x] The CVLT of the Hadron Lamb
 - [x] Lucky Flight Takedown
 - [x] Download Terror
 - [x] Reaper Repo
@@ -87,6 +87,7 @@ LANCER
 - [ ] Operation Winter Scar
 - [ ] Dustgave
 - [ ] Siren's Song: A Mountain's Remorse
+- [ ] Shadow of the Wolf
 - [x] Operation Solstice Rain
 - [x] The Tombs of Delios
 - [x] Cathedral of the Deadstar
