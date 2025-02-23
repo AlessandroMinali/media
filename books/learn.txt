@@ -1,16 +1,10 @@
-The China Study: The Most Comprehensive Study of Nutrition Ever Conducted And the Startling Implications for Diet, Weight Loss, And Long-term Health
+Computer Organization and Design RISC-V Edition: The Hardware Software Interface
+The Elements of Computing Systems: Building a Modern Computer from First Principles
 The Art of Computer Programming
 Game Engine Architecture, Third Edition
-C: Interfaces and Implementations
-Modern Processor Design: Fundamentals of Superscalar Processors
-Graphics Programming Black Book
-Technopoly: The Surrender of Culture to Technology
 The Art of Doing Science and Engineering
 Special Relativity and Classical Field Theory: The Theoretical Minimum
-Working Effectively with Legacy Code
 The Theoretical Minimum: What You Need to Know to Start Doing Physics
-Performance Analysis and Tuning on Modern CPUs
-Probability and Computing: Randomized Algorithms and Probabilistic Analysis
 The Art of Unix Programming
 The Pragmatic Programmer
 Game Engine Black Book: DOOM
@@ -40,3 +34,5 @@ The End of Education: Redefining the Value of School
 Game Engine Black Book: Wolfenstein 3D
 Structure and Interpretation of Computer Programs
 Intuition Pumps and Other Tools for Thinking
+Modern Processor Design: Fundamentals of Superscalar Processors
+Graphics Programming Black Book

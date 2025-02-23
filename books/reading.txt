@@ -1,10 +1,8 @@
 Wuthering Heights (reading only)
 
-The Elements of Computing Systems: Building a Modern Computer from First Principles (pdf)
 The Ray Tracer Challenge
 
 The C Programming Language 2e
-Computer Organization and Design RISC-V Edition: The Hardware Software Interface (pdf)
 Real-Time Rendering 4e
 The Lord of the Rings The Fellowship of the Ring
 The Lord of the Rings: Two Towers
@@ -23,3 +21,11 @@ Cinema Speculation
 The Book of CP-System
 Mastering Algorithms with C
 Physically Based Rendering, Fourth Edition
+
+The China Study: The Most Comprehensive Study of Nutrition Ever Conducted And the Startling Implications for Diet, Weight Loss, And Long-term Health
+Performance Analysis and Tuning on Modern CPUs
+Working Effectively with Legacy Code
+Probability and Computing: Randomized Algorithms and Probabilistic Analysis
+C: Interfaces and Implementations
+
+Technopoly: The Surrender of Culture to Technology

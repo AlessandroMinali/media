@@ -1,6 +1,5 @@
 Bloodlands
 How Do You Live?
-C: Interfaces and Implementations
 100 Decisive Battles: From Ancient Times to the Present
 1984
 1Q84
@@ -146,7 +145,6 @@ Lotus Sūtra
 Love in the Time of Cholera
 Making: Anthropology, Archaeology, Art and Architecture
 Man's Search for Meaning
-Mastering Algorithms with C
 Maus
 Meditations
 Meditations on First Philosophy
@@ -169,16 +167,12 @@ One Hundred Years of Solitude
 One-Hour Wargames: Practical Tabletop Battles for those with Limited Time and Space
 Opening Theory Made Easy: Twenty Strategic Principles to Improve Your Opening Game
 Our Ancestors
-Overcoming Gravity: A Systematic Approach to Gymnastics and Bodyweight Strength
 Pale Fire
 Pebble in the Sky
-Performance Analysis and Tuning on Modern CPUs
 Permutation City
 Philosophical Investigations
 Philosophus Autodidactus
-Physically Based Rendering, Third Edition
 Pictures from the Water Trade: An Englishman in Japan
-Probability and Computing: Randomized Algorithms and Probabilistic Analysis
 Project Hail Mary
 Proust
 Quantum Mechanics: The Theoretical Minimum
@@ -235,7 +229,6 @@ The Art of Doing Science and Engineering
 The Art of Not Being Governed
 The Art of Unix Programming
 The Bell Jar
-The Book of CP-System
 The Book of Five Rings
 The Box Wine Sailors: Misadventures of a Broke Young Couple at Sea
 The Broom of the System
@@ -245,7 +238,6 @@ The Castle
 The Castle of Crossed Destinies
 The Celestine Prophecy
 The Character of Physical Law
-The China Study: The Most Comprehensive Study of Nutrition Ever Conducted And the Startling Implications for Diet, Weight Loss, And Long-term Health
 The Chrysalids
 The Circle
 The City & the City
@@ -358,6 +350,5 @@ Watership Down
 West with the Night
 Where the Crawdads Sing
 Without Conscience: The Disturbing World of the Psychopaths Among Us
-Working Effectively with Legacy Code
 Why Don't Students Like School?
 xv6 - https://pdos.csail.mit.edu/6.1810/2023/xv6.html
