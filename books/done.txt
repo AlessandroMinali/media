@@ -7,6 +7,7 @@
 CAIN (pdf)
 + Cat's Cradle
 + Catcher in the Rye
++ Crystal Nights (pdf) - creating computational beings(ai) that are smarter than us to help us. exploring the moral issue of intetionally playing out evolution(causing extinction of beings)
 CY_BORG
 + Data-Oriented Design (pdf)
 DEATH IN SPACE
@@ -32,6 +33,7 @@ I Am a Strange Loop
 + Ishmael
 + Kafka On the Shore
 + LANCER Core Book
++ Learning To Be Me - prefect recreation of human mind upload goes wrong from point of view of the copy. thoughts on solipsism
 Lessons in the Fundamentals of Go (pdf)
 Liminal Horror
 Linear Algebra Done Right
