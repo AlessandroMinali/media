@@ -5,3 +5,7 @@
 ## Philosophy
 - https://en.wikipedia.org/wiki/Politician's_syllogism - something must be done, so we must do anything
 - https://en.wikipedia.org/wiki/Solipsism - only one mind exists
+
+# Agriculture
+- https://en.wikipedia.org/wiki/Green_Revolution - third agricultural revolution
+- https://en.wikipedia.org/wiki/System_of_Rice_Intensification - less resource but more rice
