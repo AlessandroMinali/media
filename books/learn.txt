@@ -12,7 +12,7 @@ Why Don't Students Like School?
 The Algorithm Design Manual
 99 Bottles of OOP
 Calculus, Vol. 1: One-Variable Calculus, with an Introduction to Linear Algebra
-Cracking the Coding Interview
+Beyond Cracking the Coding Interview
 Computer Architecture: A Quantitative Approach
 Real Time Collision Detection
 Graphics Gems
@@ -36,3 +36,4 @@ Structure and Interpretation of Computer Programs
 Intuition Pumps and Other Tools for Thinking
 Modern Processor Design: Fundamentals of Superscalar Processors
 Graphics Programming Black Book
+Algorithms, 4th Edition

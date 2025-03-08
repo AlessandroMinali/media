@@ -1,3 +1,4 @@
+Algorithms, 4th Edition
 Everything and More: A Compact History of Infinity
 Girl with Curious Hair
 Oblivion: Stories
@@ -57,7 +58,7 @@ Combining
 Computer Architecture: A Quantitative Approach
 Consciousness Explained
 Consider Phlebas
-Cracking the Coding Interview
+Beyond Cracking the Coding Interview
 Creativity: A Short and Cheerful Guide
 Crime and Punishment
 Cryptonomicon
