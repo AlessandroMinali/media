@@ -1,6 +1,3 @@
-Adrianne Lenker - 2024 - Bright Future
-Sleep - 2018 - The Sciences
-Woody Jackson - 2019 - The Music of Red Dead Redemption 2 (Original Score) - Revenge Is A Dish Best Eaten
 2Pac - 1996 - All Eyez on Me
 50 Cent - 2003 - Get Rich or Die Tryin'
 700 Bliss - 2022 - Nothing to Declare
@@ -19,7 +16,7 @@ Adeem the Artist - 2022 - White Trash Revelry
 Adele - 2021 - 30
 Adia Victoria - 2021 - A Southern Gothic
 Adrianne Lenker - 2020 - Songs
-Adrianne Lenker - 2024 - Bright Future
+Adrianne Lenker - 2024 - Bright Future - Vampire Empire
 Aerosmith - 1976 - Rocks
 Aesop Rock - 2016 - The Impossible Kid
 Africa Hitech - 2011 - 93 Million Miles
@@ -420,11 +417,11 @@ Dope Body - 2020 - Home Body
 Dorian Electra - 2020 - My Agenda
 Dr. Dre - 1992 - The Chronic
 Dr. John - 1968 - Gris-Gris
+Drake & PartyNextDoor - 2025 - $ome $exy $ongs 4 U
 Drake - 2010 - Thank Me Later
 Drake - 2011 - Take Care
 Drake - 2015 - If You're Reading This It's Too Late
 Drake - 2022 - Honestly. Nevermind - Falling Back
-Drake & PartyNextDoor - 2025 - $ome $exy $ongs 4 U
 Dua Lipa - 2020 - Future Nostalgia - Don't Start Now
 Dua Lipa - 2025 - Radical Optimisim
 Dumbo Gets Mad - 2011 - Elephants at the Door
@@ -1205,6 +1202,7 @@ Slauson Malone - 2019 - A Quiet Farwell, 2016-2018
 Slauson Malone - 2020 - Vergangenheitsbewältigung
 Sleaford Mods - 2015 - Key Markets
 Sleater-Kinney - 1997 - Dig Me Out
+Sleep - 2018 - The Sciences
 Slint - 1991 - Spiderland
 slowthai - 2019 - Nothing Great About Britain
 slowthai - 2020 - TYRON
@@ -1540,6 +1538,7 @@ Wolves In the Throne Room - 2014 - Celestite
 Women - 2010 - Public Strain
 Woods - 2009 - Songs of Shame
 Woods - 2010 - At Echo Lake
+Woody Jackson - 2019 - The Music of Red Dead Redemption 2 (Original Score) - Revenge Is A Dish Best Eaten
 Wormrot - 2011 - Dirge
 Wu-Tang Clang - 1993 - Enter the Wu-Tang (36 Chambers) - Bring Da Ruckus
 X - 1980 - Los Angeles
