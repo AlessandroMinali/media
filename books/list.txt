@@ -1,13 +1,3 @@
-Algorithms, 4th Edition
-Everything and More: A Compact History of Infinity
-Girl with Curious Hair
-Oblivion: Stories
-Both Flesh and Not
-Consider the Lobster
-A Supposedly Fun Thing I'll Never Do Again
-Fate, Time, and Language: An Essay on Free Will
-Bloodlands
-How Do You Live?
 100 Decisive Battles: From Ancient Times to the Present
 1984
 1Q84
@@ -16,16 +6,18 @@ A Brief History of Time
 A Canticle for Leibowitz
 A Deepness in the Sky
 A Gentlement in Moscow
+A History of Canada in Ten Maps: Epic Stories of Charting a Mysterious Land
 A Humument: A treated Victorian novel
 A Kayak Full of Ghosts
 A Mathematician's Lament
 A Perfect Vacuum
-A Philosophy of Software Design
 A Scanner Darkly
+A Supposedly Fun Thing I'll Never Do Again
 A Universal History of Infamy
 Aberration in the Heartland of the Real
 Aesop's Fables
 Akira
+Algorithms, 4th Edition
 All the Pretty Horses
 American Psycho
 Amusing Ourselves to Death: Public Discourse in the Age of Show Business
@@ -33,15 +25,18 @@ Anathem
 Animal Liberation: A New Ethics for Our Treatment of Animals
 Anna Karenina
 Another Day of Life
-Autobiography of a Corpse
 Austerlitz - W. G. Sebald
+Autobiography of a Corpse
 Axiomatic
 Babel-17
 Beowulf
+Beyond Cracking the Coding Interview
 Beyond Good & Evil
 Bhagavad Gita
 Blood Meridian
+Bloodlands
 Book of Imaginary Beings
+Both Flesh and Not
 Brainstorms: Philosophical Essays on Mind and Psychology
 Brief Interviews with Hideous Men
 Bullshit Jobs: A Theory
@@ -58,13 +53,14 @@ Combining
 Computer Architecture: A Quantitative Approach
 Consciousness Explained
 Consider Phlebas
-Beyond Cracking the Coding Interview
+Consider the Lobster
 Creativity: A Short and Cheerful Guide
 Crime and Punishment
 Cryptonomicon
 Culture & Imperialism
 Debt: The first 5000 years
 Demian: The Story of a Boyhood
+Desert Encounter
 Desert Solitaire
 Dictionary of the Khazars: A Lexicon Novel
 Divine Comedy
@@ -76,13 +72,16 @@ Dune Messiah
 East of Eden
 Ecce Homo
 Einstein's Dreams
+Elbow Room
 Empire of Pain
 Endurance: Shackleton's Incredible Voyage
-Elbow Room
+Energy: A Human History
 Erewhon
-Exhalation: Stories
 Everyday Utopia: What 2,000 Years of Wild Experiments Can Teach Us About the Good Life
+Everything and More: A Compact History of Infinity
+Exhalation: Stories
 Fahrenheit 451
+Fate, Time, and Language: An Essay on Free Will
 Ficciones
 Finite and Infinite Games
 FlatLand
@@ -94,23 +93,24 @@ Game Engine Architecture, Third Edition
 Game Engine Black Book: DOOM
 Game Engine Black Book: Wolfenstein 3D
 Gardens of the Moon
+Genghis Khan and the Making of the Modern World
 Ghost in the shell
 Giles Corey
+Girl with Curious Hair
 God Emperor of Dune
-Goedel, Escher, Bach
 Godforsaken Sea: The True Story of a Race Through the World's Most Dangerous Waters
+Goedel, Escher, Bach
 Grapes of Wrath
 Graphics Gems
 Graphics Programming Black Book
 Gravity's Rainbow
 Gulliver's Travels
 Guns, Germs & Steel
-Hacker's Delight
-Hacking, 2nd Edition
 Hard-Boiled Wonderland and the End of the World
 Hillbilly Elegy: A Memoir of a Family and Culture in Crisis
 Hothouse
 House of Leaves
+How Do You Live?
 How Not to Age: The Scientific Approach to Healthier Aging
 How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease
 How the Food Industry Influences Nutrition and Health
@@ -118,16 +118,16 @@ How to Be a Woman
 How to Blow Up a Pipeline
 How to Lie with Statistics
 How We’d Talk if the English had Won in 1066
-HyperComplex Numbers: An Elementary Introduction to Algebras
 Hydriotaphia, Urn Burial, or, a Discourse of the Sepulchral Urns lately found in Norfolk
+HyperComplex Numbers: An Elementary Introduction to Algebras
 I Hope I Shall Arrive Soon
 I Will Fight No More Forever
 If on a Winter's Night a Traveler
 Iliad
 In a Lonely Place
 In Cold Blood
-In the Penal Colony
 In Praise of Shadows
+In the Penal Colony
 Incognito: The Secret Lives of the Brain
 Infinite Jest
 Into the Wild
@@ -162,10 +162,13 @@ Mrs Dalloway
 Narnia
 Nausicaä of the Valley of the Wind
 Neuromancer
+Never Split the Difference: Negotiating as if Your Life Depended on It
 North to the Night : A Spiritual Odyssey in the Arctic
+Oblivion: Stories
 Odyssey
 Oliver Byrne: The First Six Books of the Elements of Euclid
 On Food and Cooking: The Science and Lore of the Kitchen
+On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life
 On Trails: An Exploration
 On War
 On Writing
@@ -183,6 +186,7 @@ Philosophus Autodidactus
 Pictures from the Water Trade: An Englishman in Japan
 Project Hail Mary
 Proust
+Punished by Rewards
 Quantum Mechanics: The Theoretical Minimum
 Quarantine
 Quran
@@ -190,19 +194,18 @@ Real Time Collision Detection
 Reap3r
 Reasons and Persons
 Red Sorghum
+Release It!: Design and Deploy Production-Ready Software
 Remember to Remember
 Remembering (1932)
 Resistance to Civil Government
 Right-Wing Women
 Sartor Resartus: The Life and Opinions of Herr Teufelsdröckh in Three Books
-Sculpting in Time
-Shogun
-Strange Land
-Structure and Interpretation of Computer Programs
 Scientific Freedom: The Elixir of Civilization
 Scientific Realism and the Plasticity of Mind
+Sculpting in Time
 Seraffyn's European Adventure
 Seveneves
+Shogun
 Simplicius Simplicissimus
 Solaris
 Solo: Backcountry Adventuring in Aotearoa
@@ -214,6 +217,8 @@ Spinal Catastrophism
 Spoon River Anthology
 Stiff: The Curious Lives of Human Cadavers
 Stories of Your Life and Others
+Strange Land
+Structure and Interpretation of Computer Programs
 Sun and Steel
 Super-Frog Saves Tokyo
 Supplying War
@@ -226,7 +231,6 @@ Tender is the Flesh
 Termination Shock
 Termush
 Terra Nostra
-The 4-Hour Workweek
 The Adventures of Sherlock Holmes
 The Alchemist
 The Aleph and Other Stories
@@ -238,6 +242,7 @@ The Art of Not Being Governed
 The Art of Unix Programming
 The Bell Jar
 The Book of Five Rings
+The Book Thief
 The Box Wine Sailors: Misadventures of a Broke Young Couple at Sea
 The Broom of the System
 The Brothers K
@@ -254,6 +259,7 @@ The Complete Cosmicomics
 The Conquest of Bread
 The Cormorant
 The Count of Monte Cristo
+The Course of Love
 The Cyberiad
 The Definitive H.P. Lovecraft- 67 Tales of Horror in One Volume
 The Democracy Of Species
@@ -262,8 +268,8 @@ The Design of Everyday Things
 The Dispossessed
 The Distance of the Moon
 The Dragons of Eden
-The Dream Machine
 The Drawing of the Three
+The Dream Machine
 The Electric Kool-Aid Acid Test
 The Elements of Style
 The Elephant Vanishes
@@ -286,6 +292,7 @@ The Hero with a Thousand Faces
 The House Jack Built
 The Hunger Artist
 The Hunter Gracchus
+The Idea Factory: Bell Labs and the Great Age of American Innovation
 The Incredible Tide
 The Jounral of Henry David Thoreau, 1837-1861
 The Judgment
@@ -295,9 +302,8 @@ The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Orga
 The Little Prince
 The Long Way
 The Machinery of Life
-The Making of Prince of Persia: Journals 1985-1993
-The Man Who Mistook His Wife for a Hat
 The Man in the High Castle
+The Man Who Mistook His Wife for a Hat
 The Martian
 The Medusa and the Snail
 The Monkey Wrench Gang
@@ -305,6 +311,7 @@ The Morning of the Magicians: Introduction to Fantastic Realism
 The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins
 The Mysterious Stranger
 The Mythical Man Month
+The North Water
 The Nose (https://www.gutenberg.org/files/36238/36238-h/36238-h.htm)
 The One-Straw Revolution: An Introduction to Natural Farming
 The Origin of Consciousness in the Breakdown of the Bicameral Mind
@@ -314,11 +321,13 @@ The Politics of Heroin
 The Pragmatic Programmer
 The Princess and the Pea
 The Princess Bride
+The Psychology of Money
 The Remains of the Day
 The Rise and Fall of the Third Reich
 The River Why
 The Road
 The Ruined Map
+The Selfish Gene
 The Setting Sun
 The Sixth Extinction: An Unnatural History
 The Sleepwalkers: A History of Man's Changing Vision of the Universe
@@ -331,12 +340,14 @@ The Theoretical Minimum: What You Need to Know to Start Doing Physics
 The Three Body Problem
 The Three Stigmata of Palmer Eldritch
 The Timeless Way of Building
-The Trouble with Being Born
 The Toyota Way
+The Trouble with Being Born
 The Unbearable Lightness of Being
+The Victorian Internet
 The Way of Kings
 The White Castle
 The Written World and the Unwritten World
+Thinking, Fast and Slow
 Tlön, Uqbar, Orbis Tertius
 To Kill a Mockingbird
 Tomie
@@ -356,7 +367,8 @@ War and Peace
 War Songs
 Watership Down
 West with the Night
+What Every Programmer Should Know About Memory
 Where the Crawdads Sing
-Without Conscience: The Disturbing World of the Psychopaths Among Us
 Why Don't Students Like School?
+Without Conscience: The Disturbing World of the Psychopaths Among Us
 xv6 - https://pdos.csail.mit.edu/6.1810/2023/xv6.html

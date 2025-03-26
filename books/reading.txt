@@ -15,7 +15,6 @@ Lonely Planet Fast Talk Japanese 1e
 Moby Dick
 Atlas Shrugged
 
-The Prince
 Cinema Speculation
 
 The Book of CP-System
@@ -29,3 +28,10 @@ Probability and Computing: Randomized Algorithms and Probabilistic Analysis
 C: Interfaces and Implementations
 
 Technopoly: The Surrender of Culture to Technology
+
+Hacker's Delight 2e
+Hacking : The Art of Exploitation 2e
+A Philosophy of Software Design 2e
+The Making of Prince of Persia: Journals 1985-1993
+The 4-Hour Workweek
+Overcoming Gravity: A Systematic Approach to Gymnastics and Bodyweight Strength

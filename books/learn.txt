@@ -1,6 +1,11 @@
+Punished by Rewards
+The Psychology of Money
+What Every Programmer Should Know About Memory
+Never Split the Difference: Negotiating as if Your Life Depended on It
+Thinking, Fast and Slow
+Release It!: Design and Deploy Production-Ready Software
 Computer Organization and Design RISC-V Edition: The Hardware Software Interface
 The Elements of Computing Systems: Building a Modern Computer from First Principles
-The Art of Computer Programming
 Game Engine Architecture, Third Edition
 The Art of Doing Science and Engineering
 Special Relativity and Classical Field Theory: The Theoretical Minimum
@@ -9,7 +14,6 @@ The Art of Unix Programming
 The Pragmatic Programmer
 Game Engine Black Book: DOOM
 Why Don't Students Like School?
-The Algorithm Design Manual
 99 Bottles of OOP
 Calculus, Vol. 1: One-Variable Calculus, with an Introduction to Linear Algebra
 Beyond Cracking the Coding Interview
@@ -17,18 +21,14 @@ Computer Architecture: A Quantitative Approach
 Real Time Collision Detection
 Graphics Gems
 The Art of Not Being Governed
-The Making of Prince of Persia: Journals 1985-1993
 The One-Straw Revolution: An Introduction to Natural Farming
-The 4-Hour Workweek
 The Feynman Lectures on Physics
 Teaching as a Subversive Activity
 Literate Programming
 Understanding Software Dynamics
-A Philosophy of Software Design
 The Design of Everyday Things
 The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing
 Creativity: A Short and Cheerful Guide
-Overcoming Gravity: A Systematic Approach to Gymnastics and Bodyweight Strength
 HyperComplex Numbers: An Elementary Introduction to Algebras
 The End of Education: Redefining the Value of School
 Game Engine Black Book: Wolfenstein 3D
@@ -36,4 +36,7 @@ Structure and Interpretation of Computer Programs
 Intuition Pumps and Other Tools for Thinking
 Modern Processor Design: Fundamentals of Superscalar Processors
 Graphics Programming Black Book
+
+The Algorithm Design Manual
 Algorithms, 4th Edition
+The Art of Computer Programming

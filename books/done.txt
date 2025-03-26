@@ -1,6 +1,5 @@
-Computing Machinery and Intelligence (pdf)
-+ Darwin among the Machines (pdf)
 + A Clockwork Orange
++ A Modest Proposal (pdf)
 + A Sand County Almanac
 + Alice's Adventures in Wonderland
 + Animal Farm
@@ -9,8 +8,10 @@ Computing Machinery and Intelligence (pdf)
 CAIN (pdf)
 + Cat's Cradle
 + Catcher in the Rye
+Computing Machinery and Intelligence (pdf)
 + Crystal Nights (pdf) - creating computational beings(ai) that are smarter than us to help us. exploring the moral issue of intetionally playing out evolution(causing extinction of beings)
 CY_BORG
++ Darwin among the Machines (pdf)
 + Data-Oriented Design (pdf)
 DEATH IN SPACE
 + Deep Work
@@ -75,6 +76,7 @@ The Metamorphosis
 The Myth of Sisyphus
 + The Nine Billion Names of God (pdf)
 + The Power of Habit
++ The Prince
 + The Rings of Saturn
 The Shadow Out of Time (pdf)
 + The Shockwave Rider
