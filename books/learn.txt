@@ -36,7 +36,6 @@ Structure and Interpretation of Computer Programs
 Intuition Pumps and Other Tools for Thinking
 Modern Processor Design: Fundamentals of Superscalar Processors
 Graphics Programming Black Book
-
 The Algorithm Design Manual
 Algorithms, 4th Edition
 The Art of Computer Programming
