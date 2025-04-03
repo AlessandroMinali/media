@@ -449,6 +449,7 @@ Elliott Smith - 1997 - Either/Or
 Elton John - 1972 - Honky Château - Rocket Man
 Elton John - 1973 - Goodbye Yellow Brick Road - Sweet Painted Lady
 Elton John - 1975 - Captain Fantastic and the Brown Dirt Cowboy - Lucy in the Sky with Diamonds
+Elvis Costello - 1977 - My Aim Is True
 Elvis Costello - 1978 - This Year's Model
 Elvis Presley - 1956 - Elvis Presley - Blue Suede Shoes
 Elvis Presley - 1976 - The Sun Sessions - That's All Right
