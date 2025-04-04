@@ -25,6 +25,11 @@
 ## Optimization
 - https://lemire.me/blog/2024/10/14/table-lookups-are-efficient/ - table lookups are efficient
 
+## Algorithmns
+- https://en.wikipedia.org/wiki/Xorshift
+- https://prng.di.unimi.it/splitmix64.c
+
+===
 
 ## Historical
 ### CS
