@@ -15,8 +15,6 @@ Lonely Planet Fast Talk Japanese 1e
 Moby Dick
 Atlas Shrugged
 
-Cinema Speculation
-
 The Book of CP-System
 Mastering Algorithms with C
 Physically Based Rendering, Fourth Edition
