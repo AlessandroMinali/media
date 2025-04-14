@@ -25,11 +25,42 @@
 
 ## Optimization
 - https://lemire.me/blog/2024/10/14/table-lookups-are-efficient/ - table lookups are efficient
+- https://lemire.me/blog/2025/04/13/detect-control-characters-quotes-and-backslashes-efficiently-using-swar/ - SIMD Within A Register
 
 ## Algorithmns
 - https://en.wikipedia.org/wiki/Xorshift
 - https://prng.di.unimi.it/splitmix64.c
 
+## History
+- 1861 - 1865 American Civil War
+  - 1865 – 1867 post-war recession
+- 1870 - 1871 Franco-Prussian War
+  - 1873 - (1880, 1900) Long Depression
+- 1914 - 1918 WW1
+  - 1929 - 1939 Great Depression
+- 1938 - 1945 WW2
+- 1950 – 1953 Korean War
+  - decline of American manufacture (Europe/Japan(1954) recovers from WW2)
+- 1965 - 1973 Vietnam War(USA)
+- 1967 Six-Day War
+  - 1971 termination of Bretton Woods
+  - 1973 oil crisis
+  - 1974 – 1975 recession
+- 1979 Iranian revolution
+  - 1979 oil crisis
+  - 1980 – 1983 recession
+- 1982 – 1984 Multinational intervention in Lebanon
+  - 1987 crash
+- 1989 USA invasion of Panama
+- 1990 - 1991 Gulf War
+  - 1990 end of Japan's economic miracle
+  - 1990 – 1993 recession
+  - 2000 Dot-com bubble
+  - 2001 – 2002 recession
+- 2001 - 2024 War in Afghanistan
+- 2003 - 2011 Iraqi War
+  - 2008 – 2009 recession
+- 2204+ Gaza war
 ===
 
 ## Historical
