@@ -30,6 +30,7 @@
 ## Algorithmns
 - https://en.wikipedia.org/wiki/Xorshift
 - https://prng.di.unimi.it/splitmix64.c
+- https://github.com/sirupsen/napkin-math#numbers - napkin math
 
 ## History
 - 1861 - 1865 American Civil War
