@@ -19,6 +19,7 @@
 - https://www.tandfonline.com/doi/pdf/10.1080/19424396.2025.2453433 - doses make the poison
 - https://en.wikipedia.org/wiki/Dune_(franchise)#The_Butlerian_Jihad - "Thou shalt not make a machine in the likeness of a human mind"
 - "My grandmother died last year. I wrote a poem to be included in the funeral program that was given to all the attendees. After the service, someone came up to me and complimented me on the poem, then immediately followed up by asking if I wrote it myself or used AI. I'm still struggling to find a way to articulate how that interaction made me feel. It's like everyone signed a contract to forfeit our humanity and I somehow missed the memo."
+- https://en.wikipedia.org/wiki/Universal_approximation_theorem - deep learning can immitate any function within a given error(not bounded)
 
 ## Books
 - https://annas-archive.org/ - all the books
