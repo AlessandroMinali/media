@@ -33,6 +33,9 @@
 - https://prng.di.unimi.it/splitmix64.c
 - https://github.com/sirupsen/napkin-math#numbers - napkin math
 
+## General
+- https://www.youtube.com/watch?v=8p02DtmyQhU - A world from a sheet of paper
+
 ## History
 - 1861 - 1865 American Civil War
   - 1865 – 1867 post-war recession
