@@ -502,7 +502,7 @@ Flatbush Zombies - 2013 - BetterOffDead - Bliss
 Fleet Foxes - 2011 - Helplessness Blues - The Shrine / An Argument
 Fleet Foxes - 2017 - Crack-Up
 Fleetwood Mac - 1977 - Rumours - Dreams
-Floating Points - 2024 - Cascade
+Floating Points - 2024 - Cascade - Vocoder
 Floating Points, Pharoah Sanders & The London Symphony Orchestra - 2021 - Promises
 Flume - 2019 - Hi This Is Flume
 Flying Lotus - 2010 - Cosmogramma - Zodiac Shit
@@ -1536,6 +1536,7 @@ Various artists - 1972 - Nuggets: Original Artyfacts from the First Psychedelic 
 Various Artists - 1985 - The Indestructible Beat of Soweto
 Various artists - 1991 - Back to Mono (1958-1969) - I Love How You Love Me
 Various Artists - 2009 - Pomegranates
+Various Artists - 2016 - Southern Family
 Veeze - 2023 - Ganger
 Vektor - 2009 - Black Future
 Vektor - 2011 - Outer Isolation
