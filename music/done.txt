@@ -952,6 +952,7 @@ MGMT - 2007 - Oracular Spectacular - Electric Feel
 MGMT - 2010 - Congratulations
 MGMT - 2013 - MGMT
 MGMT - 2018 - Little Dark Age
+MGMT - 2024 - Loss of Life
 Michael Jackson - 1979 - Off the Wall - Don’t Stop 'Til You Get Enough
 Michael Jackson - 1982 - Thriller - Billie Jean
 Michael Jackson - 1987 - Bad - Dirty Diana
@@ -1145,7 +1146,7 @@ Purelink - 2023 - Signs
 Purple Mountains - 2019 - Purple Mountains
 Pusha T - 2018 - DAYTONA - The Games We Play
 Pusha T - 2022 - It's Almost Dry
-Quadeca - 2024 - Scrapyard
+Quadeca - 2024 - Scrapyard - TEXAS BLUE
 Queen - 1975 - A Night at the Opera - Bohemian Rhapsody
 Queens of the Stone Age - 2013 - ...Like Clockwork
 Quelle Chris & Chris Keys - 2020 - Innocent Country 2
