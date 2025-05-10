@@ -1,11 +1,9 @@
-Wuthering Heights (reading only)
+Wuthering Heights
 
 The Ray Tracer Challenge
 
 The C Programming Language 2e
 Real-Time Rendering 4e
-The Lord of the Rings: Two Towers
-The Lord of the Rings: The Return of the King
 
 Star Maker
 Lonely Planet Fast Talk Japanese 1e
