@@ -29,3 +29,8 @@ A Philosophy of Software Design 2e
 The Making of Prince of Persia: Journals 1985-1993
 The 4-Hour Workweek
 Overcoming Gravity: A Systematic Approach to Gymnastics and Bodyweight Strength
+
+
+The Level Design Book
+Nature of Code
+Book of Shaders
