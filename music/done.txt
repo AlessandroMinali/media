@@ -1,5 +1,3 @@
-Aretha Franklin - 1968 - Lady Soul
-Jakey - 2022 - ROMCOM
 2Pac - 1996 - All Eyez on Me
 50 Cent - 2003 - Get Rich or Die Tryin'
 700 Bliss - 2022 - Nothing to Declare
@@ -97,6 +95,7 @@ Arcade Fire - 2017 - Everything Now - Everything Now
 Arcade Fire - 2021 - Her (Original Score) - Photograph
 Arctic Monkeys - 2013 - AM
 Aretha Franklin - 1967 - I Never Loved a Man the Way I Love You - Respect
+Aretha Franklin - 1968 - Lady Soul - (You Make Me Feel Like) A Natural Woman
 Aretha Franklin - 1972 - Amazing Grace
 Ari Lennox - 2022 - age/sex/location
 Ariana Grande - 2019 - thank u, next
@@ -671,6 +670,7 @@ J.I.D - 2022 - The Forever Story - Can't Punk Me
 Jack White - 2018 - Boarding House Reach
 Jack White - 2024 - No Name
 jaimie branch - 2023 - Fly or Die Fly or Die Fly or Die ((world war))
+Jakey - 2022 - ROMCOM
 James Blake - 2021 - Friends That Break Your Heart
 James Brandon Lewis - 2021 - Jesup Wagon
 James Brown - 1970 - Sex Machine
