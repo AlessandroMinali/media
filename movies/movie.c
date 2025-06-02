@@ -10,6 +10,7 @@ void browse(const char* filename, const char* url) {
   char search[BUFFER_SIZE];
 
   FILE *f = fopen(filename, "rb");
+  if (f == NULL) { printf("File not found."); }
   while(fgets(buf, BUFFER_SIZE, f)) {
     if (buf[0] == '\n') { continue; }
     buf[strcspn(buf, "\n")] = 0;
@@ -36,7 +37,7 @@ int main(void) {
     scanf(" %c", &c);
     if (c == 'n') { continue; }
 
-    browse("./list.txt", sites[i]);
+    browse("./to_get.txt", sites[i]);
   }
 
   return 0;

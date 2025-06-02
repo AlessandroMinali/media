@@ -10,6 +10,7 @@ File.open('songs.txt', 'r') do |file|
 
     # Construct the search URL
     url = "https://www.youtube.com/results?search_query=#{CGI.escape("#{song} #{artist}")}"
+    puts url
 
     # Send an HTTPS request to the search URL
     uri = URI.parse(url)
@@ -18,13 +19,7 @@ File.open('songs.txt', 'r') do |file|
     response = http.get(uri.request_uri)
 
     # Parse the HTML response manually
-    video_id = nil
-    response.body.each_line do |line|
-      if line.include?('watch?v=')
-        video_id = line.split('watch?v=').last.split('"').first
-        break
-      end
-    end
+    video_id = response.body.match(/watch\?v=(\w{11})/)[1]
 
     # Get the first result URL
     if video_id
@@ -33,5 +28,7 @@ File.open('songs.txt', 'r') do |file|
     else
       puts "#{song} - #{artist}: No results found"
     end
+
+    gets.chomp
   end
 end
