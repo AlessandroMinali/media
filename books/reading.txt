@@ -1,36 +1,28 @@
+A Philosophy of Software Design 2e
+Japanese Grammar Guide (pdf)
+
 Wuthering Heights
-
 The Ray Tracer Challenge
-
 The C Programming Language 2e
 Real-Time Rendering 4e
-
 Star Maker
 Lonely Planet Fast Talk Japanese 1e
-
 Moby Dick
 Atlas Shrugged
-
 The Book of CP-System
 Mastering Algorithms with C
 Physically Based Rendering, Fourth Edition
-
 The China Study: The Most Comprehensive Study of Nutrition Ever Conducted And the Startling Implications for Diet, Weight Loss, And Long-term Health
 Performance Analysis and Tuning on Modern CPUs
 Working Effectively with Legacy Code
 Probability and Computing: Randomized Algorithms and Probabilistic Analysis
 C: Interfaces and Implementations
-
 Technopoly: The Surrender of Culture to Technology
-
 Hacker's Delight 2e
 Hacking : The Art of Exploitation 2e
-A Philosophy of Software Design 2e
 The Making of Prince of Persia: Journals 1985-1993
 The 4-Hour Workweek
 Overcoming Gravity: A Systematic Approach to Gymnastics and Bodyweight Strength
-
-
 The Level Design Book
 Nature of Code
 Book of Shaders
