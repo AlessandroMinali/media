@@ -75,6 +75,7 @@
 ## Reading List
 ### CS
 1968 Go To Statement Considered Harmful by Edsger W. Dijkstra
+1971 On the criteria to be used in decomposing systems into modules
 1972 Structured Programming by O.-J. Dahl, E. W. Dijkstra, C. A. R. Hoare
 1974 Structured Programming with goto Statements by Donald E. Knuth
 1983 Literate Programming
