@@ -17,7 +17,6 @@ Performance Analysis and Tuning on Modern CPUs
 Working Effectively with Legacy Code
 Probability and Computing: Randomized Algorithms and Probabilistic Analysis
 C: Interfaces and Implementations
-Technopoly: The Surrender of Culture to Technology
 Hacker's Delight 2e
 Hacking : The Art of Exploitation 2e
 The Making of Prince of Persia: Journals 1985-1993
