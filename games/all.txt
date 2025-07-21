@@ -1,65 +1,5 @@
-Peak
-Mashina
-Judero
-Gentoo Rescue
-The Alters
-Bernband
-Kaizen: A Factory Story
-Felt That: Boxing
-BALL x PIT
-Resident Evil Requiem
-Acts of Blood
-Mixtape
-LEGO® Voyagers
-Onimusha: Way of the Sword
-End of Abyss
-Chronicles: Medieval
-Mortal Shell II
-Anger Foot
-#DRIVE Rally
-Militsioner
-Baby Steps
-Silent Hill f
-Pragmata
-Clair Obscur: Expedition 33
-South of Midnight
-Blue Prince
-Split Fiction
-Frostpunk
-Cruelty Squad
-Psycho Patrol R
-Citizen Sleeper 2: Starward Vector
-Citizen Sleeper
-Eternal Strands
-Sorry We're Closed
-The Exit 8
-MiSide
-The Plucky Squire
-Black Myth: Wukong
-Viscera Cleanup Detail
-Doki Doki Literature Club!
-Before Your Eyes
-Another Crab's Treasure
-Yellow Taxi Goes Vroom
-Pacific Drive
-Humanity
-Dredge
-Thronefall
-Fez
-The Vale: Shadow of the Crown
-Monument Valley 2: Panoramic Edition
-Alba: A Wildlife Adventure
-Monument Valley: Panoramic Edition
-Assemble with Care
-The Good Time Garden
-Thank Goodness You're Here!
-VA-11 HALL-A
-Slitterhead
-Bugaboo Pocket
-Wuchang: Fallen Feathers
-SKALD
-Avowed
 #BLUD
+#DRIVE Rally
 1000xResist
 24 Killers
 7 Billion Humans
@@ -67,21 +7,34 @@ A Monster's Expedition
 About an Elf
 Accounting (Legacy)
 Accounting+
+Acts of Blood
 Agent 64: Spies Never Die
 Airframe Ultra
+Alba: A Wildlife Adventure
 Alien: Isolation
+Anger Foot
 ANIMAL WELL
+Another Crab's Treasure
 ANTONBLAST
 ARMORED CORE VI FIRES OF RUBICON
 Arranger: A Role-Puzzling Adventure
+Assemble with Care
 Astro Bot
+Avowed
+Baby Steps
 Balatro
 Baldur's Gate 3
+BALL x PIT
 Ballad of Antara
+Before Your Eyes
+Bernband
+Black Myth: Wukong
 Black Powder Read Earth
 Bleak Sword DX
+Blue Prince
 Bomb Rush Cyberfunk
 Brave Earth: Prologue
+Bugaboo Pocket
 Cairn
 Carto
 Caves of Qud
@@ -89,11 +42,16 @@ Chants of Sennaar
 Children of a Dead Earth
 Chircory: A Colorful Tale
 Chop Goblins
+Chronicles: Medieval
+Citizen Sleeper
+Citizen Sleeper 2: Starward Vector
+Clair Obscur: Expedition 33
 Clash: Artifacts of Chaos
 COCOON
 Company of Heroes
 Company of Heroes 2
 Cookie Cutter
+Cruelty Squad
 Cryptmaster
 Cult of the Lamb
 Cuphead
@@ -104,9 +62,11 @@ DCS
 Death's Door
 DEATHLOOP
 Diablo IV
+Doki Doki Literature Club!
 Dragon's Dogma
 Dragon's Dogma II
 Dread Delusion
+Dredge
 Dungeons of Hinterberg
 Dwarf Fortress
 Earthblade
@@ -114,11 +74,17 @@ Eastward
 Echo Point Nova
 El Shaddai ASCENSION OF THE METATRON
 En Garde!
+End of Abyss
+Eternal Strands
 Factorio
 FAITH: The Unholy Trinity
+Felt That: Boxing
+Fez
 Flotilla
 Flotilla 2
+Frostpunk
 G String
+Gentoo Rescue
 Ghost of Tsushima
 Ghost of Yōtei
 Ghostrunner 2
@@ -135,6 +101,7 @@ Hi-Fi RUSH
 High On Life
 Hollow Knight
 Human Resource Machine
+Humanity
 HYPER DEMON
 Hyper Light Breaker
 I Am Your Beast
@@ -147,28 +114,38 @@ Iron Lung
 Isles of Sea and Sky
 JETT: The Far Shore
 Judas
+Judero
 Jusant
+Kaizen: A Factory Story
 Kena: Bridge of Spirits
 Kenshi
 Kunitsu-Gami: Path of the Goddess
 Laika: Aged Through Blood
+LEGO® Voyagers
 Lies of P
 Little Inferno
 Lords of the Fallen
 Lorelei and the Laser Eyes
 Lorn's Lure
+Mashina
 Metal Gear Solid Delta: Snake Eater
 Metaphor: ReFantazio
 Miegakure
+Militsioner
 Mina the Hollower
 Mineko's Night Market
 Mini Motorways
 Mirror's Edge
+MiSide
+Mixtape
+Monument Valley 2: Panoramic Edition
+Monument Valley: Panoramic Edition
 moon: Remix RPG Adventure
 Moonbreaker
 Moonscars
-Mouthwashing
+Mortal Shell II
 MOUSE
+Mouthwashing
 MULLET MADJACK
 Neon White
 Nine Sols
@@ -177,22 +154,27 @@ No Place for Bravery
 Nobody Saves the World
 Northern Journey
 Ode to a Moon
+Onimusha: Way of the Sword
 Ooblets
 Open Roads
 Outer Wilds
+Pacific Drive
 Parking Garage Rally Circuit
 Pathologic
 Patrick's Parabox
+Peak
 Peglin
 Pepper Grinder
 Persona 3 Reload
 Phantom Abyss
 Phonopolis
 Pizza Tower
+Pragmata
 Prince of Persia: The Lost Crown
 PRODUCER 2021
 Promise Mascot Agency
 Pseudoregalia
+Psycho Patrol R
 Quake
 Ready or Not
 Receiver 2
@@ -201,6 +183,7 @@ Resident Evil
 Resident Evil 2
 Resident Evil 4
 Resident Evil 7 Biohazard
+Resident Evil Requiem
 Resident Evil Village
 Returnal
 Riven
@@ -216,13 +199,19 @@ Shotgun King: The Final Checkmate
 Sifu
 SIGNALIS
 Silent Hill 2
+Silent Hill f
 Silicon Dreams
+SKALD
 Skate Story
 Skin Deep
 Slay the Princess
 Slay the Spire
+Slitterhead
 Solar Ash
 Somerville
+Sorry We're Closed
+South of Midnight
+Split Fiction
 Squad
 Star of Providence
 Stardew Valley
@@ -240,13 +229,20 @@ Taiji
 Tandis
 Teardown
 Tenjutsu
+Thank Goodness You're Here!
+The Alters
 The Banished Vault
 The Eternal Cyclinder
+The Exit 8
+The Good Time Garden
 The Last Night
 The Pedestrian
+The Plucky Squire
 The Signal From Tölva
 The Silver Case
 The Talos Principle 2
+The Vale: Shadow of the Crown
+Thronefall
 Tiny Glade
 Total War: NAPOLEON
 Total War: SHOGUN 2
@@ -257,9 +253,13 @@ Ultimate General: Civil War
 Ultimate General: Gettysburg
 ULTRAKILL
 Unpacking
+VA-11 HALL-A
 Viewfinder
+Viscera Cleanup Detail
 VTOL VR
 War of Rights
 Where Winds Meet
 Wobbledogs
 WORLD OF HORROR
+Wuchang: Fallen Feathers
+Yellow Taxi Goes Vroom

@@ -1,14 +1,3 @@
-Blur - 1994 - Parklife
-Helado Negro - 2024 - Phasor
-Helado Negro - 2013 - Island Universe Story Two
-Helado Negro - 2014 - Island Universe Story Three
-Helado Negro - 2013 - Invisible Life
-Rico Nasty - 2025 - LETHAL - CRASH
-Rico Nasty - 2022 - Las Ruinas - Messy (feat. Teezo Touchdown & Bktherula)
-Rico Nasty - 2020 - Nightmare Vacation
-Rico Nasty - 2019 - Anger Management
-Rico Nasty - 2018 - Nasty
-Rico Nasty - 2017 - Sugar Trap 2
 2Pac - 1996 - All Eyez on Me
 50 Cent - 2003 - Get Rich or Die Tryin'
 700 Bliss - 2022 - Nothing to Declare
@@ -215,6 +204,7 @@ Bloodz Boi, Claire Rousay, More Eaze - 2022 - a crying poem
 Blu & Exile - 2024 - Love (the) Ominous World
 Blu & Real Bad Man - 2023 - Bad News - Bad News
 Blu - 2021 - The Color Blu(e)
+Blur - 1994 - Parklife
 Bo Diddley - 1959 - Bo Diddley/Go Bo Diddley
 Bob Dylan - 1963 - The Freewheelin' Bob Dylan - Girl from the North Country
 Bob Dylan - 1965 - Highway 61 Revisited - Like a Rolling Stone
@@ -388,12 +378,12 @@ Daphni - 2022 - Cherry
 Darkside - 2013 - Psychic
 Darondo - 2011 - Listen to My Song, the Music City Sessions - Didn't I
 Das Racist - 2010 - Sit Down, Man - Amazing
-Daughters - 2010 - Daughters
 Daughter - 2013 - If You Leave - Youth
 Daughter - 2016 - Not to Disappear - How
 Daughter - 2017 - Music from Before the Storm
 Daughter - 2023 - Stereo Mind Game - Neptune
 Daughter - 2025 - Middle Farm Session
+Daughters - 2010 - Daughters
 David Bowie - 1971 - Hunky Dory - Changes
 David Bowie - 1972 - The Rise and Fall of Ziggy Stardust and the Spiders from Mars - Five Years
 David Bowie - 1977 - Low
@@ -633,7 +623,11 @@ Haru Nemuri - 2020 - Lovetheism
 Have A Nice Life - 2014 - The Unnatural World
 Havok - 2011 - Time Is Up
 Heems - 2012 - Nehru Jackets
+Helado Negro - 2013 - Invisible Life
+Helado Negro - 2013 - Island Universe Story Two
+Helado Negro - 2014 - Island Universe Story Three
 Helado Negro - 2021 - Far In - Best For You and Me
+Helado Negro - 2024 - Phasor
 Herbie Hancock - 1973 - Head Hunters
 Hermit and the Recluse - 2018 - Orpheus vs. the Sirens
 Hiatus Kaiyote - 2021 - Mood Valiant - Chivalry Is Not Dead
@@ -1230,6 +1224,12 @@ Richard Dawson & Circle - 2021 - Henki
 Richard Dawson - 2017 - Peasant
 Richard Dawson - 2019 - 2020
 Richard Dawson - 2022 - The Ruby Cord
+Rico Nasty - 2017 - Sugar Trap 2
+Rico Nasty - 2018 - Nasty
+Rico Nasty - 2019 - Anger Management
+Rico Nasty - 2020 - Nightmare Vacation
+Rico Nasty - 2022 - Las Ruinas - Messy (feat. Teezo Touchdown & Bktherula)
+Rico Nasty - 2025 - LETHAL - CRASH
 Rina Sawayama - 2017 - RINA
 Rina Sawayama - 2020 - Sawayama - XS
 Robert Glasper - 2022 - Black Radio III
