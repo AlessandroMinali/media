@@ -1,11 +1,3 @@
-+ Technopoly: The Surrender of Culture to Technology
-The Time Machine (pdf)
-+ The Lord of the Rings: The Fellowship of the Ring
-+ The Lord of the Rings: Two Towers
-+ The Lord of the Rings: The Return of the King
-+ The Hobbit 
-+ Cinema Speculation
-Ryūko
 + A Clockwork Orange
 + A Modest Proposal (pdf)
 + A Sand County Almanac
@@ -16,6 +8,7 @@ Ryūko
 CAIN (pdf)
 + Cat's Cradle
 + Catcher in the Rye
++ Cinema Speculation
 Computing Machinery and Intelligence (pdf)
 + Crystal Nights (pdf) - creating computational beings(ai) that are smarter than us to help us. exploring the moral issue of intetionally playing out evolution(causing extinction of beings)
 CY_BORG
@@ -62,6 +55,7 @@ No Longer Human
 + Of Mice and Men
 + One Thousand and One Nights - abridged
 + Opening Theory Made Easy: Twenty Strategic Principles to Improve Your Opening Game (pdf)
+Ryūko
 + Saga
 + Sapiens
 + Schild's Ladder
@@ -70,12 +64,17 @@ No Longer Human
 + Snow Crash
 + Stand on Zanibar
 Surely You're Joking, Mr. Feynman!
++ Technopoly: The Surrender of Culture to Technology
 + The Art of War
 The Call of Cthulhu (pdf)
 + The Eyes Have It (pdf)
 The Great Gatsby
 + The Hitchhiker's Guide to the Galaxy
++ The Hobbit 
 The Japanese Negotiator: Subtlety and Strategy Beyond Western Logic
++ The Lord of the Rings: The Fellowship of the Ring
++ The Lord of the Rings: The Return of the King
++ The Lord of the Rings: Two Towers
 + The Machine Stops (pdf)
 - The Magic Mountain
 The Metamorphosis
@@ -90,6 +89,7 @@ The Shadow Out of Time (pdf)
 + The Shockwave Rider
 The Shunned House (pdf)
 The Snow Leopard
+The Time Machine (pdf)
 + The Wind-Up Bird Chronicle
 + They're Made out of Meat (pdf)
 Through the Looking-Glass, and What Alice Found There
