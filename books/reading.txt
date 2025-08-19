@@ -7,7 +7,6 @@ The C Programming Language 2e
 Real-Time Rendering 4e
 Star Maker
 Lonely Planet Fast Talk Japanese 1e
-Moby Dick
 Atlas Shrugged
 The Book of CP-System
 Mastering Algorithms with C
