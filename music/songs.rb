@@ -23,7 +23,7 @@ File.open('songs.txt', 'r') do |file|
 
     # Get the first result URL
     if video_id
-      `open https://www.youtube.com/watch?v=#{video_id}`
+      `open "https://www.youtube.com/watch?v=#{video_id}&autoplay=1"`
       puts "#{song} - #{artist}: #{url}"
     else
       puts "#{song} - #{artist}: No results found"
