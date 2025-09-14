@@ -24,6 +24,10 @@
 ## Books
 - https://annas-archive.org/ - all the books
 
+## Programming
+- https://mr4th.com/blog/methods-in-programming - how to think about problems
+- https://www.youtube.com/watch?v=rX0ItVEVjHc - data-oriented design
+
 ## Optimization
 - https://lemire.me/blog/2024/10/14/table-lookups-are-efficient/ - table lookups are efficient
 - https://lemire.me/blog/2025/04/13/detect-control-characters-quotes-and-backslashes-efficiently-using-swar/ - SIMD Within A Register
@@ -35,6 +39,7 @@
 
 ## General
 - https://www.youtube.com/watch?v=8p02DtmyQhU - A world from a sheet of paper
+- https://www.youtube.com/watch?v=PixPSNRDNMU - dynamicland
 
 ## History
 - 1861 - 1865 American Civil War
@@ -81,7 +86,6 @@
 1983 Literate Programming
 
 ### Optimization
-- https://www.youtube.com/watch?v=rX0ItVEVjHc
 - https://www.youtube.com/watch?v=IroPQ150F6c
 - performance aware
 - https://www.0de5.net/explore
