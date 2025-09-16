@@ -11,7 +11,7 @@ CAIN (pdf)
 + Catcher in the Rye
 + Cinema Speculation
 Computing Machinery and Intelligence (pdf)
-+ Crystal Nights (pdf) - creating computational beings(ai) that are smarter than us to help us. exploring the moral issue of intetionally playing out evolution(causing extinction of beings)
++ Crystal Nights (pdf)
 CY_BORG
 + Darwin among the Machines (pdf)
 + Data-Oriented Design (pdf)
@@ -38,7 +38,7 @@ I Am a Strange Loop
 + Ishmael
 + Kafka On the Shore
 + LANCER Core Book
-+ Learning To Be Me - prefect recreation of human mind upload goes wrong from point of view of the copy. thoughts on solipsism
++ Learning To Be Me
 Lessons in the Fundamentals of Go (pdf)
 Liminal Horror
 Linear Algebra Done Right
