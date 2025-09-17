@@ -13,47 +13,58 @@ Acerola <https://www.youtube.com/@Acerola_t>
 Simon Hørup Eskildsen <https://sirupsen.com/napkin>
 
 DIRECTORS
-Alejandro González Iñárritu
-Alfonso Cuarón
+_american
 Ari Aster
-Bong Joon-ho
-Chan-wook Park
 Christopher Nolan
 Coen brothers
 Damien Chazelle
 Darren Aronofsky
-Denis Villeneuve
-Hayao Miyazaki
-Hirokazu Kore-eda
-Jonathan Glazer
-Jia Zhangke
 Jim Cummings
-Kiyoshi Kurosawa
-Lee Chang-dong
 Martin Scorsese
-Masaaki Yuasa
 Paul Thomas Anderson
-Pedro Almodóvar
 Quentin Tarantino
 Richard Linklater
 Robert Eggers
-Ruben Östlund
-Ryusuke Hamaguchi
 Safdie brothers
 Spike Jonze
-Taika Waititi
-Terrence Malick
-Wang Bing
-Wes Anderson
-Wong Kar-wai
-Yorgos Lanthimos
-Xavier Dolan
-
-Akira Kurosawa
-Andrei Tarkovsky
-Satoshi Kon
 Stanley Kubrick
+Terrence Malick
+Wes Anderson
+_canadian
+Denis Villeneuve
+Xavier Dolan
+_chinese
+Jia Zhangke
+Wang Bing
+Wong Kar-wai
+_english
+Jonathan Glazer
+_greek
+Yorgos Lanthimos
+_japanese
+Akira Kurosawa
+Hayao Miyazaki
+Hirokazu Kore-eda
+Kiyoshi Kurosawa
+Masaaki Yuasa
+Ryusuke Hamaguchi
+Satoshi Kon
 Yasujirō Ozu
+_korean
+Bong Joon-ho
+Chan-wook Park
+Lee Chang-dong
+_mexican
+Alejandro González Iñárritu
+Alfonso Cuarón
+_russian
+Andrei Tarkovsky
+_spanish
+Pedro Almodóvar
+_swedish
+Ruben Östlund
+_kiwi
+Taika Waititi
 
 AUTHORS
 Douglas Hofstadter
