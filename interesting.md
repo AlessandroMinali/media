@@ -27,6 +27,7 @@
 ## Programming
 - https://mr4th.com/blog/methods-in-programming - how to think about problems
 - https://www.youtube.com/watch?v=rX0ItVEVjHc - data-oriented design
+- https://igoro.com/archive/gallery-of-processor-cache-effects/ - Gallery of Processor Cache Effects
 
 ## Optimization
 - https://lemire.me/blog/2024/10/14/table-lookups-are-efficient/ - table lookups are efficient
