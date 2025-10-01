@@ -1,9 +1,10 @@
+The Making of Prince of Persia: Journals 1985-1993
+The C Programming Language 2e
 A Philosophy of Software Design 2e
 Japanese Grammar Guide (pdf)
 
 Wuthering Heights
 The Ray Tracer Challenge
-The C Programming Language 2e
 Real-Time Rendering 4e
 Star Maker
 Lonely Planet Fast Talk Japanese 1e
@@ -17,10 +18,9 @@ Working Effectively with Legacy Code
 Probability and Computing: Randomized Algorithms and Probabilistic Analysis
 C: Interfaces and Implementations
 Hacker's Delight 2e
-Hacking : The Art of Exploitation 2e
-The Making of Prince of Persia: Journals 1985-1993
+Hacking: The Art of Exploitation 2e
 The 4-Hour Workweek
 Overcoming Gravity: A Systematic Approach to Gymnastics and Bodyweight Strength
-The Level Design Book
+The Level Design Book (online)
 Nature of Code
-Book of Shaders
+Book of Shaders (online)
