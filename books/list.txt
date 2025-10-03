@@ -1,3 +1,5 @@
+Dragon Ball
+Fullmetal Alchemist
 Middlemarch
 Demons (Dostoevsky)
 The Idiot
@@ -102,7 +104,7 @@ Game Engine Black Book: DOOM
 Game Engine Black Book: Wolfenstein 3D
 Gardens of the Moon
 Genghis Khan and the Making of the Modern World
-Ghost in the shell
+Ghost in the Shell
 Giles Corey
 Girl with Curious Hair
 God Emperor of Dune
