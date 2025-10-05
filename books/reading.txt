@@ -1,4 +1,3 @@
-The Making of Prince of Persia: Journals 1985-1993
 The C Programming Language 2e
 A Philosophy of Software Design 2e
 Japanese Grammar Guide (pdf)
