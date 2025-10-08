@@ -1,13 +1,14 @@
+Wuthering Heights
 The C Programming Language 2e
 A Philosophy of Software Design 2e
+In Cold Blood
+Atlas Shrugged
+Star Maker
 Japanese Grammar Guide (pdf)
 
-Wuthering Heights
 The Ray Tracer Challenge
 Real-Time Rendering 4e
-Star Maker
 Lonely Planet Fast Talk Japanese 1e
-Atlas Shrugged
 The Book of CP-System
 Mastering Algorithms with C
 Physically Based Rendering, Fourth Edition
