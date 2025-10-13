@@ -1,5 +1,6 @@
 Wuthering Heights
 In Cold Blood
+One Hundred Years of Solitude
 Atlas Shrugged
 The C Programming Language 2e
 A Philosophy of Software Design 2e
