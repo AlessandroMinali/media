@@ -234,8 +234,6 @@ Surreal Numbers
 Systemantics
 t zero
 Teaching as a Subversive Activity
-Technopoly: The Surrender of Culture to Technology
-Tender is the Flesh
 Termination Shock
 Termush
 Terra Nostra
@@ -324,7 +322,6 @@ The Nose (https://www.gutenberg.org/files/36238/36238-h/36238-h.htm)
 The One-Straw Revolution: An Introduction to Natural Farming
 The Origin of Consciousness in the Breakdown of the Bicameral Mind
 The Pale King
-The Passenger
 The Politics of Heroin
 The Pragmatic Programmer
 The Princess and the Pea

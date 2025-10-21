@@ -6,6 +6,8 @@ The C Programming Language 2e
 A Philosophy of Software Design 2e
 Star Maker
 Japanese Grammar Guide (pdf)
+The Passenger
+Tender is the Flesh
 
 The Ray Tracer Challenge
 Real-Time Rendering 4e
