@@ -1,3 +1,4 @@
+The Callisto Protocol
 Silk Song
 Soma
 The Rogue Prince of Persia
@@ -97,6 +98,7 @@ Ghostwire: Tokyo
 Gloomwood
 Grand Theft Auto V
 Hades
+Hades II
 Half-Life: Alyx
 Halo Infinite
 Happy Game
