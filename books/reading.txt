@@ -1,5 +1,6 @@
-In Cold Blood
 One Hundred Years of Solitude
+Vibe Coding: Building Production-Grade Software With GenAI, Chat, Agents, and Beyond
+In Cold Blood
 Atlas Shrugged
 The C Programming Language 2e
 A Philosophy of Software Design 2e
