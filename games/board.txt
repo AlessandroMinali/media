@@ -1,17 +1,23 @@
-- Arcs | Arcs: Leaders & Lore | Arcs: The Blighted Reach
-Castle Panic
-Catan
-Catan Dice Game
-Coup
-Exploding Kittens
-Pandemic
-- Root
-Scout
-Sky Team
-Splendor
-The Crew: Mission Deep Sea
-- The War of the Ring: Second Edition
+Arcs | Arcs: Leaders & Lore | Arcs: The Blighted Reach | 4
+Castle Panic | 6
+Catan | 4
+Catan Dice Game | 4
+Coup | 6
+Exploding Kittens | 5
+- Magical Athlete | 6
+- Next War: Taiwan 2nd Edition | 2
+Pandemic | 4
+Root | 4
+Scout | 5
+Sky Team | 2
+Splendor | 4
+The Crew: Mission Deep Sea | 5
+- The War of the Ring: Second Edition | 2
 
-Horse and Musket
-Flip 7
-Brass: Birmingham
+= = =
+~Bloodborne: The Card Game | 5
+~Brass: Birmingham | 4
+Commands & Colors: Napoleonics | 2
+Flip 7 | 6
+Pax Pamir: Second Edition | 5
+Root: The Exiles and Partisans Deck | 4
