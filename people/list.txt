@@ -67,6 +67,8 @@ _swedish
 Ruben Östlund
 _kiwi
 Taika Waititi
+_ukrainian
+Mstyslav Chernov
 
 AUTHORS
 Douglas Hofstadter
