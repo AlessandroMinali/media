@@ -1,10 +1,3 @@
-Valor Mortis
-The Callisto Protocol
-Silk Song
-Soma
-The Rogue Prince of Persia
-Deltarune
-Nubby's Number Factory
 #BLUD
 #DRIVE Rally
 1000xResist
@@ -57,7 +50,10 @@ Clash: Artifacts of Chaos
 COCOON
 Company of Heroes
 Company of Heroes 2
+Consume Me
+Control
 Cookie Cutter
+Coven of the Chicken Foot
 Cruelty Squad
 Cryptmaster
 Cult of the Lamb
@@ -68,7 +64,9 @@ DAVE THE DIVER
 DCS
 Death's Door
 DEATHLOOP
+Deltarune
 Diablo IV
+Dispatch
 Doki Doki Literature Club!
 Dragon's Dogma
 Dragon's Dogma II
@@ -161,10 +159,15 @@ No Man's Sky
 No Place for Bravery
 Nobody Saves the World
 Northern Journey
+Nubby's Number Factory
 Ode to a Moon
 Onimusha: Way of the Sword
+Ontos
 Ooblets
 Open Roads
+Orbitals
+Order of the Sinking Star
+Out of Words
 Outer Wilds
 Pacific Drive
 Parking Garage Rally Circuit
@@ -175,6 +178,7 @@ Peglin
 Pepper Grinder
 Persona 3 Reload
 Phantom Abyss
+Phantom Blade Zero
 Phonopolis
 Pizza Tower
 Pragmata
@@ -191,6 +195,7 @@ Resident Evil
 Resident Evil 2
 Resident Evil 4
 Resident Evil 7 Biohazard
+Resident Evil Requiem
 Resident Evil Requiem
 Resident Evil Village
 Returnal
@@ -209,6 +214,7 @@ SIGNALIS
 Silent Hill 2
 Silent Hill f
 Silicon Dreams
+Silk Song
 SKALD
 Skate Story
 Skin Deep
@@ -216,6 +222,7 @@ Slay the Princess
 Slay the Spire
 Slitterhead
 Solar Ash
+Soma
 Somerville
 Sorry We're Closed
 South of Midnight
@@ -240,12 +247,14 @@ Tenjutsu
 Thank Goodness You're Here!
 The Alters
 The Banished Vault
+The Callisto Protocol
 The Eternal Cyclinder
 The Exit 8
 The Good Time Garden
 The Last Night
 The Pedestrian
 The Plucky Squire
+The Rogue Prince of Persia
 The Signal From Tölva
 The Silver Case
 The Talos Principle 2
@@ -262,6 +271,7 @@ Ultimate General: Gettysburg
 ULTRAKILL
 Unpacking
 VA-11 HALL-A
+Valor Mortis
 Viewfinder
 Viscera Cleanup Detail
 VTOL VR
