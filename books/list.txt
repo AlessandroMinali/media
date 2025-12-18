@@ -72,7 +72,6 @@ Code of Hammurabi
 Combining
 Computer Architecture: A Quantitative Approach
 Consciousness Explained
-Consider Phlebas
 Consider the Lobster
 Creativity: A Short and Cheerful Guide
 Crime and Punishment
@@ -385,5 +384,4 @@ West with the Night
 What Every Programmer Should Know About Memory
 Where the Crawdads Sing
 Why Don't Students Like School?
-Without Conscience: The Disturbing World of the Psychopaths Among Us
 xv6 - https://pdos.csail.mit.edu/6.1810/2023/xv6.html
