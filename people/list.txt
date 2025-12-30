@@ -15,7 +15,6 @@ Simon Hørup Eskildsen <https://sirupsen.com/napkin>
 DIRECTORS
 _american
 Ari Aster
-Christopher Nolan
 Coen brothers
 Damien Chazelle
 Darren Aronofsky
@@ -38,6 +37,8 @@ Jia Zhangke
 Wang Bing
 Wong Kar-wai
 _english
+Alex Garland
+Christopher Nolan
 Jonathan Glazer
 _greek
 Yorgos Lanthimos
