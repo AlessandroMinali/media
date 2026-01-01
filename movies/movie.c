@@ -38,7 +38,7 @@ int main(void) {
     if (c == 'n') { continue; }
 
     browse("./to_get.txt", sites[i]);
-    browse("./to_watch.txt", sites[i]);
+    // browse("./to_watch.txt", sites[i]);
   }
 
   return 0;
