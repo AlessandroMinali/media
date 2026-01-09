@@ -1273,6 +1273,7 @@ Rico Nasty - 2025 - LETHAL - CRASH
 Rina Sawayama - 2017 - RINA
 Rina Sawayama - 2020 - Sawayama - XS
 Robert Glasper - 2022 - Black Radio III
+Roberta Flack - 1969 - First Take
 Robyn - 2010 - Body Talk
 Rod Stewart - 1971 - Every Picture Tells a Story
 Rodrigo Amarante - 2021 - Drama
@@ -1655,7 +1656,7 @@ Vampire Weekend - 2008 - Vampire Weekend - A-Punk
 Vampire Weekend - 2010 - Contra - White Sky
 Vampire Weekend - 2013 - Modern Vampires of the City
 Vampire Weekend - 2019 - Father of the Bride
-Vampire Weekend - 2024 - Only God Was Above Us
+Vampire Weekend - 2024 - Only God Was Above Us - Classical
 Van Halen - 1978 - Van Halen
 Van Morrison - 1968 - Astral Weeks
 Various artists - 1972 - Nuggets: Original Artyfacts from the First Psychedelic Era, 1965-1968
