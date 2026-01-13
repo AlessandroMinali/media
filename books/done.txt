@@ -1,3 +1,4 @@
+Permutation City
 + Gods by Vladimir Nabokov (pdf)
 Vibe Coding: Building Production-Grade Software With GenAI, Chat, Agents, and Beyond
 The Passenger
