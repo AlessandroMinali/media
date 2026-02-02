@@ -3,13 +3,7 @@ Keeper # 2025
 The Monkey # 2025
 Rosemead # 2025
 Whisky # 2014
-The Housemaid # 1960
-M # 1931
-Marketa Lazarová # 1967
-The Cremator # 1969
 Atanarjuat: The Fast Runner # 2001
-Mon oncle Antoine # 1971
-Merry Christmas, Mr. Lawrence # 1983
 Bleak Night # 2010
 Digger # 2026
 The Chair Company # 2025
@@ -24,21 +18,18 @@ Defending Your life # 1991
 Barry Lyndon
 Husbands # 1970
 Carnal Knowledge # 1971
-Berlin Alexanderplatz
 The Last Temptation of Christ # 1988
 Crash # 1996
 Hedwig and the Angry Inch # 2001
 No Country for Old Men
 Barking Dogs Never Bite # 2000
 The Valley # 2027
-Dog Day Afternoon # 1975
 Renoir # 2025
 American Graffiti # 1973
 Fritz the Cat # 1972
 Tootsie # 1982
 The Awful Truth # 1937
 A Matter of Life and Death # 1946
-Drugstore Cowboy # 1989
 Band of Outsiders # 1964
 Happy Gilmore # 1996
 Downhill Racer # 1969
@@ -103,7 +94,6 @@ Chocobar # upcoming
 Close Encounters of the Third Kind # 1977
 Crime in the Streets # 1956
 Cry of the Banshee # 1970
-Dazed and Confused # 1993
 Death Wish # 1974
 Dillinger # 1973
 Dog of God # 2025
@@ -154,7 +144,6 @@ Master and Commander: The Far Side of the World
 Matewan # 1987
 Merrily We Roll Along # upcoming
 Mr. Turner # 2014
-My Own Private Idaho # 1991
 New Wave # upcoming
 Nirvanna the Band the Show the Movie
 Nouvelle Vague # 2025
