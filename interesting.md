@@ -5,6 +5,7 @@
 ## Philosophy
 - https://en.wikipedia.org/wiki/Politician's_syllogism - something must be done, so we must do anything
 - https://en.wikipedia.org/wiki/Solipsism - only one mind exists
+- On Being Sane in Insane Place - can you diagnose a person as being sane?
 
 ## Agriculture
 - https://en.wikipedia.org/wiki/Green_Revolution - third agricultural revolution
@@ -71,7 +72,8 @@
 - 2001 - 2024 War in Afghanistan
 - 2003 - 2011 Iraqi War
   - 2008 – 2009 recession
-- 2204+ Gaza war
+- 2024 Gaza war
+- 2025 kidnapping of Venezulean President
 ===
 
 ## Historical
