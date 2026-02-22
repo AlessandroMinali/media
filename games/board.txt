@@ -1,14 +1,18 @@
-Arcs | Arcs: Leaders & Lore | Arcs: The Blighted Reach | 4
+Arcs | 4
+  Arcs: Leaders & Lore | 4
+  Arcs: The Blighted Reach | 4
 Castle Panic | 6
 Catan | 4
 Catan Dice Game | 4
 Coup | 6
 Exploding Kittens | 5
+Gloomhaven: Jaws of the Lion | 4
 - Magical Athlete | 6
 - Next War: Taiwan 2nd Edition | 2
 Pandemic | 4
 Puerto Rico 1897 | 5
-Root + Root: The Exiles and Partisans | 4
+Root | 4
+  Root: The Exiles and Partisans | 4
 Scout | 5
 Sky Team | 2
 Splendor | 4
@@ -17,7 +21,8 @@ The Crew: Mission Deep Sea | 5
 WWII Commander: Volume Two Market-Garden | 2
 
 = = =
+
 Commands & Colors: Napoleonics | 2
 Flip 7 | 6
-Pax Pamir: Second Edition | 5
+? Pax Pamir: Second Edition | 5
 Napoleon's Triumph | 2
