@@ -6,6 +6,7 @@
 - https://en.wikipedia.org/wiki/Politician's_syllogism - something must be done, so we must do anything
 - https://en.wikipedia.org/wiki/Solipsism - only one mind exists
 - On Being Sane in Insane Place - can you diagnose a person as being sane?
+- https://frc.ri.cmu.edu/~hpm/project.archive/general.articles/1998/SimConEx.98.html - Simulation, Consciousness, Existence
 
 ## Agriculture
 - https://en.wikipedia.org/wiki/Green_Revolution - third agricultural revolution
