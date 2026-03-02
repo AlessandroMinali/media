@@ -73,8 +73,10 @@
 - 2001 - 2024 War in Afghanistan
 - 2003 - 2011 Iraqi War
   - 2008 – 2009 recession
+- 2011 - 2019 Libya Intervention/Bombings NATO/US
 - 2024 Gaza war
-- 2025 kidnapping of Venezulean President
+- 2025 kidnapping of Venezulean President, blockade and killing civilian targets
+- 2025 Israeli attacks on Iran, major US buildup
 ===
 
 ## Historical
