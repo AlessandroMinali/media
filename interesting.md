@@ -54,7 +54,7 @@
 - 1938 - 1945 WW2
 - 1950 – 1953 Korean War
   - decline of American manufacture (Europe/Japan(1954) recovers from WW2)
-- 1965 - 1973 Vietnam War(USA)
+- 1965 - 1973 Vietnam War
 - 1967 Six-Day War
   - 1971 termination of Bretton Woods
   - 1973 oil crisis
@@ -76,6 +76,7 @@
 - 2011 - 2019 Libya Intervention/Bombings NATO/US
 - 2024 Gaza war
 - 2025 kidnapping of Venezulean President, blockade and killing civilian targets
+  - 2025 AI Bubble
 - 2025 Israeli attacks on Iran, major US buildup
 ===
 
