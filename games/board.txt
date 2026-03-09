@@ -1,3 +1,8 @@
+2026
+2 Puerto Rico
+
+
+
 Arcs | 4
   Arcs: Leaders & Lore | 4
   Arcs: The Blighted Reach | 4
@@ -39,3 +44,6 @@ Spyfall
 Hollywood
 + Chaos in the Old World
 + Heat: Pedal to the Medal
++ Eclipse
++ Oath
+Inside Job
