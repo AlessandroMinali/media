@@ -1,7 +1,11 @@
 2026
 2 Puerto Rico
+1 Catan
+1 Coup
+1 Splendor
+1 War of the Ring
 
-
+HAVE
 
 Arcs | 4
   Arcs: Leaders & Lore | 4
@@ -26,6 +30,7 @@ The Crew: Mission Deep Sea | 5
 WWII Commander: Volume Two Market-Garden | 2
 
 = = =
+GET
 
 Commands & Colors: Napoleonics | 2
 Flip 7 | 6
@@ -33,6 +38,8 @@ Flip 7 | 6
 Napoleon's Triumph | 2
 
 = = =
+
+PLAYED
 
 Concordia
 Endeavour Deep
