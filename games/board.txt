@@ -1,9 +1,11 @@
 2026
-2 Puerto Rico
-1 Catan
-1 Coup
-1 Splendor
-1 War of the Ring
+Puerto Rico
+Catan
+Coup
+Splendor
+War of the Ring
+Arcs
+Wrymspan
 
 HAVE
 
