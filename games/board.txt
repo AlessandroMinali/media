@@ -6,6 +6,7 @@ Splendor
 War of the Ring
 Arcs
 Wrymspan
+Pandemi
 
 HAVE
 
