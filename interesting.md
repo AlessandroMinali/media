@@ -43,6 +43,7 @@
 ## General
 - https://www.youtube.com/watch?v=8p02DtmyQhU - A world from a sheet of paper
 - https://www.youtube.com/watch?v=PixPSNRDNMU - dynamicland
+- https://paulsellers.com/2026/03/defending-convention/ - Defending Convention & Progress
 
 ## History
 - 1861 - 1865 American Civil War
