@@ -9,6 +9,7 @@ Freelancer
 The Operative: No One Lives Forever
 Prey (2006)
 Rise of the Ronin
+genAtlas
 
 _SWITCH_
 Captain Toad: Treasure Tracker
@@ -23,6 +24,9 @@ _SWITCH 2_
 Mario Kart World
 Donkey Kong Bananza
 The Duskbloods
+Yoshi and the Mysterious Book
+Orbitals
+Splatoon Raiders
 
 _PS5_
 Astro Bot
@@ -34,3 +38,4 @@ Death Stranding 2: On the Beach
 Amanita Design
 From Software
 Nintendo - all 3d marios + all zeldas + donkey kong
+Castlevania Symphony of the Shadows
