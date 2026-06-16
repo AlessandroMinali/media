@@ -17,14 +17,12 @@ Accounting+
 Acts of Blood
 Agent 64: Spies Never Die
 Airframe Ultra
-Alien: Isolation
 Anger Foot
 ANIMAL WELL
 Another Crab's Treasure
 ANTONBLAST
 ARMORED CORE VI FIRES OF RUBICON
 Arranger: A Role-Puzzling Adventure
-Assemble with Care
 Astro Bot
 Avowed
 Baby Steps
@@ -81,7 +79,6 @@ Eastward
 Echo Point Nova
 El Shaddai ASCENSION OF THE METATRON
 En Garde!
-End of Abyss
 Eternal Strands
 Factorio
 FAITH: The Unholy Trinity
@@ -99,7 +96,6 @@ Grand Theft Auto V
 Hades
 Hades II
 Half-Life: Alyx
-Halo Infinite
 Hardspace: Shipbreaker
 Hell Let Loose
 Hi-Fi RUSH
@@ -128,8 +124,6 @@ Kunitsu-Gami: Path of the Goddess
 Laika: Aged Through Blood
 LEGO® Voyagers
 Lies of P
-Little Inferno
-Lords of the Fallen
 Lorelei and the Laser Eyes
 Lorn's Lure
 Mashina
@@ -140,7 +134,6 @@ Militsioner
 Mina the Hollower
 Mineko's Night Market
 Mini Motorways
-Mirror's Edge
 MiSide
 Mixtape
 Monument Valley 2: Panoramic Edition
@@ -166,7 +159,6 @@ Ooblets
 Open Roads
 Orbitals
 Order of the Sinking Star
-Out of Words
 Outer Wilds
 Pacific Drive
 Parking Garage Rally Circuit
@@ -198,10 +190,8 @@ Resident Evil Requiem
 Resident Evil Village
 Returnal
 Riven
-RoboCop: Rogue City
 Rogue Legacy 2
 ROUTINE
-Saros
 SCHiM
 Screenbound
 SEASON: A Letter to the future
@@ -217,10 +207,8 @@ SKALD
 Skate Story
 Skin Deep
 Slay the Princess
-Slay the Spire
 Slitterhead
 Solar Ash
-Soma
 Somerville
 Sorry We're Closed
 South of Midnight
@@ -246,7 +234,6 @@ Thank Goodness You're Here!
 The Alters
 The Banished Vault
 The Callisto Protocol
-The Eternal Cyclinder
 The Exit 8
 The Good Time Garden
 The Last Night
@@ -274,7 +261,6 @@ Viewfinder
 Viscera Cleanup Detail
 VTOL VR
 War of Rights
-Where Winds Meet
 Wobbledogs
 WORLD OF HORROR
 Wuchang: Fallen Feathers

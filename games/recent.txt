@@ -20,3 +20,6 @@ Ghostrunner 2
 Alba
 Control
 Clash
+RoboCop: Rogue City
+Alien: Isolation
+Pike and Shot: Campaigns
