@@ -23,6 +23,7 @@
 - "My grandmother died last year. I wrote a poem to be included in the funeral program that was given to all the attendees. After the service, someone came up to me and complimented me on the poem, then immediately followed up by asking if I wrote it myself or used AI. I'm still struggling to find a way to articulate how that interaction made me feel. It's like everyone signed a contract to forfeit our humanity and I somehow missed the memo."
 - https://en.wikipedia.org/wiki/Universal_approximation_theorem - deep learning can immitate any function within a given error(not bounded)
 - https://www.youtube.com/watch?v=VRjgNgJms3Q - ChatGPT made me delusional
+- https://www.frank.computer/blog/2025/06/baby-blender.html
 
 ## Books
 - https://annas-archive.org/ - all the books
