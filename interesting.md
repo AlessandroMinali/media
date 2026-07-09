@@ -7,6 +7,7 @@
 - https://en.wikipedia.org/wiki/Solipsism - only one mind exists
 - On Being Sane in Insane Place - can you diagnose a person as being sane?
 - https://frc.ri.cmu.edu/~hpm/project.archive/general.articles/1998/SimConEx.98.html - Simulation, Consciousness, Existence
+- https://theanarchistlibrary.org/library/albert-camus-reflections-on-the-guillotine - Camus against Capital Punishment
 
 ## Agriculture
 - https://en.wikipedia.org/wiki/Green_Revolution - third agricultural revolution
