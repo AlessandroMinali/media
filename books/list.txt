@@ -1,3 +1,4 @@
+Build a Large Language Model (From Scratch)
 Last Evenings on Earth
 Dumb Luck
 The First Circle
@@ -41,7 +42,6 @@ A Brief History of Time
 A Canticle for Leibowitz
 A Deepness in the Sky
 A Gentlement in Moscow
-A History of Canada in Ten Maps: Epic Stories of Charting a Mysterious Land
 A Humument: A treated Victorian novel
 A Kayak Full of Ghosts
 A Mathematician's Lament
