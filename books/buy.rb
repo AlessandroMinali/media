@@ -1,4 +1,7 @@
+require "uri"
+
 IO.readlines("list.txt").sample(3).each do |book|
-  `open https://www.indigo.ca/en-ca/search?q=#{book.gsub(" ", '+')}`
+  query = URI.encode_uri_component(book.strip)
+  `open https://www.indigo.ca/search?q=#{query}`
   `open https://www.amazon.ca/s?k=#{book.gsub(" ", '+')}`
 end
