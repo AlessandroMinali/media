@@ -17,7 +17,7 @@ void browse(const char* filename, const char* url) {
 
     snprintf(search, BUFFER_SIZE, "open \"%s%s\"", url, buf);
     system(search);
-    usleep(500000);
+    usleep(1000000);
   }
   fclose(f);
 }
