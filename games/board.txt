@@ -6,7 +6,9 @@ Splendor
 War of the Ring
 Arcs
 Wrymspan
-Pandemi
+Pandemic
+Root
+Arcs: The Blighted Reach
 
 HAVE
 
@@ -16,11 +18,13 @@ Arcs | 4
 Castle Panic | 6
 Catan | 4
 Catan Dice Game | 4
+Compress | 4
 Coup | 6
+Eternal Decks | 4
 Exploding Kittens | 5
 Gloomhaven: Jaws of the Lion | 4
-- Magical Athlete | 6
-- Next War: Taiwan 2nd Edition | 2
+Magical Athlete | 6
+Next War: Taiwan 2nd Edition | 2
 Pandemic | 4
 Puerto Rico 1897 | 5
 Root | 4
@@ -29,31 +33,9 @@ Scout | 5
 Sky Team | 2
 Splendor | 4
 The Crew: Mission Deep Sea | 5
-- The War of the Ring: Second Edition | 2
+The War of the Ring: Second Edition | 2
 WWII Commander: Volume Two Market-Garden | 2
 
-= = =
-GET
+WANT
 
-Commands & Colors: Napoleonics | 2
-Flip 7 | 6
-? Pax Pamir: Second Edition | 5
-Napoleon's Triumph | 2
-
-= = =
-
-PLAYED
-
-Concordia
-Endeavour Deep
-Power Grid
-Ethos
-Slay the Spire
-Blood on the Watchtower
-Spyfall
-Hollywood
-+ Chaos in the Old World
-+ Heat: Pedal to the Medal
-+ Eclipse
-+ Oath
-Inside Job
+Tricktakers
