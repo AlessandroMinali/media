@@ -4,7 +4,7 @@ Naked
 Mouchette
 Farewell My Concubine
 Xiao Shan Going Home
-L’avventura
+L'avventura
 Mirror
 After Life
 _2025_dec
@@ -63,7 +63,7 @@ Dog Day Afternoon (1975)
 Lost in Translation (2003)
 Face/Off (1997)
 Tokyo Godfathers (2003)
-What’s Up, Doc? (1972)
+What's Up, Doc? (1972)
 Dazed and Confused (1993)
 Vanya on 42nd Street (1994)
 Lost in America (1985)
@@ -101,7 +101,7 @@ The Dark Glow of the Mountains (1985)
 Fata Morgana (1971)
 Land of Silence and Darkness (1971)
 Lessons of Darkness (1992)
-Huie’s Sermon (1981)
+Huie's Sermon (1981)
 The Great Ecstasy of Woodcarver Steiner (1974)
 Little Dieter Needs to Fly (1997)
 Echoes from a Somber Empire (1990)
@@ -128,7 +128,7 @@ Woyzeck (1979)
 _2026_may_
 Castration Movie Anthology i. Traps (2024)
 Clerks (1994)
-Before the Devil Knows You’re Dead (2007)
+Before the Devil Knows You're Dead (2007)
 My Blueberry Nights (2007)
 The Grandmaster (2013)
 The Thing
@@ -144,7 +144,7 @@ Godland
 Long Day's Journey into Night (2018)
 The Cremator (1969)
 Gunbuster: The Movie (2006)
-An Actor’s Revenge (1963)
+An Actor's Revenge (1963)
 _2026_jun_
 Joan of Arc (2025)
 The Darjeeling Limited (2007)
@@ -172,11 +172,11 @@ _2026_aug_
 Close Encounters of the Third Kind (1977)
 Marie Antoinette (2006)
 Repo Man (1984)
-Bill & Ted’s Excellent Adventure (1989)
+Bill & Ted's Excellent Adventure (1989)
 The Last Temptation of Christ (1988)
 American Dharma (2018)
 Goldfinger (1964)
-We’re All Going to the World’s Fair (2021)
+We're All Going to the World's Fair (2021)
 Carrie (1976)
 Bad Press (2023)
 Walker (1987)
@@ -190,3 +190,6 @@ The Thin Blue Line (1988)
 Madadayo (1993)
 Flowers of Shanghai (1998)
 Himiko (1974)
+Zabriskie Point (1970)
+Re-Wind (1988)
+The New Centurions (1972)

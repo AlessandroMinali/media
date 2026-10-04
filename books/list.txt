@@ -79,7 +79,7 @@ Both Flesh and Not
 Brainstorms: Philosophical Essays on Mind and Psychology
 Brief Interviews with Hideous Men
 Bullshit Jobs: A Theory
-Butcher’s Crossing
+Butcher's Crossing
 Calculus, Vol. 1: One-Variable Calculus, with an Introduction to Linear Algebra
 Candide
 Catch-22
@@ -106,8 +106,6 @@ Do Androids Dream of Electric Sheep?
 Don't Sleep, There Are Snakes: Life and Language in the Amazonian Jungle
 Dracula
 Duck, Death and the Tulip
-Dune Messiah
-East of Eden
 Ecce Homo
 Einstein's Dreams
 Elbow Room
@@ -124,7 +122,7 @@ Ficciones
 Finite and Infinite Games
 FlatLand
 Flowers for Algernon
-Foucault’s Pendulum
+Foucault's Pendulum
 Fourteen: A Daughter's Memoir of Adventure, Sailing, and Survival
 Frankenstein; or, The Modern Prometheus
 Game Engine Architecture, Third Edition
@@ -153,7 +151,7 @@ How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse 
 How to Be a Woman
 How to Blow Up a Pipeline
 How to Lie with Statistics
-How We’d Talk if the English had Won in 1066
+How We'd Talk if the English had Won in 1066
 Hydriotaphia, Urn Burial, or, a Discourse of the Sepulchral Urns lately found in Norfolk
 HyperComplex Numbers: An Elementary Introduction to Algebras
 I Hope I Shall Arrive Soon
@@ -372,7 +370,7 @@ Thinking, Fast and Slow
 Tlön, Uqbar, Orbis Tertius
 To Kill a Mockingbird
 Tomie
-Tonight It’s a World we Burn
+Tonight It's a World we Burn
 Travels In Hyperreality
 Trees: An Anthology of Writings and Paintings
 Ubik
